@@ -107,10 +107,11 @@ The goal of the waste calculator is to understand the amount of waste generated 
 
 \begin{tablenotes}
 \item [1] Assumes 5lbs of waste is produced daily in each unit.
-\item [2] Primary method of trash collection, via chute. Assumes a 75\% capture rate.
-\item [3] Secondary method of trash collection. Assumes a 25\% capture rate
-\item [4] Capture rates of recyclables at NYCHA portfolio-wide: 5\% of MGP, 25\% of Cardboard, and 10\% of Paper. 
-\item[5] Organics, e-waste, and textiles have a capture rate of 0\%.
+\item [2] Includes miscellaneous garbage as well as uncaptured recyclables, organics, e-waste, and textiles.
+\item [3] Primary method of trash collection, via chute. Assumes a 75\% capture rate.
+\item [4] Secondary method of trash collection. Assumes a 25\% capture rate
+\item [5] Capture rates of recyclables at NYCHA portfolio-wide: 30\% of MGP, 50\% of Cardboard, and 20\% of Paper. 
+%\item[5] Organics, e-waste, and textiles have a capture rate of 0\%.
 \end{tablenotes}
 \end{threeparttable}
 \end{table}
@@ -170,7 +171,11 @@ truck and driven to the waste yards at either Sumner or 303 Vernon.
 \textcolor{ccorange}{\section{Capital Improvements}}
 
 \begin{table}[H]
-\begin{tabular}{r|l|l|l|}
+
+\input{073_capital_projects}
+
+\begin{comment}
+\begin{tabularx}{\textwidth}{r|X|X|X|}
 \cline{2-4}
 \multicolumn{1}{l|}{}                                                        & \cellcolor{ccorange}{\color[HTML]{FFFFFF} 303 Vernon Avenue} & \cellcolor{ccorange}{\color[HTML]{FFFFFF} Bedford-Stuyvesant Rehab} & \cellcolor{ccorange}{\color[HTML]{FFFFFF} Sumner Houses} \\ \hline
 \multicolumn{1}{|V{.2\columnwidth}|}{\cellcolor{ccorangelight}In-Sink Food Grinders}          &                                                                  &                                                                         &                                                              \\
@@ -185,7 +190,8 @@ truck and driven to the waste yards at either Sumner or 303 Vernon.
 \multicolumn{1}{|V{.2\columnwidth}|}{\cellcolor{ccorangelight}Waste Yard Redesign}            &                                                                  &                                                                         &                                                              \\
 \multicolumn{1}{|r|}{\cellcolor{ccorangelight}\textit{Status}}                & Estimate                                                         & Estimate                                                                & Estimate                                                     \\
 \multicolumn{1}{|r|}{\cellcolor{ccorangelight}}                               &                                                                  &                                                                         &                                                              \\ \hline
-\end{tabular}
+\end{tabularx}
+\end{comment}
 \end{table}
 \pagebreak
 
