@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  13 JUL 2020 16:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  14 JUL 2020 14:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1224,7 +1224,7 @@ Package biblatex Info: ... file 'german.lbx' found.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/lbx/german.lbx
 File: german.lbx 2018/03/04 v3.11 biblatex localization (PK/MW)
 ))
-(./report.aux)
+(./report.aux (./preface.aux) (./content.aux))
 \openout1 = `report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 231.
@@ -1353,7 +1353,7 @@ LaTeX Info: Redefining \nameref on input line 231.
 
 \c@lstlisting=\count363
  ABD: EveryShipout initializing macros
-<test_coverpage.pdf, id=31, 614.295pt x 794.97pt>
+<test_coverpage.pdf, id=83, 614.295pt x 794.97pt>
 File: test_coverpage.pdf Graphic file (type pdf)
 <use test_coverpage.pdf>
 Package pdftex.def Info: test_coverpage.pdf  used on input line 251.
@@ -1362,7 +1362,7 @@ File: test_coverpage.pdf Graphic file (type pdf)
 <use test_coverpage.pdf>
 Package pdftex.def Info: test_coverpage.pdf  used on input line 251.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<test_coverpage.pdf, id=34, page=1, 614.295pt x 794.97pt>
+<test_coverpage.pdf, id=86, page=1, 614.295pt x 794.97pt>
 File: test_coverpage.pdf Graphic file (type pdf)
 <use test_coverpage.pdf, page 1>
 Package pdftex.def Info: test_coverpage.pdf , page1 used on input line 251.
@@ -1416,14 +1416,20 @@ LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <10.95> not available
 )
 [2
 
-]
-
-Package hyperref Warning: old toc file detected, not used; run LaTeX again.
-
+] (./report.toc
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 6.
+)
 \tf@toc=\write7
 \openout7 = `report.toc'.
 
-[9
+ [9
 
 
 ]
@@ -1445,18 +1451,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 37.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 37.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 56.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 56.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 56.
 
 Underfull \hbox (badness 1231) in paragraph at lines 57--57
 []|\OT1/cmr/bx/n/10.95 Sumner Houses
  []
 
-<towers_in_park.png, id=75, 442.79715pt x 441.65pt>
+<towers_in_park.png, id=136, 442.79715pt x 441.65pt>
 File: towers_in_park.png Graphic file (type png)
 <use towers_in_park.png>
 Package pdftex.def Info: towers_in_park.png  used on input line 57.
@@ -1471,7 +1471,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--57
 \OT1/cmr/bx/n/10.95 Stuyvesant
  []
 
-<prewar.png, id=77, 441.65pt x 441.65pt>
+<prewar.png, id=138, 441.65pt x 441.65pt>
 File: prewar.png Graphic file (type png)
 <use prewar.png>
 Package pdftex.def Info: prewar.png  used on input line 57.
@@ -1513,7 +1513,7 @@ Overfull \vbox (23.81688pt too high) has occurred while \output is active []
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<004_1.png, id=89, 1760.5775pt x 2489.3pt>
+<004_1.png, id=149, 1760.5775pt x 2489.3pt>
 File: 004_1.png Graphic file (type png)
 <use 004_1.png>
 Package pdftex.def Info: 004_1.png  used on input line 85.
@@ -1523,7 +1523,7 @@ Package pdftex.def Info: 004_1.png  used on input line 85.
 
 
  <./004_1.png>]
-<004_2.png, id=97, 1759.57375pt x 2489.3pt>
+<004_2.png, id=156, 1759.57375pt x 2489.3pt>
 File: 004_2.png Graphic file (type png)
 <use 004_2.png>
 Package pdftex.def Info: 004_2.png  used on input line 85.
@@ -1712,7 +1712,7 @@ Underfull \hbox (badness 1067) in paragraph at lines 138--138
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [9]
-<073_asset_map.png, id=127, 614.295pt x 794.97pt>
+<073_asset_map.png, id=184, 614.295pt x 794.97pt>
 File: 073_asset_map.png Graphic file (type png)
 <use 073_asset_map.png>
 Package pdftex.def Info: 073_asset_map.png  used on input line 146.
@@ -1796,17 +1796,17 @@ Underfull \hbox (badness 1259) in paragraph at lines 159--159
 []\OT1/phv/m/n/10 3|  
  []
 
-<truck.png, id=134, 385.44pt x 385.44pt>
+<truck.png, id=191, 385.44pt x 385.44pt>
 File: truck.png Graphic file (type png)
 <use truck.png>
 Package pdftex.def Info: truck.png  used on input line 167.
 (pdftex.def)             Requested size: 135.50624pt x 135.5059pt.
-<bobcat.png, id=135, 411.136pt x 411.136pt>
+<bobcat.png, id=192, 411.136pt x 411.136pt>
 File: bobcat.png Graphic file (type png)
 <use bobcat.png>
 Package pdftex.def Info: bobcat.png  used on input line 167.
 (pdftex.def)             Requested size: 135.50624pt x 135.5059pt.
-<chromatica.jpg, id=136, 1003.75pt x 1003.75pt>
+<chromatica.jpg, id=193, 1003.75pt x 1003.75pt>
 File: chromatica.jpg Graphic file (type jpg)
 <use chromatica.jpg>
 Package pdftex.def Info: chromatica.jpg  used on input line 167.
@@ -1873,36 +1873,18 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 303.
 (./report.aux (./preface.aux) (./content.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 303.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 303.
-
-
-Package rerunfilecheck Warning: File `report.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `report.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  AD41349010F0A0BCEEBF1F2ABAE78328;783.
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package biblatex Warning: Please (re)run BibTeX on the file(s):
-(biblatex)                report
-(biblatex)                and rerun LaTeX afterwards.
-
+Package rerunfilecheck Info: File `report.out' has not changed.
+(rerunfilecheck)             Checksum: AD41349010F0A0BCEEBF1F2ABAE78328;783.
 Package logreq Info: Writing requests to 'report.run.xml'.
 \openout1 = `report.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31234 strings out of 492649
- 597194 string characters out of 6129622
+ 31259 strings out of 492649
+ 597484 string characters out of 6129622
  1143865 words of memory out of 5000000
- 34462 multiletter control sequences out of 15000+600000
- 20091 words of font info for 40 fonts, out of 8000000 for 9000
+ 34480 multiletter control sequences out of 15000+600000
+ 21724 words of font info for 42 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  55i,18n,82p,1151b,2269s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
@@ -1912,10 +1894,10 @@ ive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
 ve/2018/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2018
 /texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2018/texmf-
 dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on report.pdf (26 pages, 6422477 bytes).
+Output written on report.pdf (26 pages, 6426147 bytes).
 PDF statistics:
- 237 PDF objects out of 1000 (max. 8388607)
- 165 compressed objects within 2 object streams
+ 291 PDF objects out of 1000 (max. 8388607)
+ 218 compressed objects within 3 object streams
  57 named destinations out of 1000 (max. 500000)
- 169 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 273 words of extra memory for PDF output out of 10000 (max. 10000000)
 
