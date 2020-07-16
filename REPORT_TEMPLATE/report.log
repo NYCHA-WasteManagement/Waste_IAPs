@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  14 JUL 2020 14:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  16 JUL 2020 15:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1842,6 +1842,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [15]
+(./073_staff_table.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [16]
@@ -1880,8 +1881,8 @@ Package logreq Info: Writing requests to 'report.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31259 strings out of 492649
- 597484 string characters out of 6129622
+ 31262 strings out of 492649
+ 597539 string characters out of 6129622
  1143865 words of memory out of 5000000
  34480 multiletter control sequences out of 15000+600000
  21724 words of font info for 42 fonts, out of 8000000 for 9000
@@ -1894,7 +1895,7 @@ ive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
 ve/2018/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2018
 /texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2018/texmf-
 dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on report.pdf (26 pages, 6426147 bytes).
+Output written on report.pdf (26 pages, 6426171 bytes).
 PDF statistics:
  291 PDF objects out of 1000 (max. 8388607)
  218 compressed objects within 3 object streams

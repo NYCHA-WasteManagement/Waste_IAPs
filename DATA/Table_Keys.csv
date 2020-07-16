@@ -1,14 +1,14 @@
-﻿CHART_LINE,BUDG_KEY,FORMULA_KEY,NOTE
-Employees,TOT,TOT_FORMULA,
-Property Manager,PM,PM_FORMULA,
-Asst. Property Manager,APM,APM_FORMULA,
-Secretaries and Clerical Staff,SEC,SEC_FORMULA,
-Housing Assistants,HA,HA_FORMULA,
-Superintendent,SUPER,SUPER_FORMULA,
-Asst. Superintendent,ASUPER,ASUPER_FORMULA,
-Supervisor of Caretakers (SOC),SOC,SOC_FORMULA,
-Supervisor of Grounds (SOG),SOG,SOG_FORMULA,
-Maintenance Workers,MW,MW_FORMULA,
-Caretakers X,CTX,CTX_FORMULA,
-Caretakers J,CTJ,CJG_FORMULA,Includes Caretaker I and Chief Caretaker
-Caretakers G,CTG,,
+﻿CHART_LINE,BUDG_KEY,FORMULA_KEY,ACTUALS_KEY,NOTE
+Employees,TOT,TOT_FORMULA,TOT_ACT,
+Property Manager,PM,PM_FORMULA,PM_ACT,
+Asst. Property Manager,APM,APM_FORMULA,APM_ACT,
+Secretaries and Clerical Staff,SEC,SEC_FORMULA,SEC_ACT,
+Housing Assistants,HA,HA_FORMULA,HA_ACT,
+Superintendent,SUPER,SUPER_FORMULA,SUPER_ACT,
+Asst. Superintendent,ASUPER,ASUPER_FORMULA,ASUPER_ACT,
+Supervisor of Caretakers (SOC),SOC,SOC_FORMULA,SOC_ACT,
+Supervisor of Grounds (SOG),SOG,SOG_FORMULA,SOG_ACT,
+Maintenance Workers,MW,MW_FORMULA,MW_ACT,
+Caretakers X,CTX,CTX_FORMULA,CT_ACT,
+Caretakers J,CTJ,CJG_FORMULA,,Includes Caretaker I and Chief Caretaker
+Caretakers G,CTG,,,
