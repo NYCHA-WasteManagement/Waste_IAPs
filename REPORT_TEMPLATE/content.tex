@@ -13,50 +13,19 @@
 
 	\begin{minipage}[t][.5\textheight][t]{\textwidth}
 	\textcolor{ccteal}{\section{Overview}}
-	Located in the Bedford-Stuyvesant area of Brooklyn, the Sumner Consolidation is composed of three developments: Sumner Houses, 303 Vernon Avenue, and Bedford-Stuyvesant Rehab. All developments in the consolidation 	receive federal funding. The staff are deployed from the management office located in a Sumner building. Built in 1958, Sumner is a 22-acre development with 13 buildings ranging from
-	7-12 floors, which house 1,088 families. The development also features a basketball court, green areas
-	and parking lots. Sumner's modern ``towers-in-the-park'' model comes with a trash chute system that is
-	designed to streamline household trash collection. While this system is made to be convenient for
-	residents, it prioritizes trash over recycling by only having a single small chute. a feature, along with
-	larger apartments and large spaces between buildings, was designed to rid urban areas of longtime
-	problems concerning health and welfare.
-	Like Sumner, 303 Vernon is a conventional development with green spaces and a parking lot. It is a
-	24-story building built several years later in the summer of 1967. While it is a standalone building, 303
-	Vernon also has a chute system for convenient trash disposal.
-	Bedford-Stuyvesant Rehab is a turnkey development acquired by NYCHA in 1983 comprised of five
-	buildings between 4-6 stories that were not constructed originally for public housing. These pre-war
-	tenement buildings, built in the early 1930s, do not come with a chute system like the other
-	developments in Sumner Consolidation. Residents leave their waste at the curb for pickup by NYCHA
-	caretakers. This can promote more recycling; however, it is more labor intensive for residents.
+	
+	\input{\rootpath/TEXT/overview_text/\tds_overview}
 	
 	\end{minipage}
-\begin{minipage}[b][.49\textheight][b]{\textwidth}
+\begin{minipage}[c][.39\textheight][c]{\textwidth}
 \begin{table}[H]
 \small
 
-\begin{tabular}{l|c|c|c|c|}
-\cline{2-5}
-																	   & \cellcolor{ccteal}{\color[HTML]{FFFFFF} TDS \#} & \cellcolor{ccteal}{\color[HTML]{FFFFFF} Total Households} & \cellcolor{ccteal}{\color[HTML]{FFFFFF} Official Population} & \cellcolor{ccteal}{\color[HTML]{FFFFFF} Average Family Size} \\ \hline
-
-\multicolumn{1}{|l|}{\cellcolor{ccteallight}303 Vernon Avenue}        & 156                                                   & 233                                                           & 538                                                                & 2.3                                                                \\ \hline\multicolumn{1}{|l|}{\cellcolor{ccteallight}Bedford-Stuyvesant Rehab}        & 311                                                   & 82                                                           & 193                                                                & 2.4                                                                \\ \hline\multicolumn{1}{|l|}{\cellcolor{ccteallight}Sumner}        & 073                                                   & 1,084                                                           & 2,262                                                                & 2.1                                                                \\ \hline
-\end{tabular}
-\begin{comment}
-\begin{tabular}{l|l|l|l|l|}
-\cline{2-5}
-																	   & \cellcolor{ccteal}{\color[HTML]{FFFFFF} TDS \#} & \cellcolor{ccteal}{\color[HTML]{FFFFFF} Total Families} & \cellcolor{ccteal}{\color[HTML]{FFFFFF} Official Population} & \cellcolor{ccteal}{\color[HTML]{FFFFFF} Average Family Size} \\ \hline
-\multicolumn{1}{|l|}{\cellcolor{ccteallight}303 Vernon Avenue}        & 156                                                   & 233                                                           & 538                                                                & 2.3                                                                \\ \hline
-\multicolumn{1}{|l|}{\cellcolor{ccteallight}Bedford-Stuyvesant Rehab} & 311                                                   & 82                                                            & 193                                                                & 2.4                                                                \\ \hline
-\multicolumn{1}{|l|}{\cellcolor{ccteallight}Sumner Houses}            & 073                                                   & 1,804                                                         & 2,262                                                              & 2.1                                                                \\ \hline
-\end{comment}
-
+\input{\rootpath/TABLES/overview_table/\tds_overview_table}
 \end{table}
 
 \begin{centering}
-\begin{table}[H]
-\begin{tabular}{m{1.25in} m{2in} m{.1in} m{1.25in} m{2in}}
-\sf\bf{Sumner Houses and 303 Vernon Avenue} & \includegraphics[height=2in]{towers_in_park} & & \sf\bf{Bedford-Stuyvesant Rehab} & \includegraphics[height=2in]{prewar.png}
-\end{tabular}
-\end{table}
+\input{\rootpath/TABLES/typology_table/\tds_typology}
 \end{centering}
 \end{minipage}
 \pagebreak
@@ -72,12 +41,12 @@
     {%
     \begin{figure}[H]
     	\raggedleft
-        \includegraphics[height=11in]{004_1.png}%
+        \includegraphics[height=11in]{\rootpath/MAPS/context_maps/\tds_context_1.png}%
     \end{figure}
     \clearpage
     \begin{figure}[H]
     	\raggedright
-        \includegraphics[height=11in]{004_2.png}%
+        \includegraphics[height=11in]{\rootpath/MAPS/context_maps/\tds_context_2.png}%
     \end{figure}
     \clearpage
     }%
@@ -96,14 +65,14 @@
 \fancyfoot[LE,RO]{\thepage}
 
 \textcolor{ccorange}{\section{Waste Distribution}}
-
+%%%% TO-DO: AUTOMATE TEXT GENERATION %%%
 The goal of the waste calculator is to understand the amount of waste generated at each development and consolidation. This knowledge is imperative to interpreting what assets are necessary in order for each consolidation to run most efficiently. Sumner consolidation is not serviced by DSNY daily. Once the compactors are full, DSNY is called to pick it up. The Sumner Consolidation has (4) 30-CY external compactors and containers, totaling 766.36 ft2 of storage space for waste. Given the rate at which waste is produced at NYCHA properties, these containers will fill up in about (3) days at the Sumner Consolidation. The average weight of the containers at capacity should be about (3) tons.
 
 \begin{table}[H]
 \begin{threeparttable}
 \small
 
-\input{073_wd_table}
+\input{\rootpath/TABLES/waste_distribution_table/\tds_wd_table}
 
 \begin{tablenotes}
 \item [1] Assumes 5lbs of waste is produced daily in each unit.
@@ -118,6 +87,7 @@ The goal of the waste calculator is to understand the amount of waste generated 
 \pagebreak
 
 \textcolor{ccorange}{\section{Waste Services and Assets}}
+%%% TO-DO: AUTOMATE TEXT GENERATION %%%
 DSNY does not provide curbside collection at this site. Caretakers are responsible for collecting all
 waste throughout the consolidation and bringing it to the external compactors. All bulk is left outside the
 buildings for collection to the 30-yard bulk container located at 303 Vernon. Household waste produced
@@ -126,6 +96,7 @@ Bedford-Stuyvesant Rehab is brought to the curb for pick up by the caretakers us
 truck and driven to the waste yards at either Sumner or 303 Vernon.
 \begin{table}[H]
 \small
+%%% TO-DO: AUTOMATE WASTE SERVICES AND ASSETS TABLE %%%
 \begin{tabular}{V{1.5in}|V{1.5in}|V{1.5in}|V{1.5in}|}
 \cline{2-4}
                                                                                    & \cellcolor{ccorange}{\color[HTML]{FFFFFF} 303 Vernon Avenue} & \cellcolor{ccorange}{\color[HTML]{FFFFFF} Bedford-Stuyvesant Rehab} & \cellcolor{ccorange}{\color[HTML]{FFFFFF} Sumner Houses} \\ \hline
@@ -143,7 +114,7 @@ truck and driven to the waste yards at either Sumner or 303 Vernon.
 \textcolor{ccorange}{WASTE ASSET MAP}
 \begin{figure}[H]
 \raggedright
-\includegraphics[width=.95\textwidth]{073_asset_map.png}
+\includegraphics[width=.95\textwidth]{\rootpath/MAPS/asset_maps/073_asset_map.png}
 \end{figure}
 \pagebreak
 
@@ -151,6 +122,7 @@ truck and driven to the waste yards at either Sumner or 303 Vernon.
 
 \begin{table}[H]
 \small
+%%% TO-DO: AUTOMATE WASTE ASSETS TABLE %%%
 \begin{tabular}{V{.25\columnwidth}|V{.15\columnwidth}|V{.15\columnwidth}|V{.25\columnwidth}|V{.15\columnwidth}|}
 \cline{2-5}
                                                                                               & \cellcolor{ccorangelight}{\color[HTML]{000000} Internal Compactors} & \cellcolor{ccorangelight}{\color[HTML]{000000} External Compactors} & \cellcolor{ccorangelight}{\color[HTML]{000000} Other External Assets}   & \cellcolor{ccorangelight}{\color[HTML]{000000} Recycling Bins} \\ \hline
@@ -164,7 +136,7 @@ truck and driven to the waste yards at either Sumner or 303 Vernon.
 \begin{table}[H]
 \begin{tabular}{m{.33\columnwidth}m{.33\columnwidth}m{.33\columnwidth}}
 {\color{ccorange} X Trucks} & {\color{ccorange} X Bobcats} & {\color{ccorange} X Other} \\
-\includegraphics[width=.25\columnwidth]{truck.png}                            & \includegraphics[width=.25\columnwidth]{bobcat.png}                             & \includegraphics[width=.25\columnwidth]{chromatica.jpg}                          
+\includegraphics[width=.25\columnwidth]{\rootpath/IMAGES/truck.png}                            & \includegraphics[width=.25\columnwidth]{\rootpath/IMAGES/bobcat.png}                             & \includegraphics[width=.25\columnwidth]{\rootpath/IMAGES/chromatica.jpg}                          
 \end{tabular}
 \end{table}
 \pagebreak
@@ -172,7 +144,7 @@ truck and driven to the waste yards at either Sumner or 303 Vernon.
 
 \begin{table}[H]
 
-\input{073_capital_projects}
+\input{\rootpath/TABLES/capital_projects_table/073_capital_projects}
 
 \end{table}
 \pagebreak
@@ -246,7 +218,7 @@ PLACEHOLDER TEXT AND TABLES AND SUCH TO FIGURE OUT PAGE COLOR SETTINGS -- WILL F
 \begin{table}[H]
 \begin{threeparttable}
 
-\input{073_staff_table}
+\input{\rootpath/TABLES/staff_table/073_staff_table}
 
 \begin{tablenotes}
 \item [1] Includes staff in roles Caretaker J, Caretaker I, and Chief Caretaker
@@ -267,23 +239,7 @@ PLACEHOLDER TEXT AND TABLES AND SUCH TO FIGURE OUT PAGE COLOR SETTINGS -- WILL F
 \fancyfoot[LE,RO]{\thepage}
 \textcolor{ccgreen}{ANALYSIS OF FINDINGS}
 \\
-\emph{Inspection and Collection Requirement}
-
-Sumner Consolidation is in compliance with the inspection and collection requirement of  Paragraph 45 of the HUD Agreement, according to a Compliance Interview conducted on November 21, 2019. The Supervisor of Grounds, Dirk Jacob, reported they have sufficient manpower to correct all observed deficiencies. NYCHA caretakers conduct ground inspections, picked up litter from the grounds and removed trash from the buildings one to two times a day including weekends. The caretakers begin picking up trash out each day between 8:00 AM -- 10:00 AM and stop between 4:00 PM -- 5:00 PM.  
-
-\emph{Removal and Storage Requirement}
-
-Sumner Consolidation is in compliance with the storage and removal of Paragraph 45 of the HUD Agreement. Despite trash only being removed 2 times a week by DSNY, on days where waste is not removed, Sumner Consolidation can store waste in a manner that prevents access by pests and is thus in compliance.  
-
-DSNY comes Tuesdays and Fridays and Saturdays. Due to the infrequency of DSNY, waste is not removed from the premises daily. An average of five to six bulk tickets are created each week for the removal of bulk waste. Bulk trash sits in a yard with an exterior container before being picked up by the vendor. 
-
-In terms of storage, in addition to depositing litter into interior trash chutes, residents of this consolidation may drop their waste at 13 additional sites on the premises. Tenants are asked by management to leave their trash in the front of each building, either in trash cans or in exposed trash bags for pick up by caretakers if they choose not to use the chutes. Most tenants dispose of their trash using these drop-off sites. Waste is taken to one of four exterior compactors after being taken from the drop-off sites. All exterior compactors are in good shape and do not require maintenance at the time of reporting. When the trash is not removed from the premises, it is stored in a way that prevents pests. 
-
-Sumner has two bulk containers and 31 interior compactor rooms. Of the 31 interior compactor rooms, two were inaccessible due to pests (67 Marcus Garvey Boulevard) and one due to flooding (987 Myrtle Avenue). Sumner disposes of approximately 100 -- 200 compactor bags. The supervisor also stated that Sumner did not have a pest problem and treated any pest problems by collapsing the burrows. According to the Rat Reduction Plan, in the summer of 2018, the site had 61 rat burrows, but as of March 13, 2019, they have very few burrows. Further research is needed to quantify the number of borrows still. 
-
-Sumner reports that, if necessary, they can take the trash from the developments to Tompkins Houses, Marcy Houses, and Roosevelt Houses and vice versa. According to the compliance report, there are external sources of waste and bulk being illegally dumped at this site, primarily from construction companies, stores, and unknown sources. According to Mr. Jacob, the biggest obstacle the site faces is insufficient staffing and that resident outreach was the primary way to improve trash management.  
-
-In a June 24, 2020 report, the Monitor Cleanliness Team gave 303 Vernon a B- and Sumner an overall B grade. The team has not yet evaluated Bedford-Stuyvesant Rehab.  
+\input{\rootpath/TEXT/analysis_text/073_analysis}
 
 \pagebreak
 % ############################################
