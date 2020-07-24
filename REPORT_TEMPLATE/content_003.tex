@@ -1,0 +1,348 @@
+% ----------------------------------------------	
+\pagestyle{plain}
+\whitetext{\chapter{Introduction}}
+\pagecolor{ccteal}
+\fontfamily{phv}
+%\vspace*{\stretch{.5}}
+\pagebreak
+\newpagecolor{white}
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\fancyfoot[LE,RO]{\thepage}
+
+	\begin{minipage}[t][.5\textheight][t]{\textwidth}
+	\textcolor{ccteal}{\section{Overview}}
+	
+	\input{\rootpath/TEXT/overview_text/\tds_overview}
+	
+	\end{minipage}
+\begin{minipage}[c][.39\textheight][c]{\textwidth}
+\begin{table}[H]
+\small
+
+\input{\rootpath/TABLES/overview_table/\tds_overview_table}
+\end{table}
+
+\begin{centering}
+\input{\rootpath/TABLES/typology_table/\tds_typology}
+\end{centering}
+\end{minipage}
+\pagebreak
+
+\newgeometry{left=0in, right=0in, top=0in, bottom=0in}
+\fakesection{Context Map}
+\afterpage{%
+    \clearpage% flush all other floats
+    \ifodd\value{page}
+    %\else% uncomment this else to get odd/even instead of even/odd
+        \expandafter\afterpage% put it on the next page if this one is odd
+    \fi
+    {%
+    \begin{figure}[H]
+    	\raggedleft
+        \includegraphics[height=11in]{\rootpath/MAPS/context_maps/\tds_context_1.png}%
+    \end{figure}
+    \clearpage
+    \begin{figure}[H]
+    	\raggedright
+        \includegraphics[height=11in]{\rootpath/MAPS/context_maps/\tds_context_2.png}%
+    \end{figure}
+    \clearpage
+    }%
+}
+\restoregeometry
+\pagebreak
+%-------------------------------------------
+\pagestyle{plain}
+\whitetext{\chapter{Waste Services and Assets}}
+\pagecolor{ccorange}
+
+\pagebreak
+%\newgeometry{right=0in}
+\newpagecolor{white}
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\fancyfoot[LE,RO]{\thepage}
+\parbox[T][3in][c]{\textwidth}{
+\textcolor{ccorange}{\section{Waste Distribution}}
+%%%% TO-DO: AUTOMATE TEXT GENERATION %%%
+The goal of the waste calculator is to understand the amount of waste generated at each development and consolidation. This knowledge is imperative to interpreting what assets are necessary in order for each consolidation to run most efficiently. Sumner consolidation is not serviced by DSNY daily. Once the compactors are full, DSNY is called to pick it up. The Sumner Consolidation has (4) 30-CY external compactors and containers, totaling 766.36 ft2 of storage space for waste. Given the rate at which waste is produced at NYCHA properties, these containers will fill up in about (3) days at the Sumner Consolidation. The average weight of the containers at capacity should be about (3) tons.
+}
+
+\begin{table}[H]
+\begin{threeparttable}
+\small
+
+\input{\rootpath/TABLES/waste_distribution_table/\tds_wd_table_1}
+
+\end{threeparttable}
+\end{table}
+
+\pagebreak
+%\newgeometry{left=0in, right=.5in, top=.5in, bottom=.5in}
+\parbox[T][3in][c]{\textwidth}{}
+\begin{table}[H]
+\begin{threeparttable}
+\small
+
+\input{\rootpath/TABLES/waste_distribution_table/\tds_wd_table_2}
+
+\begin{tablenotes}
+\item [1] Assumes 5lbs of waste is produced daily in each unit.
+\item [2] Includes miscellaneous garbage as well as uncaptured recyclables, organics, e-waste, and textiles.
+\item [3] Primary method of trash collection, via chute. Assumes a 75\% capture rate.
+\item [4] Secondary method of trash collection. Assumes a 25\% capture rate
+\item [5] Capture rates of recyclables at NYCHA portfolio-wide: 30\% of MGP, 50\% of Cardboard, and 20\% of Paper. 
+%\item[5] Organics, e-waste, and textiles have a capture rate of 0\%.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}
+
+
+\pagebreak
+\restoregeometry
+%\KOMAoptions{paper=letter, paper=portrait}
+%\recalctypearea
+\textcolor{ccorange}{\section{Waste Services and Assets}}
+%%% TO-DO: AUTOMATE TEXT GENERATION %%%
+DSNY does not provide curbside collection at this site. Caretakers are responsible for collecting all
+waste throughout the consolidation and bringing it to the external compactors. All bulk is left outside the
+buildings for collection to the 30-yard bulk container located at 303 Vernon. Household waste produced
+in Sumner goes to one of the three waste yards on site. Household waste produced at
+Bedford-Stuyvesant Rehab is brought to the curb for pick up by the caretakers using a Ford pick-up
+truck and driven to the waste yards at either Sumner or 303 Vernon.
+\begin{table}[H]
+\small
+%%% TO-DO: AUTOMATE WASTE SERVICES AND ASSETS TABLE %%%
+\begin{tabular}{V{1.5in}|V{1.5in}|V{1.5in}|V{1.5in}|}
+\cline{2-4}
+                                                                                   & \cellcolor{ccorange}{\color[HTML]{FFFFFF} 303 Vernon Avenue} & \cellcolor{ccorange}{\color[HTML]{FFFFFF} Bedford-Stuyvesant Rehab} & \cellcolor{ccorange}{\color[HTML]{FFFFFF} Sumner Houses} \\ \hline
+\multicolumn{1}{|V{1.5in}|}{\cellcolor{ccorangelight}Household Waste (DSNY)}               & 1 Waste Yard; 1 Hydraulic Exterior Compactor                     & Transfer to 303 Vernon or Sumner                                        & 2  Waste Yards with 1 Hydraulic Exterior Compactor Each      \\ \hline
+\multicolumn{1}{|V{1.5in}|}{\cellcolor{ccorangelight}Bulk Waste}                           & IESI with One(?) 30-Yard Container                               & Transfer to 303 Vernon                                                  & Transfer to 303 Vernon                                       \\ \hline
+\multicolumn{1}{|V{1.5in}|}{\cellcolor{ccorangelight}Recycling: Paper and Cardboard}       & TK                                                               & TK                                                                      & TK                                                           \\ \hline
+\multicolumn{1}{|V{1.5in}|}{\cellcolor{ccorangelight}Recycling: Metal, Glass, and Plastic} & DSNY Curb Setout                                                 & DSNY Curb Setout                                                        & DSNY Curb Setout                                             \\ \hline
+\multicolumn{1}{|V{1.5in}|}{\cellcolor{ccorangelight}Recycling: Mattresses}                & N/A                                                              & N/A                                                                     & TK                                                           \\ \hline
+\multicolumn{1}{|V{1.5in}|}{\cellcolor{ccorangelight}Recycling: Textiles}                  & N/A                                                              & N/A                                                                     & TK                                                           \\ \hline
+\multicolumn{1}{|V{1.5in}|}{\cellcolor{ccorangelight}Recycling: E-Waste}                   & N/A                                                              & N/A                                                                     & TK                                                           \\ \hline
+\end{tabular}
+\end{table}
+\pagebreak
+
+\textcolor{ccorange}{WASTE ASSET MAP}
+\begin{figure}[H]
+\raggedright
+\includegraphics[width=.95\textwidth]{\rootpath/MAPS/asset_maps/\tds_asset_map.png}
+\end{figure}
+\pagebreak
+
+\textcolor{ccorange}{WASTE ASSETS}
+
+\begin{table}[H]
+\small
+%%% TO-DO: AUTOMATE WASTE ASSETS TABLE %%%
+\begin{tabular}{V{.25\columnwidth}|V{.15\columnwidth}|V{.15\columnwidth}|V{.25\columnwidth}|V{.15\columnwidth}|}
+\cline{2-5}
+                                                                                              & \cellcolor{ccorangelight}{\color[HTML]{000000} Internal Compactors} & \cellcolor{ccorangelight}{\color[HTML]{000000} External Compactors} & \cellcolor{ccorangelight}{\color[HTML]{000000} Other External Assets}   & \cellcolor{ccorangelight}{\color[HTML]{000000} Recycling Bins} \\ \hline
+\multicolumn{1}{|V{.25\columnwidth}|}{\cellcolor{ccorange}{\color[HTML]{FFFFFF} 303 Vernon Avenue}}        & 1; last replaced TK                                                & 1                                                                  & Bulk crusher, cardboard baler, mattress recycling, electric tilt truck & TK                                                            \\ \hline
+\multicolumn{1}{|V{.25\columnwidth}|}{\cellcolor{ccorange}{\color[HTML]{FFFFFF} Bedford-Stuyvesant Rehab}} & 5; last replaced TK                                                & 0                                                                  & Bulk crusher, cardboard baler, mattress recycling, electric tilt truck & TK                                                            \\ \hline
+\multicolumn{1}{|V{.25\columnwidth}|}{\cellcolor{ccorange}{\color[HTML]{FFFFFF} Sumner Houses}}            & 24; last replaced TK                                               & 3                                                                  & Bulk crusher, cardboard baler, mattress recycling, electric tilt truck & TK                                                            \\ \hline
+\end{tabular}
+\end{table}
+
+\textcolor{ccorange}{SUMNER CONSOLIDATION ASSETS}
+\begin{table}[H]
+\begin{tabular}{m{.33\columnwidth}m{.33\columnwidth}m{.33\columnwidth}}
+{\color{ccorange} X Trucks} & {\color{ccorange} X Bobcats} & {\color{ccorange} X Other} \\
+\includegraphics[width=.25\columnwidth]{\rootpath/IMAGES/truck.png}                            & \includegraphics[width=.25\columnwidth]{\rootpath/IMAGES/bobcat.png}                             & \includegraphics[width=.25\columnwidth]{\rootpath/IMAGES/chromatica.jpg}                          
+\end{tabular}
+\end{table}
+\pagebreak
+\textcolor{ccorange}{\section{Capital Improvements}}
+
+\begin{table}[H]
+
+\input{\rootpath/TABLES/capital_projects_table/\tds_capital_projects}
+
+\end{table}
+\pagebreak
+
+\textcolor{ccorange}{PRIORITIES}
+
+PLACEHOLDER TEXT AND TABLES AND SUCH TO FIGURE OUT PAGE COLOR SETTINGS -- WILL FILL IN LATER, ONCE PRELIMINARY ANALYSIS IS COMPLETE
+\pagebreak
+%-------------------------------------------
+\pagestyle{plain}
+\whitetext{\Chapter{Staffing}}
+\pagecolor{ccfuschia}
+\pagebreak
+\newpagecolor{white}
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\fancyfoot[LE,RO]{\thepage}
+
+
+\textcolor{ccfuschia}{STAFFING STRUCTURE}
+\begin{figure}[H]
+	\resizebox{\textwidth}{!}{
+	\centering
+	\begin{tikzpicture}[node distance=3cm]
+	\node (vp) [processwide] {VP of Operations};
+	\node (borodr) [processwide, below of=vp] {Borough Director};
+	\node(ram) [processwide, below of=borodr] {Regional Asset Manager};
+	\node (pm) [processwide, below of=ram] {Property Manager};
+	\node (super) [process, below of=pm, xshift=-5cm] {Superintendent};
+	\node (asuper) [process, below of=super] {Assistant Superintendent};
+		\node (mtn) [process, below of=asuper, xshift=-3.5cm] {Maintenance Workers};
+		\node (spc) [process, below of=asuper] {Supervisor of Caretakers};
+			\node (crt) [process, below of=spc] {Caretakers\\(X and J)};
+		\node (spg) [process, below of=asuper, xshift=3.5cm] {Supervisor of Grounds};
+			\node (crtg) [process, below of = spg] {Caretakers (G)};			
+		
+	\node (apm)[process, below of=pm, xshift=5cm] {Assistant Property Manager};
+		\node (sec) [process, below of=apm, xshift = -2.5cm] {Secretaries};
+		\node (asst) [process, below of=apm, xshift = 2.5cm] {Housing Assistants};
+
+	%\node (sub1) [subprocess, below of=pro1] {\nodepart{two} Subprogram};
+	%\node (dec1) [decision, below of=sub1, yshift=-1cm] {Decision};
+	%\node (com1) [comment, below of=dec1, xshift=-4cm, yshift=-1cm] {STEP 2};
+	%\node (stop) [startstop, below of=dec1, yshift=-1cm] {Stop};
+
+	%\draw [arrow] (dec1.west) -- ++(-1,0) node[anchor=south,pos=0.5] {No} |- (sub1.west);
+	%\draw [arrow] (dec1) -- node[anchor=west] {Yes} (stop);
+
+	\draw [arrow] (vp) -- (borodr);
+	\draw [arrow] (borodr) -- (ram);
+	\draw [arrow] (ram) -- (pm);
+	\draw [arrow] (pm) -- (super);
+	\draw [arrow] (super) -- (asuper);
+		\draw [arrow] (asuper) -- (mtn);
+		\draw [arrow] (asuper) -- (spc);
+			\draw [arrow] (spc) -- (crt);
+		\draw [arrow] (asuper) -- (spg);
+			\draw [arrow] (spg) -- (crtg);
+	
+	\draw [arrow] (pm) -- (apm);
+		\draw [arrow] (apm) -- (sec);
+		\draw [arrow] (apm) -- (asst);
+	\end{tikzpicture}
+	}
+\end{figure}
+
+\pagebreak
+\textcolor{ccfuschia}{ALLOCATED STAFF}
+
+\begin{table}[H]
+\begin{threeparttable}
+
+\input{\rootpath/TABLES/staff_table/\tds_staff_table}
+
+\begin{tablenotes}
+\item [1] Includes staff in roles Caretaker J, Caretaker I, and Chief Caretaker
+\end{tablenotes}
+\end{threeparttable}
+\end{table}
+
+\pagebreak
+%-------------------------------------------
+\pagestyle{plain}
+\whitetext{\Chapter{Analysis}}
+\pagecolor{ccgreen}
+\pagebreak
+\newpagecolor{white}
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\fancyfoot[LE,RO]{\thepage}
+\textcolor{ccgreen}{ANALYSIS OF FINDINGS}
+\\
+\input{\rootpath/TEXT/analysis_text/073_analysis}
+
+\pagebreak
+% ############################################
+\pagestyle{plain}
+\whitetext{\Chapter{Appendices}}
+\pagecolor{lightBlue}
+\pagebreak
+\newpagecolor{white}
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\fancyfoot[LE,RO]{\thepage}
+\textcolor{darkBlue}{Appendix I}
+
+PLACEHOLDER
+
+\pagebreak
+
+% ############################################
+
+% ############################################
+\begin{comment}
+
+\section{Lists}
+
+Unordered Lists:
+\begin{itemize}
+\item This is an unordered list. 
+\item Item 2.
+\item It has three items.
+\end{itemize}
+
+Ordered List:
+\begin{enumerate}
+\item This is an ordered list.
+\item Item 2.
+\item It has three items.
+\end{enumerate}
+
+Ordered List (alphabetical):
+\begin{enumerate}[label=\Alph*.]
+\item This is an ordered list.
+\item Item 2.
+\item It has three items.
+\end{enumerate}
+
+% ----------------------------------------------
+\cleardoublepage
+\chapter{Figures}\label{ch:figures}
+
+% ############################################
+\section{Images}\label{sec:images}
+
+\autoref{fig:image1} shows how to display images.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.5\textwidth]{example-image-a.pdf}
+	\caption{Image}
+
+	\label{fig:image1}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.5\textwidth]{example-image-b.pdf}
+	\caption{Image with Source}
+	\captionsource{\cite{mus:16}}	
+	\label{fig:image2}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.5\textwidth]{example-image-c.pdf}
+	\caption{Image with Source and Link}
+	\captionsource[https://example.org]{J. Doe}	
+	\label{fig:image3}
+\end{figure}
+
+% ############################################
+
+% ----------------------------------------------
+\cleardoublepage
+\chapter{Conclusion}\label{ch:conclusion}
+
+\end{comment}
+
