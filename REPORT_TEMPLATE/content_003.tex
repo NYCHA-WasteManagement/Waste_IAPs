@@ -3,21 +3,12 @@
 \whitetext{\chapter{Introduction}}
 \pagecolor{ccteal}
 \fontfamily{phv}
-%\vspace*{\stretch{.5}}
-\pagebreak
-\newpagecolor{white}
-\pagestyle{fancy}
-\fancyhf{}
-\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
-\fancyfoot[LE,RO]{\thepage}
 
-	\begin{minipage}[t][.5\textheight][t]{\textwidth}
-	\textcolor{ccteal}{\section{Overview}}
-	
-	\input{\rootpath/TEXT/overview_text/\tds_overview}
-	
-	\end{minipage}
-\begin{minipage}[c][.39\textheight][c]{\textwidth}
+
+\definecolor{insetbox_teal}{RGB}{230, 239, 239}
+\colorbox{insetbox_teal}{
+\begin{minipage}[b]{\textwidth}
+
 \begin{table}[H]
 \small
 
@@ -28,6 +19,23 @@
 \input{\rootpath/TABLES/typology_table/\tds_typology}
 \end{centering}
 \end{minipage}
+}
+
+%\vspace*{\stretch{.5}}
+\pagebreak
+\newpagecolor{white}
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\fancyfoot[LE,RO]{\thepage}
+
+	\begin{minipage}[t][.39\textheight][t]{\textwidth}
+	\textcolor{ccteal}{\section{Overview}}
+	\input{\rootpath/TEXT/overview_text/\tds_overview}
+	
+	\end{minipage}
+
+
 \pagebreak
 
 \newgeometry{left=0in, right=0in, top=0in, bottom=0in}
