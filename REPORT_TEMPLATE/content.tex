@@ -96,40 +96,32 @@ Bedford-Stuyvesant Rehab is brought to the curb for pick up by the caretakers us
 truck and driven to the waste yards at either Sumner or 303 Vernon.
 \begin{table}[H]
 \small
-%%% TO-DO: AUTOMATE WASTE SERVICES AND ASSETS TABLE %%%
-\begin{tabular}{V{1.5in}|V{1.5in}|V{1.5in}|V{1.5in}|}
-\cline{2-4}
-                                                                                   & \cellcolor{ccorange}{\color[HTML]{FFFFFF} 303 Vernon Avenue} & \cellcolor{ccorange}{\color[HTML]{FFFFFF} Bedford-Stuyvesant Rehab} & \cellcolor{ccorange}{\color[HTML]{FFFFFF} Sumner Houses} \\ \hline
-\multicolumn{1}{|V{1.5in}|}{\cellcolor{ccorangelight}Household Waste (DSNY)}               & 1 Waste Yard; 1 Hydraulic Exterior Compactor                     & Transfer to 303 Vernon or Sumner                                        & 2  Waste Yards with 1 Hydraulic Exterior Compactor Each      \\ \hline
-\multicolumn{1}{|V{1.5in}|}{\cellcolor{ccorangelight}Bulk Waste}                           & IESI with One(?) 30-Yard Container                               & Transfer to 303 Vernon                                                  & Transfer to 303 Vernon                                       \\ \hline
-\multicolumn{1}{|V{1.5in}|}{\cellcolor{ccorangelight}Recycling: Paper and Cardboard}       & TK                                                               & TK                                                                      & TK                                                           \\ \hline
-\multicolumn{1}{|V{1.5in}|}{\cellcolor{ccorangelight}Recycling: Metal, Glass, and Plastic} & DSNY Curb Setout                                                 & DSNY Curb Setout                                                        & DSNY Curb Setout                                             \\ \hline
-\multicolumn{1}{|V{1.5in}|}{\cellcolor{ccorangelight}Recycling: Mattresses}                & N/A                                                              & N/A                                                                     & TK                                                           \\ \hline
-\multicolumn{1}{|V{1.5in}|}{\cellcolor{ccorangelight}Recycling: Textiles}                  & N/A                                                              & N/A                                                                     & TK                                                           \\ \hline
-\multicolumn{1}{|V{1.5in}|}{\cellcolor{ccorangelight}Recycling: E-Waste}                   & N/A                                                              & N/A                                                                     & TK                                                           \\ \hline
-\end{tabular}
+
+\input{\rootpath/TABLES/waste_services/\tds_waste_services}
+
 \end{table}
+
 \pagebreak
 
 \textcolor{ccorange}{WASTE ASSET MAP}
 \begin{figure}[H]
 \raggedright
-\includegraphics[width=.95\textwidth]{\rootpath/MAPS/asset_maps/073_asset_map.png}
+\includegraphics[width=.95\textwidth]{\rootpath/MAPS/asset_maps/\tds_asset_map.png}
 \end{figure}
 \pagebreak
 
 \textcolor{ccorange}{WASTE ASSETS}
 
 \begin{table}[H]
+\begin{threeparttable}
 \small
-%%% TO-DO: AUTOMATE WASTE ASSETS TABLE %%%
-\begin{tabular}{V{.25\columnwidth}|V{.15\columnwidth}|V{.15\columnwidth}|V{.25\columnwidth}|V{.15\columnwidth}|}
-\cline{2-5}
-                                                                                              & \cellcolor{ccorangelight}{\color[HTML]{000000} Internal Compactors} & \cellcolor{ccorangelight}{\color[HTML]{000000} External Compactors} & \cellcolor{ccorangelight}{\color[HTML]{000000} Other External Assets}   & \cellcolor{ccorangelight}{\color[HTML]{000000} Recycling Bins} \\ \hline
-\multicolumn{1}{|V{.25\columnwidth}|}{\cellcolor{ccorange}{\color[HTML]{FFFFFF} 303 Vernon Avenue}}        & 1; last replaced TK                                                & 1                                                                  & Bulk crusher, cardboard baler, mattress recycling, electric tilt truck & TK                                                            \\ \hline
-\multicolumn{1}{|V{.25\columnwidth}|}{\cellcolor{ccorange}{\color[HTML]{FFFFFF} Bedford-Stuyvesant Rehab}} & 5; last replaced TK                                                & 0                                                                  & Bulk crusher, cardboard baler, mattress recycling, electric tilt truck & TK                                                            \\ \hline
-\multicolumn{1}{|V{.25\columnwidth}|}{\cellcolor{ccorange}{\color[HTML]{FFFFFF} Sumner Houses}}            & 24; last replaced TK                                               & 3                                                                  & Bulk crusher, cardboard baler, mattress recycling, electric tilt truck & TK                                                            \\ \hline
-\end{tabular}
+
+\input{\rootpath/TABLES/waste_assets/\tds_waste_assets}
+
+\begin{tablenotes}
+\item [1] Recycling bin data may be incomplete; consult with development staff before using.
+\end{tablenotes}
+\end{threeparttable}
 \end{table}
 
 \textcolor{ccorange}{SUMNER CONSOLIDATION ASSETS}

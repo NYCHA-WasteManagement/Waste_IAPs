@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  24 JUL 2020 16:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  28 JUL 2020 16:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -745,18 +745,6 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 4383.
 
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 4383.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 4383.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 4383.
-
 Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 438
 3.
 Package hyperref Info: Option `breaklinks' set `true' on input line 4383.
@@ -801,11 +789,11 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 
 Package hyperref Warning: Unexpected value for option `hidelinks'
-(hyperref)                is ignored on input line 131.
+(hyperref)                is ignored on input line 132.
 
-Package hyperref Info: Option `colorlinks' set `false' on input line 131.
-Package hyperref Info: Option `linktocpage' set `true' on input line 131.
-Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 131.
+Package hyperref Info: Option `colorlinks' set `false' on input line 132.
+Package hyperref Info: Option `linktocpage' set `true' on input line 132.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 132.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/tools/afterpage.sty
 Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
@@ -1272,23 +1260,23 @@ Package biblatex Info: ... file 'german.lbx' found.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/lbx/german.lbx
 File: german.lbx 2018/03/04 v3.11 biblatex localization (PK/MW)
 ))
-(./report.aux)
+(./report.aux (./content.aux))
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 233.
-LaTeX Font Info:    ... okay on input line 233.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 233.
-LaTeX Font Info:    ... okay on input line 233.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 233.
-LaTeX Font Info:    ... okay on input line 233.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 233.
-LaTeX Font Info:    ... okay on input line 233.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 233.
-LaTeX Font Info:    ... okay on input line 233.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 233.
-LaTeX Font Info:    ... okay on input line 233.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 233.
-LaTeX Font Info:    ... okay on input line 233.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 234.
+LaTeX Font Info:    ... okay on input line 234.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 234.
+LaTeX Font Info:    ... okay on input line 234.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 234.
+LaTeX Font Info:    ... okay on input line 234.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 234.
+LaTeX Font Info:    ... okay on input line 234.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 234.
+LaTeX Font Info:    ... okay on input line 234.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 234.
+LaTeX Font Info:    ... okay on input line 234.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 234.
+LaTeX Font Info:    ... okay on input line 234.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1347,4 +1335,630 @@ Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 38.
 Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.J
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: floatrow package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Input encoding 'utf8' specified.
+Package biblatex Info: Data encoding 'utf8' specified.
+(biblatex)             No need to reencode data.
+\openout4 = `report-blx.bib'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'report.bbl' not found.
+
+No file report.bbl.
+Package biblatex Info: Reference section=0 on input line 234.
+Package biblatex Info: Reference segment=0 on input line 234.
+Package hyperref Info: Link coloring OFF on input line 234.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count363
+)
+LaTeX Info: Redefining \ref on input line 234.
+LaTeX Info: Redefining \pageref on input line 234.
+LaTeX Info: Redefining \nameref on input line 234.
+
+(./report.out) (./report.out)
+\@outlinefile=\write6
+\openout6 = `report.out'.
+
+\c@lstlisting=\count364
+ ABD: EveryShipout initializing macros
+</Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jpg, id
+=83, 796.9775pt x 1032.85875pt>
+File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jp
+g Graphic file (type jpg)
+<use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jpg
+>
+Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/cov
+erpage/073_cover.jpg  used on input line 254.
+(pdftex.def)             Requested size: 796.97554pt x 1032.85623pt.
+File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jp
+g Graphic file (type jpg)
+<use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jpg
+>
+Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/cov
+erpage/073_cover.jpg  used on input line 254.
+(pdftex.def)             Requested size: 796.97554pt x 1032.85623pt.
+File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jp
+g Graphic file (type jpg)
+<use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jpg
+>
+Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/cov
+erpage/073_cover.jpg  used on input line 254.
+(pdftex.def)             Requested size: 796.97554pt x 1032.85623pt.
+File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jp
+g Graphic file (type jpg)
+<use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jpg
+>
+Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/cov
+erpage/073_cover.jpg  used on input line 254.
+(pdftex.def)             Requested size: 613.91779pt x 795.61891pt.
+File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jp
+g Graphic file (type jpg)
+<use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jpg
+>
+Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/cov
+erpage/073_cover.jpg  used on input line 254.
+(pdftex.def)             Requested size: 613.91779pt x 795.61891pt.
+File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jp
+g Graphic file (type jpg)
+<use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jpg
+>
+Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/cov
+erpage/073_cover.jpg  used on input line 254.
+(pdftex.def)             Requested size: 613.91779pt x 795.61891pt.
+File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jp
+g Graphic file (type jpg)
+<use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jpg
+>
+Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/cov
+erpage/073_cover.jpg  used on input line 254.
+(pdftex.def)             Requested size: 613.91779pt x 795.61891pt.
+ [1
+
+ </Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jpg>]
+(/Users/kyleslugg/Documents/NYCHA/Production/TEXT/preface_text/073_preface.tex
+Chapter 1.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 1.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 3.
+pdfTeX warning (ext4): destination with the same identifier (name{page.I}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.4 \clearpage
+               [1
+
+{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 24.
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omsphv.fd
+File: omsphv.fd 
+)
+LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 24.
+)
+[2
+
+] (./report.toc
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 6.
+)
+\tf@toc=\write7
+\openout7 = `report.toc'.
+
+ [9
+
+]
+\openout2 = `content.aux'.
+
+ (./content.tex [1
+
+
+]
+Chapter 2.
+\GPT@outputbox=\box75
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2
+
+]
+(/Users/kyleslugg/Documents/NYCHA/Production/TEXT/overview_text/073_overview.te
+x)
+(/Users/kyleslugg/Documents/NYCHA/Production/TABLES/overview_table/073_overview
+_table.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 2.
+)
+(/Users/kyleslugg/Documents/NYCHA/Production/TABLES/typology_table/073_typology
+.tex
+Underfull \hbox (badness 3250) in paragraph at lines 6--6
+[]|\OT1/phv/b/n/10.95 303 Ver-non Av-
+ []
+
+</Users/kyleslugg/Documents/NYCHA/Production/IMAGES/typology_towerpark.png, id=
+131, 677.53125pt x 655.44875pt>
+File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/typology_towerpark.png
+ Graphic file (type png)
+<use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/typology_towerpark.png>
+
+Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/typ
+ology_towerpark.png  used on input line 6.
+(pdftex.def)             Requested size: 112.05663pt x 108.405pt.
+
+Overfull \hbox (3.65163pt too wide) in paragraph at lines 6--6
+[]|[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+[]|\OT1/phv/b/n/10.95 Bedford-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--6
+\OT1/phv/b/n/10.95 Stuyvesant
+ []
+
+
+Underfull \hbox (badness 1028) in paragraph at lines 6--6
+\OT1/phv/b/n/10.95 Re-hab: \OT1/phv/m/n/10.95 Walkups
+ []
+
+</Users/kyleslugg/Documents/NYCHA/Production/IMAGES/typology_prewar.png, id=133
+, 807.015pt x 707.64375pt>
+File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/typology_prewar.png Gr
+aphic file (type png)
+<use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/typology_prewar.png>
+Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/typ
+ology_prewar.png  used on input line 6.
+(pdftex.def)             Requested size: 123.62065pt x 108.405pt.
+
+Overfull \hbox (15.21565pt too wide) in paragraph at lines 6--6
+[]|[]| 
+ []
+
+File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/typology_towerpark.png
+ Graphic file (type png)
+<use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/typology_towerpark.png>
+
+Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/typ
+ology_towerpark.png  used on input line 6.
+(pdftex.def)             Requested size: 112.05663pt x 108.405pt.
+
+Overfull \hbox (3.65163pt too wide) in paragraph at lines 6--6
+[]|[]| 
+ []
+
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3 </Users/kyleslugg/Documents/NYCHA/Production/IMAGES/typology_towerpark.png>
+ </Users/kyleslugg/Documents/NYCHA/Production/IMAGES/typology_prewar.png>]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(0.0pt, 614.295pt, 0.0pt)
+* v-part:(T,H,B)=(0.0pt, 794.96999pt, 0.0pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=614.295pt
+* \textheight=794.96999pt
+* \oddsidemargin=-72.26999pt
+* \evensidemargin=-72.26999pt
+* \topmargin=-109.26999pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=85.35826pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+</Users/kyleslugg/Documents/NYCHA/Production/MAPS/context_maps/073_context_1.pn
+g, id=143, 1760.5775pt x 2489.3pt>
+File: /Users/kyleslugg/Documents/NYCHA/Production/MAPS/context_maps/073_context
+_1.png Graphic file (type png)
+<use /Users/kyleslugg/Documents/NYCHA/Production/MAPS/context_maps/073_context_
+1.png>
+Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/MAPS/conte
+xt_maps/073_context_1.png  used on input line 54.
+(pdftex.def)             Requested size: 562.24115pt x 794.96999pt.
+ [4
+
+
+
+ </Users/kyleslugg/Documents/NYCHA/Production/MAPS/context_maps/073_context_1.p
+ng>]
+</Users/kyleslugg/Documents/NYCHA/Production/MAPS/context_maps/073_context_2.pn
+g, id=150, 1759.57375pt x 2489.3pt>
+File: /Users/kyleslugg/Documents/NYCHA/Production/MAPS/context_maps/073_context
+_2.png Graphic file (type png)
+<use /Users/kyleslugg/Documents/NYCHA/Production/MAPS/context_maps/073_context_
+2.png>
+Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/MAPS/conte
+xt_maps/073_context_2.png  used on input line 54.
+(pdftex.def)             Requested size: 561.92061pt x 794.96999pt.
+ [5
+
+ </Users/kyleslugg/Documents/NYCHA/Production/MAPS/context_maps/073_context_2.p
+ng>]
+[6
+
+]
+Chapter 3.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7
+
+]
+(/Users/kyleslugg/Documents/NYCHA/Production/TABLES/waste_distribution_table/07
+3_wd_table.tex
+Underfull \hbox (badness 1558) in paragraph at lines 10--10
+[]|  
+ []
+
+
+Underfull \hbox (badness 3758) in paragraph at lines 10--10
+\OT1/phv/m/n/10 40 lbs. sausage
+ []
+
+
+Underfull \hbox (badness 1102) in paragraph at lines 10--10
+[]|\OT1/phv/m/n/10 0.14 tons or (4.36)
+ []
+
+
+Underfull \hbox (badness 3758) in paragraph at lines 10--10
+\OT1/phv/m/n/10 40 lbs. sausage
+ []
+
+
+Underfull \hbox (badness 3758) in paragraph at lines 10--10
+\OT1/phv/m/n/10 40 lbs. sausage
+ []
+
+
+Underfull \hbox (badness 1102) in paragraph at lines 10--10
+[]|\OT1/phv/m/n/10 2.37 tons or (73.5)
+ []
+
+
+Underfull \hbox (badness 3758) in paragraph at lines 10--10
+\OT1/phv/m/n/10 40 lbs. sausage
+ []
+
+
+Underfull \hbox (badness 1102) in paragraph at lines 10--10
+[]|\OT1/phv/m/n/10 0.13 tons or (5.38)
+ []
+
+
+Underfull \hbox (badness 1102) in paragraph at lines 10--10
+[]|\OT1/phv/m/n/10 0.05 tons or (1.93)
+ []
+
+
+Underfull \hbox (badness 1558) in paragraph at lines 18--18
+[]|  
+ []
+
+
+Underfull \hbox (badness 1552) in paragraph at lines 18--18
+[]|\OT1/phv/m/n/10 0.08 tons or (8.68)
+ []
+
+
+Underfull \hbox (badness 1552) in paragraph at lines 18--18
+[]|\OT1/phv/m/n/10 0.05 tons or (7.11)
+ []
+
+
+Underfull \hbox (badness 1552) in paragraph at lines 18--18
+[]|\OT1/phv/m/n/10 0.06 tons or (2.04)
+ []
+
+
+Underfull \hbox (badness 1552) in paragraph at lines 18--18
+[]|\OT1/phv/m/n/10 0.02 tons or (0.73)
+ []
+
+
+Underfull \hbox (badness 1552) in paragraph at lines 18--18
+[]|\OT1/phv/m/n/10 0.27 tons or (9.57)
+ []
+
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8]
+(/Users/kyleslugg/Documents/NYCHA/Production/TABLES/waste_services/073_waste_se
+rvices.tex
+Underfull \hbox (badness 1558) in paragraph at lines 11--11
+[]|  
+ []
+
+
+Underfull \hbox (badness 3291) in paragraph at lines 11--11
+[]|\OT1/phv/m/n/10 1 ex-te-rior com-pactor in 1
+ []
+
+
+Underfull \hbox (badness 1478) in paragraph at lines 11--11
+[]|\OT1/phv/m/n/10 3 ex-te-rior com-pactors in 3
+ []
+
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9]
+</Users/kyleslugg/Documents/NYCHA/Production/MAPS/asset_maps/073_asset_map.png,
+ id=178, 614.295pt x 794.97pt>
+File: /Users/kyleslugg/Documents/NYCHA/Production/MAPS/asset_maps/073_asset_map
+.png Graphic file (type png)
+<use /Users/kyleslugg/Documents/NYCHA/Production/MAPS/asset_maps/073_asset_map.
+png>
+Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/MAPS/asset
+_maps/073_asset_map.png  used on input line 109.
+(pdftex.def)             Requested size: 514.9221pt x 666.41167pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10 </Users/kyleslugg/Documents/NYCHA/Production/MAPS/asset_maps/073_asset_map
+.png>]
+(/Users/kyleslugg/Documents/NYCHA/Production/TABLES/waste_assets/073_waste_asse
+ts.tex
+Underfull \hbox (badness 1558) in paragraph at lines 4--4
+[]|  
+ []
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 4.
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 4.
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 4.
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 4.
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 4.
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 4.
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 4.
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 4.
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 5.
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 5.
+
+
+Underfull \hbox (badness 1259) in paragraph at lines 5--5
+[]\OT1/phv/m/n/10 1|  
+ []
+
+
+Underfull \hbox (badness 1259) in paragraph at lines 5--5
+[]\OT1/phv/m/n/10 0|  
+ []
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 6.
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 6.
+
+
+Underfull \hbox (badness 1259) in paragraph at lines 6--6
+[]\OT1/phv/m/n/10 0|  
+ []
+
+
+Underfull \hbox (badness 1259) in paragraph at lines 6--6
+[]\OT1/phv/m/n/10 0|  
+ []
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 7.
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 7.
+
+
+Underfull \hbox (badness 1259) in paragraph at lines 7--7
+[]\OT1/phv/m/n/10 3|  
+ []
+
+
+Underfull \hbox (badness 1259) in paragraph at lines 7--7
+[]\OT1/phv/m/n/10 8|  
+ []
+
+)
+</Users/kyleslugg/Documents/NYCHA/Production/IMAGES/truck.png, id=185, 385.44pt
+ x 385.44pt>
+File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/truck.png Graphic file
+ (type png)
+<use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/truck.png>
+Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/tru
+ck.png  used on input line 131.
+(pdftex.def)             Requested size: 135.50624pt x 135.5059pt.
+</Users/kyleslugg/Documents/NYCHA/Production/IMAGES/bobcat.png, id=186, 411.136
+pt x 411.136pt>
+File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/bobcat.png Graphic fil
+e (type png)
+<use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/bobcat.png>
+Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/bob
+cat.png  used on input line 131.
+(pdftex.def)             Requested size: 135.50624pt x 135.5059pt.
+</Users/kyleslugg/Documents/NYCHA/Production/IMAGES/chromatica.jpg, id=187, 100
+3.75pt x 1003.75pt>
+File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/chromatica.jpg Graphic
+ file (type jpg)
+<use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/chromatica.jpg>
+Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/chr
+omatica.jpg  used on input line 131.
+(pdftex.def)             Requested size: 135.50624pt x 135.5004pt.
+
+Overfull \hbox (30.58269pt too wide) in paragraph at lines 129--133
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11 </Users/kyleslugg/Documents/NYCHA/Production/IMAGES/truck.png> </Users/kyl
+eslugg/Documents/NYCHA/Production/IMAGES/bobcat.png> </Users/kyleslugg/Document
+s/NYCHA/Production/IMAGES/chromatica.jpg>]
+(/Users/kyleslugg/Documents/NYCHA/Production/TABLES/capital_projects_table/073_
+capital_projects.tex
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+[]|\OT1/phv/m/n/10.95 Bedford-Stuyvesant Re-
+ []
+
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13]
+Chapter 4.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15]
+(/Users/kyleslugg/Documents/NYCHA/Production/TABLES/staff_table/073_staff_table
+.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16]
+[17]
+Chapter 5.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [18
+
+]
+(/Users/kyleslugg/Documents/NYCHA/Production/TEXT/analysis_text/073_analysis.te
+x
+Underfull \hbox (badness 10000) in paragraph at lines 232--1
+
+ []
+
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19]
+[20]
+Chapter 6.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 306.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 306.
+
+(./report.aux (./content.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 306.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 306.
+Package rerunfilecheck Info: File `report.out' has not changed.
+(rerunfilecheck)             Checksum: AD41349010F0A0BCEEBF1F2ABAE78328;783.
+Package logreq Info: Writing requests to 'report.run.xml'.
+\openout1 = `report.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 31956 strings out of 492649
+ 613579 string characters out of 6129622
+ 1154841 words of memory out of 5000000
+ 35124 multiletter control sequences out of 15000+600000
+ 21416 words of font info for 41 fonts, out of 8000000 for 9000
+ 1143 hyphenation exceptions out of 8191
+ 55i,26n,82p,1151b,2271s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/tex
+live/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
+ive/2018/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/201
+8/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2018/texmf
+-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on report.pdf (26 pages, 7192832 bytes).
+PDF statistics:
+ 283 PDF objects out of 1000 (max. 8388607)
+ 213 compressed objects within 3 object streams
+ 58 named destinations out of 1000 (max. 500000)
+ 268 words of extra memory for PDF output out of 10000 (max. 10000000)
+
