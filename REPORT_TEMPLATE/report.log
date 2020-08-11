@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  28 JUL 2020 16:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  11 AUG 2020 17:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -60,6 +60,52 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks17
 )
+(/usr/local/texlive/texmf-local/tex/latex/figureSeries/figureSeries.sty
+Package: figureSeries 2015/07/13 v0.9.4 Provides a floating, figure*-like const
+ruct that can break over multiple pages
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen111
+\captionmargin@=\dimen112
+\captionwidth=\dimen113
+\caption@tempdima=\dimen114
+\caption@indent=\dimen115
+\caption@parindent=\dimen116
+\caption@hangindent=\dimen117
+)
+\c@ContinuedFloat=\count92
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+\c@subfigure=\count93
+\c@subtable=\count94
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/afterpage.sty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks18
+\AP@partial=\box26
+\AP@footins=\box27
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/sttools/cuted.sty
+Package: cuted 2012/10/04 v1.5 Mixing onecolumn and twocolumn modes
+\At@ViperColsBreak=\toks19
+\v@aaa=\box28
+\v@ccc=\box29
+\lastskip@a=\skip43
+\lastskip@b=\skip44
+\lastskip@d=\skip45
+\lastbox@a=\box30
+\stripsep=\skip46
+\@viper=\box31
+\viper@penalty=\count95
+\hold@viper=\box32
+\ht@viper=\dimen118
+))
 (/usr/local/texlive/2018/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2018/02/14 3.18 The Babel package
 
@@ -76,11 +122,11 @@ aphy)
 
 (/usr/local/texlive/2018/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2018/02/14 3.18 Babel common definitions
-\babel@savecnt=\count92
-\U@D=\dimen111
+\babel@savecnt=\count96
+\U@D=\dimen119
 
 (/usr/local/texlive/2018/texmf-dist/tex/generic/babel/txtbabel.def)
-\bbl@dirlevel=\count93
+\bbl@dirlevel=\count97
 )
 Package babel Info: Making " an active character on input line 121.
 ))
@@ -92,30 +138,30 @@ Language: english 2017/06/06 v3.3r English support from the babel system
 ))
 (/usr/local/texlive/2018/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
-\labelindent=\skip43
-\enit@outerparindent=\dimen112
-\enit@toks=\toks18
-\enit@inbox=\box26
-\enitdp@description=\count94
+\labelindent=\skip47
+\enit@outerparindent=\dimen120
+\enit@toks=\toks20
+\enit@inbox=\box33
+\enitdp@description=\count98
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
 s
-\f@nch@headwidth=\skip44
-\f@nch@O@elh=\skip45
-\f@nch@O@erh=\skip46
-\f@nch@O@olh=\skip47
-\f@nch@O@orh=\skip48
-\f@nch@O@elf=\skip49
-\f@nch@O@erf=\skip50
-\f@nch@O@olf=\skip51
-\f@nch@O@orf=\skip52
+\f@nch@headwidth=\skip48
+\f@nch@O@elh=\skip49
+\f@nch@O@erh=\skip50
+\f@nch@O@olh=\skip51
+\f@nch@O@orh=\skip52
+\f@nch@O@elf=\skip53
+\f@nch@O@erf=\skip54
+\f@nch@O@olf=\skip55
+\f@nch@O@orf=\skip56
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/footmisc/footmisc.sty
 Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
-\FN@temptoken=\toks19
-\footnotemargin=\dimen113
-\c@pp@next@reset=\count95
+\FN@temptoken=\toks21
+\footnotemargin=\dimen121
+\c@pp@next@reset=\count99
 Package footmisc Info: Declaring symbol style bringhurst on input line 855.
 Package footmisc Info: Declaring symbol style chicago on input line 863.
 Package footmisc Info: Declaring symbol style wiley on input line 872.
@@ -134,18 +180,18 @@ Package: suffix 2006/07/15 1.5a Variant command support
 (/usr/local/texlive/2018/texmf-dist/tex/generic/xstring/xstring.sty
 (/usr/local/texlive/2018/texmf-dist/tex/generic/xstring/xstring.tex
 \@xs@message=\write3
-\integerpart=\count96
-\decimalpart=\count97
+\integerpart=\count100
+\decimalpart=\count101
 )
 Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
 )
-\AC@clearlist=\toks20
+\AC@clearlist=\toks22
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/appendix/appendix.sty
 Package: appendix 2009/09/02 v1.2b extra appendix facilities
-\c@@pps=\count98
-\c@@ppsavesec=\count99
-\c@@ppsaveapp=\count100
+\c@@pps=\count102
+\c@@ppsavesec=\count103
+\c@@ppsaveapp=\count104
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/pdfpages/pdfpages.sty
 Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
@@ -155,16 +201,16 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count101
-\calc@Bcount=\count102
-\calc@Adimen=\dimen114
-\calc@Bdimen=\dimen115
-\calc@Askip=\skip53
-\calc@Bskip=\skip54
+\calc@Acount=\count105
+\calc@Bcount=\count106
+\calc@Adimen=\dimen122
+\calc@Bdimen=\dimen123
+\calc@Askip=\skip57
+\calc@Bskip=\skip58
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count103
-\calc@Cskip=\skip55
+\calc@Ccount=\count107
+\calc@Cskip=\skip59
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
@@ -194,18 +240,18 @@ Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/tools/array.sty
 Package: array 2018/04/07 v2.4g Tabular extension package (FMi)
-\col@sep=\dimen116
-\ar@mcellbox=\box27
-\extrarowheight=\dimen117
-\NC@list=\toks21
-\extratabsurround=\skip56
-\backup@length=\skip57
-\ar@cellbox=\box28
+\col@sep=\dimen124
+\ar@mcellbox=\box34
+\extrarowheight=\dimen125
+\NC@list=\toks23
+\extratabsurround=\skip60
+\backup@length=\skip61
+\ar@cellbox=\box35
 )
-\everycr=\toks22
-\minrowclearance=\skip58
+\everycr=\toks24
+\minrowclearance=\skip62
 )
-\rownum=\count104
+\rownum=\count108
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
 Package xcolor Info: Model `RGB' extended on input line 1364.
@@ -230,35 +276,35 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 )
-\Gin@req@height=\dimen118
-\Gin@req@width=\dimen119
+\Gin@req@height=\dimen126
+\Gin@req@width=\dimen127
 )
-\AM@pagewidth=\dimen120
-\AM@pageheight=\dimen121
+\AM@pagewidth=\dimen128
+\AM@pageheight=\dimen129
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/pdfpages/pppdftex.def
 File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
 )
-\AM@pagebox=\box29
-\AM@global@opts=\toks23
-\AM@toc@title=\toks24
-\c@AM@survey=\count105
-\AM@templatesizebox=\box30
+\AM@pagebox=\box36
+\AM@global@opts=\toks25
+\AM@toc@title=\toks26
+\c@AM@survey=\count109
+\AM@templatesizebox=\box37
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/csquotes/csquotes.sty
 Package: csquotes 2018/02/11 v5.2c context-sensitive quotations (JAW)
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count106
+\etb@tempcnta=\count110
 )
-\csq@reset=\count107
-\csq@gtype=\count108
-\csq@glevel=\count109
-\csq@qlevel=\count110
-\csq@maxlvl=\count111
-\csq@tshold=\count112
-\csq@ltx@everypar=\toks25
+\csq@reset=\count111
+\csq@gtype=\count112
+\csq@glevel=\count113
+\csq@qlevel=\count114
+\csq@maxlvl=\count115
+\csq@tshold=\count116
+\csq@ltx@everypar=\toks27
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/csquotes/csquotes.def
 File: csquotes.def 2018/02/11 v5.2c csquotes generic definitions (JAW)
@@ -275,98 +321,86 @@ pages
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks26
-\verbatim@line=\toks27
+\every@verbatim=\toks28
+\verbatim@line=\toks29
 \verbatim@in@stream=\read1
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/threeparttable/threeparttable.sty
 Package: threeparttable 2003/06/13  v 3.0
-\@tempboxb=\box31
+\@tempboxb=\box38
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
-\@vwid@box=\box32
-\sift@deathcycles=\count113
-\@vwid@loff=\dimen122
-\@vwid@roff=\dimen123
+\@vwid@box=\box39
+\sift@deathcycles=\count117
+\@vwid@loff=\dimen130
+\@vwid@roff=\dimen131
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/floatrow/floatrow.sty
 Package: floatrow 2008/08/02 v0.3b floatrow: float package extension
-
-(/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
-Package caption3 Info: TeX engine: e-TeX on input line 67.
-\captionmargin=\dimen124
-\captionmargin@=\dimen125
-\captionwidth=\dimen126
-\caption@tempdima=\dimen127
-\caption@indent=\dimen128
-\caption@parindent=\dimen129
-\caption@hangindent=\dimen130
-)
-\c@float@type=\count114
-\float@exts=\toks28
-\float@box=\box33
-\@floatcapt=\box34
+\c@float@type=\count118
+\float@exts=\toks30
+\float@box=\box40
+\@floatcapt=\box41
 Package floatrow Info: Modified float package code loaded on input line 455.
 Package floatrow Info: Modified rotfloat package code loaded on input line 473.
 
-\FR@everyfloat=\toks29
+\FR@everyfloat=\toks31
 \flrow@foot=\insert199
-\FB@wd=\dimen131
-\FBo@wd=\dimen132
-\FBc@wd=\dimen133
-\FBo@ht=\skip59
-\FBc@ht=\skip60
-\FBf@ht=\skip61
-\FBo@max=\skip62
-\FBc@max=\skip63
-\FBf@max=\skip64
-\c@FBl@b=\count115
-\floatbox@depth=\count116
-\c@FRobj=\count117
-\c@FRsobj=\count118
-\Xhsize=\skip65
-\sXhsize=\skip66
-\Zhsize=\skip67
-\sZhsize=\skip68
-\flrow@rowbox=\box35
-\FR@Zunitlength=\dimen134
-\c@FBcnt=\count119
-\FPOScnt=\count120
-\LTleft=\skip69
-\LTright=\skip70
-\LTleft=\skip71
-\LTright=\skip72
-\flrow@types=\toks30
+\FB@wd=\dimen132
+\FBo@wd=\dimen133
+\FBc@wd=\dimen134
+\FBo@ht=\skip63
+\FBc@ht=\skip64
+\FBf@ht=\skip65
+\FBo@max=\skip66
+\FBc@max=\skip67
+\FBf@max=\skip68
+\c@FBl@b=\count119
+\floatbox@depth=\count120
+\c@FRobj=\count121
+\c@FRsobj=\count122
+\Xhsize=\skip69
+\sXhsize=\skip70
+\Zhsize=\skip71
+\sZhsize=\skip72
+\flrow@rowbox=\box42
+\FR@Zunitlength=\dimen135
+\c@FBcnt=\count123
+\FPOScnt=\count124
+\LTleft=\skip73
+\LTright=\skip74
+\LTleft=\skip75
+\LTright=\skip76
+\flrow@types=\toks32
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
-\multirow@colwidth=\skip73
-\multirow@cntb=\count121
-\multirow@dima=\skip74
-\bigstrutjot=\dimen135
+\multirow@colwidth=\skip77
+\multirow@cntb=\count125
+\multirow@dima=\skip78
+\bigstrutjot=\dimen136
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
-\ttl@box=\box36
-\beforetitleunit=\skip75
-\aftertitleunit=\skip76
-\ttl@plus=\dimen136
-\ttl@minus=\dimen137
-\ttl@toksa=\toks31
-\titlewidth=\dimen138
-\titlewidthlast=\dimen139
-\titlewidthfirst=\dimen140
+\ttl@box=\box43
+\beforetitleunit=\skip79
+\aftertitleunit=\skip80
+\ttl@plus=\dimen137
+\ttl@minus=\dimen138
+\ttl@toksa=\toks33
+\titlewidth=\dimen139
+\titlewidthlast=\dimen140
+\titlewidthfirst=\dimen141
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
-\TX@col@width=\dimen141
-\TX@old@table=\dimen142
-\TX@old@col=\dimen143
-\TX@target=\dimen144
-\TX@delta=\dimen145
-\TX@cols=\count122
-\TX@ftn=\toks32
+\TX@col@width=\dimen142
+\TX@old@table=\dimen143
+\TX@old@col=\dimen144
+\TX@target=\dimen145
+\TX@delta=\dimen146
+\TX@cols=\count126
+\TX@ftn=\toks34
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/adjustbox/adjustbox.sty
 Package: adjustbox 2018/04/08 v1.1 Adjusting TeX boxes (trim, clip, ...)
@@ -376,10 +410,10 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
 (/usr/local/texlive/2018/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (/usr/local/texlive/2018/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks33
-\XKV@tempa@toks=\toks34
+\XKV@toks=\toks35
+\XKV@tempa@toks=\toks36
 )
-\XKV@depth=\count123
+\XKV@depth=\count127
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (/usr/local/texlive/2018/texmf-dist/tex/latex/adjustbox/adjcalc.sty
@@ -391,37 +425,30 @@ Package: trimclip 2018/04/08 v1.1 Trim and clip general TeX material
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/collectbox/collectbox.sty
 Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
-\collectedbox=\box37
+\collectedbox=\box44
 )
-\tc@llx=\dimen146
-\tc@lly=\dimen147
-\tc@urx=\dimen148
-\tc@ury=\dimen149
+\tc@llx=\dimen147
+\tc@lly=\dimen148
+\tc@urx=\dimen149
+\tc@ury=\dimen150
 Package trimclip Info: Using driver 'tc-pdftex.def'.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
 File: tc-pdftex.def 2018/04/08 v2.1 Clipping driver for pdftex
 ))
-\adjbox@Width=\dimen150
-\adjbox@Height=\dimen151
-\adjbox@Depth=\dimen152
-\adjbox@Totalheight=\dimen153
-\adjbox@pwidth=\dimen154
-\adjbox@pheight=\dimen155
-\adjbox@pdepth=\dimen156
-\adjbox@ptotalheight=\dimen157
+\adjbox@Width=\dimen151
+\adjbox@Height=\dimen152
+\adjbox@Depth=\dimen153
+\adjbox@Totalheight=\dimen154
+\adjbox@pwidth=\dimen155
+\adjbox@pheight=\dimen156
+\adjbox@pdepth=\dimen157
+\adjbox@ptotalheight=\dimen158
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
 Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
-\c@checkoddpage=\count124
+\c@checkoddpage=\count128
 ))
-(/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
-\c@ContinuedFloat=\count125
-Package caption Info: float package is loaded.
-Package caption Info: floatrow package is loaded.
-Package caption Info: threeparttable package is loaded.
-)
 (/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2018/03/04 v3.11 programmable bibliographies (PK/MW)
 
@@ -453,7 +480,7 @@ Package etexcmds Info: Could not find \expanded.
 )))
 (/usr/local/texlive/2018/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count126
+\lrq@indent=\count129
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
@@ -462,57 +489,57 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count127
-\c@listtotal=\count128
-\c@listcount=\count129
-\c@liststart=\count130
-\c@liststop=\count131
-\c@citecount=\count132
-\c@citetotal=\count133
-\c@multicitecount=\count134
-\c@multicitetotal=\count135
-\c@instcount=\count136
-\c@maxnames=\count137
-\c@minnames=\count138
-\c@maxitems=\count139
-\c@minitems=\count140
-\c@citecounter=\count141
-\c@savedcitecounter=\count142
-\c@uniquelist=\count143
-\c@uniquename=\count144
-\c@refsection=\count145
-\c@refsegment=\count146
-\c@maxextratitle=\count147
-\c@maxextratitleyear=\count148
-\c@maxextradate=\count149
-\c@maxextraalpha=\count150
-\c@abbrvpenalty=\count151
-\c@highnamepenalty=\count152
-\c@lownamepenalty=\count153
-\c@maxparens=\count154
-\c@parenlevel=\count155
-\blx@tempcnta=\count156
-\blx@tempcntb=\count157
-\blx@tempcntc=\count158
-\blx@maxsection=\count159
-\blx@maxsegment@0=\count160
-\blx@notetype=\count161
-\blx@parenlevel@text=\count162
-\blx@parenlevel@foot=\count163
-\blx@sectionciteorder@0=\count164
-\labelnumberwidth=\skip77
-\labelalphawidth=\skip78
-\biblabelsep=\skip79
-\bibitemsep=\skip80
-\bibnamesep=\skip81
-\bibinitsep=\skip82
-\bibparsep=\skip83
-\bibhang=\skip84
+\c@tabx@nest=\count130
+\c@listtotal=\count131
+\c@listcount=\count132
+\c@liststart=\count133
+\c@liststop=\count134
+\c@citecount=\count135
+\c@citetotal=\count136
+\c@multicitecount=\count137
+\c@multicitetotal=\count138
+\c@instcount=\count139
+\c@maxnames=\count140
+\c@minnames=\count141
+\c@maxitems=\count142
+\c@minitems=\count143
+\c@citecounter=\count144
+\c@savedcitecounter=\count145
+\c@uniquelist=\count146
+\c@uniquename=\count147
+\c@refsection=\count148
+\c@refsegment=\count149
+\c@maxextratitle=\count150
+\c@maxextratitleyear=\count151
+\c@maxextradate=\count152
+\c@maxextraalpha=\count153
+\c@abbrvpenalty=\count154
+\c@highnamepenalty=\count155
+\c@lownamepenalty=\count156
+\c@maxparens=\count157
+\c@parenlevel=\count158
+\blx@tempcnta=\count159
+\blx@tempcntb=\count160
+\blx@tempcntc=\count161
+\blx@maxsection=\count162
+\blx@maxsegment@0=\count163
+\blx@notetype=\count164
+\blx@parenlevel@text=\count165
+\blx@parenlevel@foot=\count166
+\blx@sectionciteorder@0=\count167
+\labelnumberwidth=\skip81
+\labelalphawidth=\skip82
+\biblabelsep=\skip83
+\bibitemsep=\skip84
+\bibnamesep=\skip85
+\bibinitsep=\skip86
+\bibparsep=\skip87
+\bibhang=\skip88
 \blx@bcfin=\read2
 \blx@bcfout=\write4
-\c@mincomprange=\count165
-\c@maxcomprange=\count166
-\c@mincompwidth=\count167
+\c@mincomprange=\count168
+\c@maxcomprange=\count169
+\c@mincompwidth=\count170
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -523,88 +550,88 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'numeric.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count168
-\c@savedafterword=\count169
-\c@annotator=\count170
-\c@savedannotator=\count171
-\c@author=\count172
-\c@savedauthor=\count173
-\c@bookauthor=\count174
-\c@savedbookauthor=\count175
-\c@commentator=\count176
-\c@savedcommentator=\count177
-\c@editor=\count178
-\c@savededitor=\count179
-\c@editora=\count180
-\c@savededitora=\count181
-\c@editorb=\count182
-\c@savededitorb=\count183
-\c@editorc=\count184
-\c@savededitorc=\count185
-\c@foreword=\count186
-\c@savedforeword=\count187
-\c@holder=\count188
-\c@savedholder=\count189
-\c@introduction=\count190
-\c@savedintroduction=\count191
-\c@namea=\count192
-\c@savednamea=\count193
-\c@nameb=\count194
-\c@savednameb=\count195
-\c@namec=\count196
-\c@savednamec=\count197
-\c@translator=\count198
-\c@savedtranslator=\count266
-\c@shortauthor=\count267
-\c@savedshortauthor=\count268
-\c@shorteditor=\count269
-\c@savedshorteditor=\count270
-\c@labelname=\count271
-\c@savedlabelname=\count272
-\c@institution=\count273
-\c@savedinstitution=\count274
-\c@lista=\count275
-\c@savedlista=\count276
-\c@listb=\count277
-\c@savedlistb=\count278
-\c@listc=\count279
-\c@savedlistc=\count280
-\c@listd=\count281
-\c@savedlistd=\count282
-\c@liste=\count283
-\c@savedliste=\count284
-\c@listf=\count285
-\c@savedlistf=\count286
-\c@location=\count287
-\c@savedlocation=\count288
-\c@organization=\count289
-\c@savedorganization=\count290
-\c@origlocation=\count291
-\c@savedoriglocation=\count292
-\c@origpublisher=\count293
-\c@savedorigpublisher=\count294
-\c@publisher=\count295
-\c@savedpublisher=\count296
-\c@language=\count297
-\c@savedlanguage=\count298
-\c@origlanguage=\count299
-\c@savedoriglanguage=\count300
-\c@pageref=\count301
-\c@savedpageref=\count302
-\shorthandwidth=\skip85
-\shortjournalwidth=\skip86
-\shortserieswidth=\skip87
-\shorttitlewidth=\skip88
-\shortauthorwidth=\skip89
-\shorteditorwidth=\skip90
-\locallabelnumberwidth=\skip91
-\locallabelalphawidth=\skip92
-\localshorthandwidth=\skip93
-\localshortjournalwidth=\skip94
-\localshortserieswidth=\skip95
-\localshorttitlewidth=\skip96
-\localshortauthorwidth=\skip97
-\localshorteditorwidth=\skip98
+\c@afterword=\count171
+\c@savedafterword=\count172
+\c@annotator=\count173
+\c@savedannotator=\count174
+\c@author=\count175
+\c@savedauthor=\count176
+\c@bookauthor=\count177
+\c@savedbookauthor=\count178
+\c@commentator=\count179
+\c@savedcommentator=\count180
+\c@editor=\count181
+\c@savededitor=\count182
+\c@editora=\count183
+\c@savededitora=\count184
+\c@editorb=\count185
+\c@savededitorb=\count186
+\c@editorc=\count187
+\c@savededitorc=\count188
+\c@foreword=\count189
+\c@savedforeword=\count190
+\c@holder=\count191
+\c@savedholder=\count192
+\c@introduction=\count193
+\c@savedintroduction=\count194
+\c@namea=\count195
+\c@savednamea=\count196
+\c@nameb=\count197
+\c@savednameb=\count198
+\c@namec=\count266
+\c@savednamec=\count267
+\c@translator=\count268
+\c@savedtranslator=\count269
+\c@shortauthor=\count270
+\c@savedshortauthor=\count271
+\c@shorteditor=\count272
+\c@savedshorteditor=\count273
+\c@labelname=\count274
+\c@savedlabelname=\count275
+\c@institution=\count276
+\c@savedinstitution=\count277
+\c@lista=\count278
+\c@savedlista=\count279
+\c@listb=\count280
+\c@savedlistb=\count281
+\c@listc=\count282
+\c@savedlistc=\count283
+\c@listd=\count284
+\c@savedlistd=\count285
+\c@liste=\count286
+\c@savedliste=\count287
+\c@listf=\count288
+\c@savedlistf=\count289
+\c@location=\count290
+\c@savedlocation=\count291
+\c@organization=\count292
+\c@savedorganization=\count293
+\c@origlocation=\count294
+\c@savedoriglocation=\count295
+\c@origpublisher=\count296
+\c@savedorigpublisher=\count297
+\c@publisher=\count298
+\c@savedpublisher=\count299
+\c@language=\count300
+\c@savedlanguage=\count301
+\c@origlanguage=\count302
+\c@savedoriglanguage=\count303
+\c@pageref=\count304
+\c@savedpageref=\count305
+\shorthandwidth=\skip89
+\shortjournalwidth=\skip90
+\shortserieswidth=\skip91
+\shorttitlewidth=\skip92
+\shortauthorwidth=\skip93
+\shorteditorwidth=\skip94
+\locallabelnumberwidth=\skip95
+\locallabelalphawidth=\skip96
+\localshorthandwidth=\skip97
+\localshortjournalwidth=\skip98
+\localshortserieswidth=\skip99
+\localshorttitlewidth=\skip100
+\localshortauthorwidth=\skip101
+\localshorteditorwidth=\skip102
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
@@ -626,13 +653,13 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2018/03/04 v3.11 biblatex compatibility (PK/MW)
-\c@textcitecount=\count303
-\c@textcitetotal=\count304
-\c@textcitemaxnames=\count305
-\c@biburlnumpenalty=\count306
-\c@biburlucpenalty=\count307
-\c@biburllcpenalty=\count308
-\c@smartand=\count309
+\c@textcitecount=\count306
+\c@textcitetotal=\count307
+\c@textcitemaxnames=\count308
+\c@biburlnumpenalty=\count309
+\c@biburlucpenalty=\count310
+\c@biburllcpenalty=\count311
+\c@smartand=\count312
 )
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
@@ -644,8 +671,8 @@ Package biblatex Info: ... file 'standard.bbx' found.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2018/03/04 v3.11 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count310
-\c@bbx:relatedtotal=\count311
+\c@bbx:relatedcount=\count313
+\c@bbx:relatedtotal=\count314
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
@@ -710,6 +737,7 @@ Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
 Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
 Package: xcolor-patch 2016/05/16 xcolor patch
 Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \AP@enddocument detected (standard20110627).
 Package hobsub Info: Skipping package `atbegshi' (already loaded).
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
@@ -717,16 +745,16 @@ Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-\@linkdim=\dimen158
-\Hy@linkcounter=\count312
-\Hy@pagecounter=\count313
+\@linkdim=\dimen159
+\Hy@linkcounter=\count315
+\Hy@pagecounter=\count316
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count314
+\Hy@SavedSpaceFactor=\count317
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -755,12 +783,12 @@ Package hyperref Info: Plain pages OFF on input line 4524.
 Package hyperref Info: Backreferencing OFF on input line 4529.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4762.
-\c@Hy@tempcnt=\count315
+\c@Hy@tempcnt=\count318
 LaTeX Info: Redefining \url on input line 5115.
-\XeTeXLinkMargin=\dimen159
-\Fld@menulength=\count316
-\Field@Width=\dimen160
-\Fld@charsize=\dimen161
+\XeTeXLinkMargin=\dimen160
+\Fld@menulength=\count319
+\Field@Width=\dimen161
+\Fld@charsize=\dimen162
 Package hyperref Info: Hyper figures OFF on input line 6369.
 Package hyperref Info: Link nesting OFF on input line 6374.
 Package hyperref Info: Hyper index ON on input line 6377.
@@ -770,37 +798,31 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6394.
 Package hyperref Info: PDF/A mode OFF on input line 6399.
 LaTeX Info: Redefining \ref on input line 6439.
 LaTeX Info: Redefining \pageref on input line 6443.
-\Hy@abspage=\count317
-\c@Item=\count318
-\c@Hfootnote=\count319
+\Hy@abspage=\count320
+\c@Item=\count321
+\c@Hfootnote=\count322
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
-\Fld@listcount=\count320
-\c@bookmark@seq@number=\count321
+\Fld@listcount=\count323
+\c@bookmark@seq@number=\count324
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip99
+\Hy@SectionHShift=\skip103
 )
 
 Package hyperref Warning: Unexpected value for option `hidelinks'
-(hyperref)                is ignored on input line 132.
+(hyperref)                is ignored on input line 134.
 
-Package hyperref Info: Option `colorlinks' set `false' on input line 132.
-Package hyperref Info: Option `linktocpage' set `true' on input line 132.
-Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 132.
+Package hyperref Info: Option `colorlinks' set `false' on input line 134.
+Package hyperref Info: Option `linktocpage' set `true' on input line 134.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 134.
 
-(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/afterpage.sty
-Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
-\AP@output=\toks35
-\AP@partial=\box38
-\AP@footins=\box39
-)
 (/usr/local/texlive/2018/texmf-dist/tex/latex/pagecolor/pagecolor.sty
 Package: pagecolor 2017/05/29 v1.0i Provides thepagecolor (HMM)
 )
@@ -811,24 +833,24 @@ Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS)
 File: block.tss 2016/03/15
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count322
-\lst@gtempboxa=\box40
-\lst@token=\toks36
-\lst@length=\count323
-\lst@currlwidth=\dimen162
-\lst@column=\count324
-\lst@pos=\count325
-\lst@lostspace=\dimen163
-\lst@width=\dimen164
-\lst@newlines=\count326
-\lst@lineno=\count327
-\lst@maxwidth=\dimen165
+\lst@mode=\count325
+\lst@gtempboxa=\box45
+\lst@token=\toks37
+\lst@length=\count326
+\lst@currlwidth=\dimen163
+\lst@column=\count327
+\lst@pos=\count328
+\lst@lostspace=\dimen164
+\lst@width=\dimen165
+\lst@newlines=\count329
+\lst@lineno=\count330
+\lst@maxwidth=\dimen166
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-\c@lstnumber=\count328
-\lst@skipnumbers=\count329
-\lst@framebox=\box41
+\c@lstnumber=\count331
+\lst@skipnumbers=\count332
+\lst@framebox=\box46
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2015/06/04 1.6 listings configuration
@@ -852,14 +874,14 @@ File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
 (/usr/local/texlive/2018/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
 x
-\pgfutil@everybye=\toks37
-\pgfutil@tempdima=\dimen166
-\pgfutil@tempdimb=\dimen167
+\pgfutil@everybye=\toks38
+\pgfutil@tempdima=\dimen167
+\pgfutil@tempdimb=\dimen168
 
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
 sts.tex))
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box42
+\pgfutil@abb=\box47
 (/usr/local/texlive/2018/texmf-dist/tex/latex/ms/everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
@@ -872,30 +894,30 @@ Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks38
-\pgfkeys@temptoks=\toks39
+\pgfkeys@pathtoks=\toks39
+\pgfkeys@temptoks=\toks40
 
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
 ode.tex
-\pgfkeys@tmptoks=\toks40
+\pgfkeys@tmptoks=\toks41
 ))
-\pgf@x=\dimen168
-\pgf@y=\dimen169
-\pgf@xa=\dimen170
-\pgf@ya=\dimen171
-\pgf@xb=\dimen172
-\pgf@yb=\dimen173
-\pgf@xc=\dimen174
-\pgf@yc=\dimen175
+\pgf@x=\dimen169
+\pgf@y=\dimen170
+\pgf@xa=\dimen171
+\pgf@ya=\dimen172
+\pgf@xb=\dimen173
+\pgf@yb=\dimen174
+\pgf@xc=\dimen175
+\pgf@yc=\dimen176
 \w@pgf@writea=\write5
 \r@pgf@reada=\read3
-\c@pgf@counta=\count330
-\c@pgf@countb=\count331
-\c@pgf@countc=\count332
-\c@pgf@countd=\count333
-\t@pgf@toka=\toks41
-\t@pgf@tokb=\toks42
-\t@pgf@tokc=\toks43
+\c@pgf@counta=\count333
+\c@pgf@countb=\count334
+\c@pgf@countc=\count335
+\c@pgf@countd=\count336
+\t@pgf@toka=\toks42
+\t@pgf@tokb=\toks43
+\t@pgf@tokc=\toks44
 
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
@@ -913,8 +935,8 @@ File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
 code.tex
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
-\pgfsyssoftpath@smallbuffer@items=\count334
-\pgfsyssoftpath@bigbuffer@items=\count335
+\pgfsyssoftpath@smallbuffer@items=\count337
+\pgfsyssoftpath@bigbuffer@items=\count338
 )
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
 code.tex
@@ -926,12 +948,12 @@ Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen176
-\pgfmath@count=\count336
-\pgfmath@box=\box43
-\pgfmath@toks=\toks44
-\pgfmath@stack@operand=\toks45
-\pgfmath@stack@operation=\toks46
+\pgfmath@dimen=\dimen177
+\pgfmath@count=\count339
+\pgfmath@box=\box48
+\pgfmath@toks=\toks45
+\pgfmath@stack@operand=\toks46
+\pgfmath@stack@operation=\toks47
 )
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
 tex
@@ -952,57 +974,57 @@ code.tex)
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
 erarithmetics.code.tex)))
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count337
+\c@pgfmathroundto@lastzeros=\count340
 ))
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
 de.tex
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
-\pgf@picminx=\dimen177
-\pgf@picmaxx=\dimen178
-\pgf@picminy=\dimen179
-\pgf@picmaxy=\dimen180
-\pgf@pathminx=\dimen181
-\pgf@pathmaxx=\dimen182
-\pgf@pathminy=\dimen183
-\pgf@pathmaxy=\dimen184
-\pgf@xx=\dimen185
-\pgf@xy=\dimen186
-\pgf@yx=\dimen187
-\pgf@yy=\dimen188
-\pgf@zx=\dimen189
-\pgf@zy=\dimen190
+\pgf@picminx=\dimen178
+\pgf@picmaxx=\dimen179
+\pgf@picminy=\dimen180
+\pgf@picmaxy=\dimen181
+\pgf@pathminx=\dimen182
+\pgf@pathmaxx=\dimen183
+\pgf@pathminy=\dimen184
+\pgf@pathmaxy=\dimen185
+\pgf@xx=\dimen186
+\pgf@xy=\dimen187
+\pgf@yx=\dimen188
+\pgf@yy=\dimen189
+\pgf@zx=\dimen190
+\pgf@zy=\dimen191
 )
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
 ruct.code.tex
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
-\pgf@path@lastx=\dimen191
-\pgf@path@lasty=\dimen192
+\pgf@path@lastx=\dimen192
+\pgf@path@lasty=\dimen193
 )
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
 .code.tex
 File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
-\pgf@shorten@end@additional=\dimen193
-\pgf@shorten@start@additional=\dimen194
+\pgf@shorten@end@additional=\dimen194
+\pgf@shorten@start@additional=\dimen195
 )
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
 de.tex
 File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
-\pgfpic=\box44
-\pgf@hbox=\box45
-\pgf@layerbox@main=\box46
-\pgf@picture@serial@count=\count338
+\pgfpic=\box49
+\pgf@hbox=\box50
+\pgf@layerbox@main=\box51
+\pgf@picture@serial@count=\count341
 )
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
 ate.code.tex
 File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
-\pgflinewidth=\dimen195
+\pgflinewidth=\dimen196
 )
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
 ations.code.tex
 File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
-\pgf@pt@x=\dimen196
-\pgf@pt@y=\dimen197
-\pgf@pt@temp=\dimen198
+\pgf@pt@x=\dimen197
+\pgf@pt@y=\dimen198
+\pgf@pt@temp=\dimen256
 )
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
 e.tex
@@ -1019,13 +1041,13 @@ File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
 de.tex
 File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
-\pgfarrowsep=\dimen256
+\pgfarrowsep=\dimen257
 )
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
 e.tex
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
-\pgf@max=\dimen257
-\pgf@sys@shading@range@num=\count339
+\pgf@max=\dimen258
+\pgf@sys@shading@range@num=\count342
 )
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
 e.tex
@@ -1034,7 +1056,7 @@ File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
 code.tex
 File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
-\pgfexternal@startupbox=\box47
+\pgfexternal@startupbox=\box52
 ))
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
 de.tex
@@ -1051,7 +1073,7 @@ File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
 e.tex
 File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
-\pgfnodeparttextbox=\box48
+\pgfnodeparttextbox=\box53
 )
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
 tex
@@ -1060,8 +1082,8 @@ File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
 (/usr/local/texlive/2018/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
 -0-65.sty
 Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen258
-\pgf@nodesepend=\dimen259
+\pgf@nodesepstart=\dimen259
+\pgf@nodesepend=\dimen260
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
 -1-18.sty
@@ -1076,10 +1098,10 @@ Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
 Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen260
-\pgffor@skip=\dimen261
-\pgffor@stack=\toks47
-\pgffor@toks=\toks48
+\pgffor@iter=\dimen261
+\pgffor@skip=\dimen262
+\pgffor@stack=\toks48
+\pgffor@toks=\toks49
 ))
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
 e.tex
@@ -1088,32 +1110,32 @@ Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
 dlers.code.tex
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
-\pgf@plot@mark@count=\count340
-\pgfplotmarksize=\dimen262
+\pgf@plot@mark@count=\count343
+\pgfplotmarksize=\dimen263
 )
-\tikz@lastx=\dimen263
-\tikz@lasty=\dimen264
-\tikz@lastxsaved=\dimen265
-\tikz@lastysaved=\dimen266
-\tikzleveldistance=\dimen267
-\tikzsiblingdistance=\dimen268
-\tikz@figbox=\box49
-\tikz@figbox@bg=\box50
-\tikz@tempbox=\box51
-\tikz@tempbox@bg=\box52
-\tikztreelevel=\count341
-\tikznumberofchildren=\count342
-\tikznumberofcurrentchild=\count343
-\tikz@fig@count=\count344
+\tikz@lastx=\dimen264
+\tikz@lasty=\dimen265
+\tikz@lastxsaved=\dimen266
+\tikz@lastysaved=\dimen267
+\tikzleveldistance=\dimen268
+\tikzsiblingdistance=\dimen269
+\tikz@figbox=\box54
+\tikz@figbox@bg=\box55
+\tikz@tempbox=\box56
+\tikz@tempbox@bg=\box57
+\tikztreelevel=\count344
+\tikznumberofchildren=\count345
+\tikznumberofcurrentchild=\count346
+\tikz@fig@count=\count347
 
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
 e.tex
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count345
-\pgfmatrixcurrentcolumn=\count346
-\pgf@matrix@numberofcolumns=\count347
+\pgfmatrixcurrentrow=\count348
+\pgfmatrixcurrentcolumn=\count349
+\pgf@matrix@numberofcolumns=\count350
 )
-\tikz@expandcount=\count348
+\tikz@expandcount=\count351
 
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarytopaths.code.tex
@@ -1170,26 +1192,26 @@ File: tikzlibraryshapes.multipart.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1
 shapes.multipart.code.tex
 File: pgflibraryshapes.multipart.code.tex 2010/01/07 v3.0.1a (rcs-revision 1.2)
 
-\pgfnodepartlowerbox=\box53
-\pgfnodeparttwobox=\box54
-\pgfnodepartthreebox=\box55
-\pgfnodepartfourbox=\box56
-\pgfnodeparttwentybox=\box57
-\pgfnodepartnineteenbox=\box58
-\pgfnodeparteighteenbox=\box59
-\pgfnodepartseventeenbox=\box60
-\pgfnodepartsixteenbox=\box61
-\pgfnodepartfifteenbox=\box62
-\pgfnodepartfourteenbox=\box63
-\pgfnodepartthirteenbox=\box64
-\pgfnodeparttwelvebox=\box65
-\pgfnodepartelevenbox=\box66
-\pgfnodeparttenbox=\box67
-\pgfnodepartninebox=\box68
-\pgfnodeparteightbox=\box69
-\pgfnodepartsevenbox=\box70
-\pgfnodepartsixbox=\box71
-\pgfnodepartfivebox=\box72
+\pgfnodepartlowerbox=\box58
+\pgfnodeparttwobox=\box59
+\pgfnodepartthreebox=\box60
+\pgfnodepartfourbox=\box61
+\pgfnodeparttwentybox=\box62
+\pgfnodepartnineteenbox=\box63
+\pgfnodeparteighteenbox=\box64
+\pgfnodepartseventeenbox=\box65
+\pgfnodepartsixteenbox=\box66
+\pgfnodepartfifteenbox=\box67
+\pgfnodepartfourteenbox=\box68
+\pgfnodepartthirteenbox=\box69
+\pgfnodeparttwelvebox=\box70
+\pgfnodepartelevenbox=\box71
+\pgfnodeparttenbox=\box72
+\pgfnodepartninebox=\box73
+\pgfnodeparteightbox=\box74
+\pgfnodepartsevenbox=\box75
+\pgfnodepartsixbox=\box76
+\pgfnodepartfivebox=\box77
 )))
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibraryarrows.code.tex
@@ -1198,7 +1220,7 @@ File: tikzlibraryarrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.
 code.tex
 File: pgflibraryarrows.code.tex 2013/09/23 v3.0.1a (rcs-revision 1.16)
-\arrowsize=\dimen269
+\arrowsize=\dimen270
 ))
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibraryshadows.code.tex
@@ -1215,13 +1237,13 @@ File: pgflibraryfadings.code.tex 2008/02/07 v3.0.1a (rcs-revision 1.3)
 (/usr/local/texlive/2018/texmf-dist/tex/latex/pgf-umlsd/pgf-umlsd.sty
 Package: pgf-umlsd 2011/07/27 v0.6 Some LaTeX macros for UML Sequence Diagrams.
 
-\c@preinst=\count349
-\c@instnum=\count350
-\c@threadnum=\count351
-\c@seqlevel=\count352
-\c@callevel=\count353
-\c@callselflevel=\count354
-\c@blocklevel=\count355
+\c@preinst=\count352
+\c@instnum=\count353
+\c@threadnum=\count354
+\c@seqlevel=\count355
+\c@callevel=\count356
+\c@callselflevel=\count357
+\c@blocklevel=\count358
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/todonotes/todonotes.sty
 Package: todonotes 2015/07/09 .dtx Todonotes source and documentation.
@@ -1231,7 +1253,7 @@ Package: todonotes 2012/07/25
 s/tikzlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
 )
-\c@@todonotes@numberoftodonotes=\count356
+\c@@todonotes@numberoftodonotes=\count359
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
@@ -1263,20 +1285,20 @@ File: german.lbx 2018/03/04 v3.11 biblatex localization (PK/MW)
 (./report.aux (./content.aux))
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 234.
-LaTeX Font Info:    ... okay on input line 234.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 234.
-LaTeX Font Info:    ... okay on input line 234.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 234.
-LaTeX Font Info:    ... okay on input line 234.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 234.
-LaTeX Font Info:    ... okay on input line 234.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 234.
-LaTeX Font Info:    ... okay on input line 234.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 234.
-LaTeX Font Info:    ... okay on input line 234.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 234.
-LaTeX Font Info:    ... okay on input line 234.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 236.
+LaTeX Font Info:    ... okay on input line 236.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 236.
+LaTeX Font Info:    ... okay on input line 236.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 236.
+LaTeX Font Info:    ... okay on input line 236.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 236.
+LaTeX Font Info:    ... okay on input line 236.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 236.
+LaTeX Font Info:    ... okay on input line 236.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 236.
+LaTeX Font Info:    ... okay on input line 236.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 236.
+LaTeX Font Info:    ... okay on input line 236.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1312,20 +1334,28 @@ LaTeX Font Info:    ... okay on input line 234.
 * \@reversemargintrue
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\AtBeginShipoutBox=\box73
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: floatrow package is loaded.
+Package caption Info: float package is loaded.
+Package caption Info: floatrow package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: threeparttable package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box78
 (/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count357
-\scratchdimen=\dimen270
-\scratchbox=\box74
-\nofMPsegments=\count358
-\nofMParguments=\count359
-\everyMPshowfont=\toks49
-\MPscratchCnt=\count360
-\MPscratchDim=\dimen271
-\MPnumerator=\count361
-\makeMPintoPDFobject=\count362
-\everyMPtoPDFconversion=\toks50
+\scratchcounter=\count360
+\scratchdimen=\dimen271
+\scratchbox=\box79
+\nofMPsegments=\count361
+\nofMParguments=\count362
+\everyMPshowfont=\toks50
+\MPscratchCnt=\count363
+\MPscratchDim=\dimen272
+\MPnumerator=\count364
+\makeMPintoPDFobject=\count365
+\everyMPtoPDFconversion=\toks51
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -1346,27 +1376,11 @@ e
 (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
 
-(/usr/local/texlive/2018/tePG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 456.
-
-(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
-(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/pdflscape.sty
-Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
-
 (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/lscape.sty
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
-Package caption Info: Begin \AtBeginDocument code.
-Package caption Info: floatrow package is loaded.
-Package caption Info: hyperref package is loaded.
-Package caption Info: listings package is loaded.
-Package caption Info: End \AtBeginDocument code.
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
@@ -1379,77 +1393,77 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'report.bbl' not found.
 
 No file report.bbl.
-Package biblatex Info: Reference section=0 on input line 233.
-Package biblatex Info: Reference segment=0 on input line 233.
-Package hyperref Info: Link coloring OFF on input line 233.
+Package biblatex Info: Reference section=0 on input line 236.
+Package biblatex Info: Reference segment=0 on input line 236.
+Package hyperref Info: Link coloring OFF on input line 236.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
 (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count363
+\c@section@level=\count366
 )
-LaTeX Info: Redefining \ref on input line 233.
-LaTeX Info: Redefining \pageref on input line 233.
-LaTeX Info: Redefining \nameref on input line 233.
+LaTeX Info: Redefining \ref on input line 236.
+LaTeX Info: Redefining \pageref on input line 236.
+LaTeX Info: Redefining \nameref on input line 236.
 
 (./report.out) (./report.out)
 \@outlinefile=\write6
 \openout6 = `report.out'.
 
-\c@lstlisting=\count364
+\c@lstlisting=\count367
  ABD: EveryShipout initializing macros
-
-./report.tex:253: Package pdfpages Error: Cannot find file `/Users/kyleslugg/Do
-cuments/NYCHA/Production/IMAGES/coverpage/$tds_number$_cover.jpg'.
-
-See the pdfpages package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.253 ...rootpath/IMAGES/coverpage/\tds_cover.jpg}
-                                                  
-? 
-./report.tex:253: Emergency stop.
- ...                                              
-                                                  
-l.253 ...rootpath/IMAGES/coverpage/\tds_cover.jpg}
-                                                  
-End of file on the terminal!
-
- 
-Here is how much of TeX's memory you used:
- 31503 strings out of 492649
- 602828 string characters out of 6129622
- 1140865 words of memory out of 5000000
- 34818 multiletter control sequences out of 15000+600000
- 3940 words of font info for 15 fonts, out of 8000000 for 9000
- 1143 hyphenation exceptions out of 8191
- 55i,1n,82p,1151b,2271s stack positions out of 5000i,500n,10000p,200000b,80000s
-./report.tex:253:  ==> Fatal error occurred, no output PDF file produced!
- file produced!
-95.61891pt.
+</Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jpg, id
+=83, 796.9775pt x 1032.85875pt>
 File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jp
 g Graphic file (type jpg)
 <use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jpg
 >
 Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/cov
-erpage/073_cover.jpg  used on input line 254.
+erpage/073_cover.jpg  used on input line 256.
+(pdftex.def)             Requested size: 796.97554pt x 1032.85623pt.
+File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jp
+g Graphic file (type jpg)
+<use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jpg
+>
+Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/cov
+erpage/073_cover.jpg  used on input line 256.
+(pdftex.def)             Requested size: 796.97554pt x 1032.85623pt.
+File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jp
+g Graphic file (type jpg)
+<use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jpg
+>
+Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/cov
+erpage/073_cover.jpg  used on input line 256.
+(pdftex.def)             Requested size: 796.97554pt x 1032.85623pt.
+File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jp
+g Graphic file (type jpg)
+<use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jpg
+>
+Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/cov
+erpage/073_cover.jpg  used on input line 256.
 (pdftex.def)             Requested size: 613.91779pt x 795.61891pt.
 File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jp
 g Graphic file (type jpg)
 <use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jpg
 >
 Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/cov
-erpage/073_cover.jpg  used on input line 254.
+erpage/073_cover.jpg  used on input line 256.
 (pdftex.def)             Requested size: 613.91779pt x 795.61891pt.
 File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jp
 g Graphic file (type jpg)
 <use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jpg
 >
 Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/cov
-erpage/073_cover.jpg  used on input line 254.
+erpage/073_cover.jpg  used on input line 256.
+(pdftex.def)             Requested size: 613.91779pt x 795.61891pt.
+File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jp
+g Graphic file (type jpg)
+<use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jpg
+>
+Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/cov
+erpage/073_cover.jpg  used on input line 256.
 (pdftex.def)             Requested size: 613.91779pt x 795.61891pt.
  [1
 
@@ -1468,8 +1482,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.I}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.4 \clearpage
-               [1
+l.4     \clearpage
+                   [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Try loading font information for OMS+phv on input line 24.
@@ -1504,7 +1518,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ]
 Chapter 2.
-\GPT@outputbox=\box75
+\GPT@outputbox=\box80
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1516,9 +1530,9 @@ x)
 (/Users/kyleslugg/Documents/NYCHA/Production/TABLES/overview_table/073_overview
 _table.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 2.
+(Font)              <7> on input line 9.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 2.
+(Font)              <5> on input line 9.
 )
 (/Users/kyleslugg/Documents/NYCHA/Production/TABLES/typology_table/073_typology
 .tex
@@ -1655,6 +1669,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [7
 
 ]
+(/Users/kyleslugg/Documents/NYCHA/Production/TEXT/waste_distribution_top/073_wd
+_top.tex)
 (/Users/kyleslugg/Documents/NYCHA/Production/TABLES/waste_distribution_table/07
 3_wd_table.tex
 Underfull \hbox (badness 1558) in paragraph at lines 10--10
@@ -1732,6 +1748,8 @@ Underfull \hbox (badness 1552) in paragraph at lines 18--18
  []
 
 )
+(/Users/kyleslugg/Documents/NYCHA/Production/TEXT/waste_distribution_bottom/073
+_wd_bottom.tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [8]
@@ -1762,7 +1780,7 @@ File: /Users/kyleslugg/Documents/NYCHA/Production/MAPS/asset_maps/073_asset_map
 <use /Users/kyleslugg/Documents/NYCHA/Production/MAPS/asset_maps/073_asset_map.
 png>
 Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/MAPS/asset
-_maps/073_asset_map.png  used on input line 109.
+_maps/073_asset_map.png  used on input line 105.
 (pdftex.def)             Requested size: 514.9221pt x 666.41167pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1854,7 +1872,7 @@ File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/truck.png Graphic file
  (type png)
 <use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/truck.png>
 Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/tru
-ck.png  used on input line 131.
+ck.png  used on input line 127.
 (pdftex.def)             Requested size: 135.50624pt x 135.5059pt.
 </Users/kyleslugg/Documents/NYCHA/Production/IMAGES/bobcat.png, id=186, 411.136
 pt x 411.136pt>
@@ -1862,7 +1880,7 @@ File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/bobcat.png Graphic fil
 e (type png)
 <use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/bobcat.png>
 Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/bob
-cat.png  used on input line 131.
+cat.png  used on input line 127.
 (pdftex.def)             Requested size: 135.50624pt x 135.5059pt.
 </Users/kyleslugg/Documents/NYCHA/Production/IMAGES/chromatica.jpg, id=187, 100
 3.75pt x 1003.75pt>
@@ -1870,10 +1888,10 @@ File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/chromatica.jpg Graphic
  file (type jpg)
 <use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/chromatica.jpg>
 Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/chr
-omatica.jpg  used on input line 131.
+omatica.jpg  used on input line 127.
 (pdftex.def)             Requested size: 135.50624pt x 135.5004pt.
 
-Overfull \hbox (30.58269pt too wide) in paragraph at lines 129--133
+Overfull \hbox (30.58269pt too wide) in paragraph at lines 125--129
  [][] 
  []
 
@@ -1893,70 +1911,156 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--17
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [12]
+(/Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/image_layouts/
+073_layout.tex
+</Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Consolidation_
+BarCharts/png/73_Sumner_WorkOrder_Category_BarChart.png, id=203, 433.62pt x 289
+.08pt>
+File: /Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Consolida
+tion_BarCharts/png/73_Sumner_WorkOrder_Category_BarChart.png Graphic file (type
+ png)
+<use /Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Consolidat
+ion_BarCharts/png/73_Sumner_WorkOrder_Category_BarChart.png>
+Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER
+_ANALYSIS/Consolidation_BarCharts/png/73_Sumner_WorkOrder_Category_BarChart.png
+  used on input line 6.
+(pdftex.def)             Requested size: 433.61894pt x 289.07928pt.
+</Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Development_Ba
+rCharts/png/156_303-VERNON-AVENUE_WorkOrder_Category_BarChart.png, id=204, 433.
+62pt x 289.08pt>
+File: /Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Developme
+nt_BarCharts/png/156_303-VERNON-AVENUE_WorkOrder_Category_BarChart.png Graphic 
+file (type png)
+<use /Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Developmen
+t_BarCharts/png/156_303-VERNON-AVENUE_WorkOrder_Category_BarChart.png>
+Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER
+_ANALYSIS/Development_BarCharts/png/156_303-VERNON-AVENUE_WorkOrder_Category_Ba
+rChart.png  used on input line 9.
+(pdftex.def)             Requested size: 243.90959pt x 162.60709pt.
+</Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Development_Ba
+rCharts/png/73_SUMNER_WorkOrder_Category_BarChart.png, id=205, 433.62pt x 289.0
+8pt>
+File: /Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Developme
+nt_BarCharts/png/73_SUMNER_WorkOrder_Category_BarChart.png Graphic file (type p
+ng)
+<use /Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Developmen
+t_BarCharts/png/73_SUMNER_WorkOrder_Category_BarChart.png>
+Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER
+_ANALYSIS/Development_BarCharts/png/73_SUMNER_WorkOrder_Category_BarChart.png  
+used on input line 12.
+(pdftex.def)             Requested size: 243.90959pt x 162.60709pt.
+</Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Dev_Interior_C
+omp_Repair_BarCharts/png/Sumner_73_303-Vernon-Avenue_156_Interior_Comp_Rep_BarC
+hart.png, id=206, 433.62pt x 289.08pt>
+File: /Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Dev_Inter
+ior_Comp_Repair_BarCharts/png/Sumner_73_303-Vernon-Avenue_156_Interior_Comp_Rep
+_BarChart.png Graphic file (type png)
+<use /Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Dev_Interi
+or_Comp_Repair_BarCharts/png/Sumner_73_303-Vernon-Avenue_156_Interior_Comp_Rep_
+BarChart.png>
+Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER
+_ANALYSIS/Dev_Interior_Comp_Repair_BarCharts/png/Sumner_73_303-Vernon-Avenue_15
+6_Interior_Comp_Rep_BarChart.png  used on input line 20.
+(pdftex.def)             Requested size: 243.90959pt x 162.60709pt.
+</Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Dev_Interior_C
+omp_Repair_BarCharts/png/Sumner_73_Sumner_73_Interior_Comp_Rep_BarChart.png, id
+=207, 433.62pt x 289.08pt>
+File: /Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Dev_Inter
+ior_Comp_Repair_BarCharts/png/Sumner_73_Sumner_73_Interior_Comp_Rep_BarChart.pn
+g Graphic file (type png)
+<use /Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Dev_Interi
+or_Comp_Repair_BarCharts/png/Sumner_73_Sumner_73_Interior_Comp_Rep_BarChart.png
+>
+Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER
+_ANALYSIS/Dev_Interior_Comp_Repair_BarCharts/png/Sumner_73_Sumner_73_Interior_C
+omp_Rep_BarChart.png  used on input line 23.
+(pdftex.def)             Requested size: 243.90959pt x 162.60709pt.
+
+(/Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Dev_Interior_C
+omp_Repair_Tables/073_repair_table.tex
+Underfull \hbox (badness 10000) in alignment at lines 29--29
+[][][][] 
+ []
+
+))
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [13]
+ [13 </Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Consolida
+tion_BarCharts/png/73_Sumner_WorkOrder_Category_BarChart.png> </Users/kyleslugg
+/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Development_BarCharts/png/156_3
+03-VERNON-AVENUE_WorkOrder_Category_BarChart.png> </Users/kyleslugg/Documents/N
+YCHA/Production/WORK_ORDER_ANALYSIS/Development_BarCharts/png/73_SUMNER_WorkOrd
+er_Category_BarChart.png>] [14 </Users/kyleslugg/Documents/NYCHA/Production/WOR
+K_ORDER_ANALYSIS/Dev_Interior_Comp_Repair_BarCharts/png/Sumner_73_303-Vernon-Av
+enue_156_Interior_Comp_Rep_BarChart.png> </Users/kyleslugg/Documents/NYCHA/Prod
+uction/WORK_ORDER_ANALYSIS/Dev_Interior_Comp_Repair_BarCharts/png/Sumner_73_Sum
+ner_73_Interior_Comp_Rep_BarChart.png>]
 Chapter 4.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [14
+ [15
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [15]
+ [16]
 (/Users/kyleslugg/Documents/NYCHA/Production/TABLES/staff_table/073_staff_table
 .tex)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [16]
-[17]
+ [17]
+[18]
 Chapter 5.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [18
+ [19
 
 ]
 (/Users/kyleslugg/Documents/NYCHA/Production/TEXT/analysis_text/073_analysis.te
 x
-Underfull \hbox (badness 10000) in paragraph at lines 232--1
+Underfull \hbox (badness 10000) in paragraph at lines 227--1
 
  []
 
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [19]
-[20]
+ [20]
+[21]
 Chapter 6.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [21
+ [22
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [22])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 306.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 306.
+ [23])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 308.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 308.
 
 (./report.aux (./content.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 306.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 306.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 308.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 308.
 Package rerunfilecheck Info: File `report.out' has not changed.
 (rerunfilecheck)             Checksum: AD41349010F0A0BCEEBF1F2ABAE78328;783.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 308.
 Package logreq Info: Writing requests to 'report.run.xml'.
 \openout1 = `report.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31956 strings out of 492649
- 613579 string characters out of 6129622
- 1154841 words of memory out of 5000000
- 35124 multiletter control sequences out of 15000+600000
+ 32110 strings out of 492649
+ 620304 string characters out of 6129622
+ 1159336 words of memory out of 5000000
+ 35243 multiletter control sequences out of 15000+600000
  21416 words of font info for 41 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  55i,26n,82p,1151b,2271s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1966,10 +2070,10 @@ live/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
 ive/2018/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/201
 8/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2018/texmf
 -dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on report.pdf (26 pages, 7192832 bytes).
+Output written on report.pdf (27 pages, 7758005 bytes).
 PDF statistics:
- 283 PDF objects out of 1000 (max. 8388607)
- 213 compressed objects within 3 object streams
- 58 named destinations out of 1000 (max. 500000)
- 268 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 301 PDF objects out of 1000 (max. 8388607)
+ 220 compressed objects within 3 object streams
+ 62 named destinations out of 1000 (max. 500000)
+ 293 words of extra memory for PDF output out of 10000 (max. 10000000)
 

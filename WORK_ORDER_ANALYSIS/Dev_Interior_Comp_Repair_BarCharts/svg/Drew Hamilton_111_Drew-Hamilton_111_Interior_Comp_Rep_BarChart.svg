@@ -639,7 +639,7 @@ z
    <g id="matplotlib.axis_2">
     <g id="ytick_1">
      <g id="line2d_1">
-      <path clip-path="url(#p57be1b077a)" d="M 48.71 168.235755 
+      <path clip-path="url(#p3eb90a47d6)" d="M 48.71 168.235755 
 L 393.315 168.235755 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;"/>
      </g>
@@ -679,7 +679,7 @@ z
     </g>
     <g id="ytick_2">
      <g id="line2d_2">
-      <path clip-path="url(#p57be1b077a)" d="M 48.71 141.979903 
+      <path clip-path="url(#p3eb90a47d6)" d="M 48.71 141.979903 
 L 393.315 141.979903 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;"/>
      </g>
@@ -719,7 +719,7 @@ z
     </g>
     <g id="ytick_3">
      <g id="line2d_3">
-      <path clip-path="url(#p57be1b077a)" d="M 48.71 115.724051 
+      <path clip-path="url(#p3eb90a47d6)" d="M 48.71 115.724051 
 L 393.315 115.724051 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;"/>
      </g>
@@ -752,7 +752,7 @@ z
     </g>
     <g id="ytick_4">
      <g id="line2d_4">
-      <path clip-path="url(#p57be1b077a)" d="M 48.71 89.468199 
+      <path clip-path="url(#p3eb90a47d6)" d="M 48.71 89.468199 
 L 393.315 89.468199 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;"/>
      </g>
@@ -801,7 +801,7 @@ z
     </g>
     <g id="ytick_5">
      <g id="line2d_5">
-      <path clip-path="url(#p57be1b077a)" d="M 48.71 63.212347 
+      <path clip-path="url(#p3eb90a47d6)" d="M 48.71 63.212347 
 L 393.315 63.212347 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;"/>
      </g>
@@ -932,7 +932,7 @@ z
     </g>
    </g>
    <g id="patch_3">
-    <path clip-path="url(#p57be1b077a)" d="M 55.6021 168.235755 
+    <path clip-path="url(#p3eb90a47d6)" d="M 55.6021 168.235755 
 L 110.7389 168.235755 
 L 110.7389 44.83325 
 L 55.6021 44.83325 
@@ -940,7 +940,7 @@ z
 " style="fill:#6581b2;stroke:#ffffff;stroke-linejoin:miter;"/>
    </g>
    <g id="patch_4">
-    <path clip-path="url(#p57be1b077a)" d="M 124.5231 168.235755 
+    <path clip-path="url(#p3eb90a47d6)" d="M 124.5231 168.235755 
 L 179.6599 168.235755 
 L 179.6599 151.169451 
 L 124.5231 151.169451 
@@ -948,7 +948,7 @@ z
 " style="fill:#5b8888;stroke:#ffffff;stroke-linejoin:miter;"/>
    </g>
    <g id="patch_5">
-    <path clip-path="url(#p57be1b077a)" d="M 193.4441 168.235755 
+    <path clip-path="url(#p3eb90a47d6)" d="M 193.4441 168.235755 
 L 248.5809 168.235755 
 L 248.5809 155.107829 
 L 193.4441 155.107829 
@@ -956,7 +956,7 @@ z
 " style="fill:#e9846f;stroke:#ffffff;stroke-linejoin:miter;"/>
    </g>
    <g id="patch_6">
-    <path clip-path="url(#p57be1b077a)" d="M 262.3651 168.235755 
+    <path clip-path="url(#p3eb90a47d6)" d="M 262.3651 168.235755 
 L 317.5019 168.235755 
 L 317.5019 159.046206 
 L 262.3651 159.046206 
@@ -964,7 +964,7 @@ z
 " style="fill:#bd7aae;stroke:#ffffff;stroke-linejoin:miter;"/>
    </g>
    <g id="patch_7">
-    <path clip-path="url(#p57be1b077a)" d="M 331.2861 168.235755 
+    <path clip-path="url(#p3eb90a47d6)" d="M 331.2861 168.235755 
 L 386.4229 168.235755 
 L 386.4229 161.671792 
 L 331.2861 161.671792 
@@ -972,23 +972,23 @@ z
 " style="fill:#96c0a4;stroke:#ffffff;stroke-linejoin:miter;"/>
    </g>
    <g id="line2d_6">
-    <path clip-path="url(#p57be1b077a)" d="M 0 0 
+    <path clip-path="url(#p3eb90a47d6)" d="M 0 0 
 " style="fill:none;stroke:#424242;stroke-linecap:round;stroke-width:2.7;"/>
    </g>
    <g id="line2d_7">
-    <path clip-path="url(#p57be1b077a)" d="M 0 0 
+    <path clip-path="url(#p3eb90a47d6)" d="M 0 0 
 " style="fill:none;stroke:#424242;stroke-linecap:round;stroke-width:2.7;"/>
    </g>
    <g id="line2d_8">
-    <path clip-path="url(#p57be1b077a)" d="M 0 0 
+    <path clip-path="url(#p3eb90a47d6)" d="M 0 0 
 " style="fill:none;stroke:#424242;stroke-linecap:round;stroke-width:2.7;"/>
    </g>
    <g id="line2d_9">
-    <path clip-path="url(#p57be1b077a)" d="M 0 0 
+    <path clip-path="url(#p3eb90a47d6)" d="M 0 0 
 " style="fill:none;stroke:#424242;stroke-linecap:round;stroke-width:2.7;"/>
    </g>
    <g id="line2d_10">
-    <path clip-path="url(#p57be1b077a)" d="M 0 0 
+    <path clip-path="url(#p3eb90a47d6)" d="M 0 0 
 " style="fill:none;stroke:#424242;stroke-linecap:round;stroke-width:2.7;"/>
    </g>
    <g id="patch_8">
@@ -1380,7 +1380,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p57be1b077a">
+  <clipPath id="p3eb90a47d6">
    <rect height="129.57263" width="344.605" x="48.71" y="38.663125"/>
   </clipPath>
  </defs>
