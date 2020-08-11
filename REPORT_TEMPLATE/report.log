@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  11 AUG 2020 17:05
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  28 JUL 2020 16:14
+>>>>>>> 9a99b8b9b17059f82f83087bfbf38c58890df819
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -817,11 +821,19 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 
 Package hyperref Warning: Unexpected value for option `hidelinks'
+<<<<<<< HEAD
 (hyperref)                is ignored on input line 134.
 
 Package hyperref Info: Option `colorlinks' set `false' on input line 134.
 Package hyperref Info: Option `linktocpage' set `true' on input line 134.
 Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 134.
+=======
+(hyperref)                is ignored on input line 132.
+
+Package hyperref Info: Option `colorlinks' set `false' on input line 132.
+Package hyperref Info: Option `linktocpage' set `true' on input line 132.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 132.
+>>>>>>> 9a99b8b9b17059f82f83087bfbf38c58890df819
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/pagecolor/pagecolor.sty
 Package: pagecolor 2017/05/29 v1.0i Provides thepagecolor (HMM)
@@ -1285,6 +1297,7 @@ File: german.lbx 2018/03/04 v3.11 biblatex localization (PK/MW)
 (./report.aux (./content.aux))
 \openout1 = `report.aux'.
 
+<<<<<<< HEAD
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 236.
 LaTeX Font Info:    ... okay on input line 236.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 236.
@@ -1299,6 +1312,22 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 236.
 LaTeX Font Info:    ... okay on input line 236.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 236.
 LaTeX Font Info:    ... okay on input line 236.
+=======
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 234.
+LaTeX Font Info:    ... okay on input line 234.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 234.
+LaTeX Font Info:    ... okay on input line 234.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 234.
+LaTeX Font Info:    ... okay on input line 234.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 234.
+LaTeX Font Info:    ... okay on input line 234.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 234.
+LaTeX Font Info:    ... okay on input line 234.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 234.
+LaTeX Font Info:    ... okay on input line 234.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 234.
+LaTeX Font Info:    ... okay on input line 234.
+>>>>>>> 9a99b8b9b17059f82f83087bfbf38c58890df819
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1376,6 +1405,17 @@ e
 (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
 
+(/usr/local/texlive/2018/tePG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
 (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/lscape.sty
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
@@ -1414,6 +1454,7 @@ LaTeX Info: Redefining \nameref on input line 236.
 
 \c@lstlisting=\count367
  ABD: EveryShipout initializing macros
+<<<<<<< HEAD
 </Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jpg, id
 =83, 796.9775pt x 1032.85875pt>
 File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jp
@@ -1444,26 +1485,70 @@ g Graphic file (type jpg)
 Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/cov
 erpage/073_cover.jpg  used on input line 256.
 (pdftex.def)             Requested size: 613.91779pt x 795.61891pt.
+=======
+
+./report.tex:253: Package pdfpages Error: Cannot find file `/Users/kyleslugg/Do
+cuments/NYCHA/Production/IMAGES/coverpage/$tds_number$_cover.jpg'.
+
+See the pdfpages package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.253 ...rootpath/IMAGES/coverpage/\tds_cover.jpg}
+                                                  
+? 
+./report.tex:253: Emergency stop.
+ ...                                              
+                                                  
+l.253 ...rootpath/IMAGES/coverpage/\tds_cover.jpg}
+                                                  
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 31503 strings out of 492649
+ 602828 string characters out of 6129622
+ 1140865 words of memory out of 5000000
+ 34818 multiletter control sequences out of 15000+600000
+ 3940 words of font info for 15 fonts, out of 8000000 for 9000
+ 1143 hyphenation exceptions out of 8191
+ 55i,1n,82p,1151b,2271s stack positions out of 5000i,500n,10000p,200000b,80000s
+./report.tex:253:  ==> Fatal error occurred, no output PDF file produced!
+ file produced!
+95.61891pt.
+>>>>>>> 9a99b8b9b17059f82f83087bfbf38c58890df819
 File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jp
 g Graphic file (type jpg)
 <use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jpg
 >
 Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/cov
+<<<<<<< HEAD
 erpage/073_cover.jpg  used on input line 256.
+=======
+erpage/073_cover.jpg  used on input line 254.
+>>>>>>> 9a99b8b9b17059f82f83087bfbf38c58890df819
 (pdftex.def)             Requested size: 613.91779pt x 795.61891pt.
 File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jp
 g Graphic file (type jpg)
 <use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jpg
 >
 Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/cov
+<<<<<<< HEAD
 erpage/073_cover.jpg  used on input line 256.
+=======
+erpage/073_cover.jpg  used on input line 254.
+>>>>>>> 9a99b8b9b17059f82f83087bfbf38c58890df819
 (pdftex.def)             Requested size: 613.91779pt x 795.61891pt.
 File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jp
 g Graphic file (type jpg)
 <use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jpg
 >
 Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/cov
+<<<<<<< HEAD
 erpage/073_cover.jpg  used on input line 256.
+=======
+erpage/073_cover.jpg  used on input line 254.
+>>>>>>> 9a99b8b9b17059f82f83087bfbf38c58890df819
 (pdftex.def)             Requested size: 613.91779pt x 795.61891pt.
  [1
 
@@ -1725,6 +1810,7 @@ Underfull \hbox (badness 1558) in paragraph at lines 18--18
 
 Underfull \hbox (badness 1552) in paragraph at lines 18--18
 []|\OT1/phv/m/n/10 0.08 tons or (8.68)
+<<<<<<< HEAD
  []
 
 
@@ -1735,6 +1821,24 @@ Underfull \hbox (badness 1552) in paragraph at lines 18--18
 
 Underfull \hbox (badness 1552) in paragraph at lines 18--18
 []|\OT1/phv/m/n/10 0.06 tons or (2.04)
+=======
+>>>>>>> 9a99b8b9b17059f82f83087bfbf38c58890df819
+ []
+
+
+Underfull \hbox (badness 1552) in paragraph at lines 18--18
+<<<<<<< HEAD
+[]|\OT1/phv/m/n/10 0.02 tons or (0.73)
+=======
+[]|\OT1/phv/m/n/10 0.05 tons or (7.11)
+>>>>>>> 9a99b8b9b17059f82f83087bfbf38c58890df819
+ []
+
+
+Underfull \hbox (badness 1552) in paragraph at lines 18--18
+<<<<<<< HEAD
+=======
+[]|\OT1/phv/m/n/10 0.06 tons or (2.04)
  []
 
 
@@ -1744,6 +1848,7 @@ Underfull \hbox (badness 1552) in paragraph at lines 18--18
 
 
 Underfull \hbox (badness 1552) in paragraph at lines 18--18
+>>>>>>> 9a99b8b9b17059f82f83087bfbf38c58890df819
 []|\OT1/phv/m/n/10 0.27 tons or (9.57)
  []
 
@@ -1762,6 +1867,7 @@ Underfull \hbox (badness 1558) in paragraph at lines 11--11
 
 Underfull \hbox (badness 3291) in paragraph at lines 11--11
 []|\OT1/phv/m/n/10 1 ex-te-rior com-pactor in 1
+<<<<<<< HEAD
  []
 
 
@@ -1769,6 +1875,15 @@ Underfull \hbox (badness 1478) in paragraph at lines 11--11
 []|\OT1/phv/m/n/10 3 ex-te-rior com-pactors in 3
  []
 
+=======
+ []
+
+
+Underfull \hbox (badness 1478) in paragraph at lines 11--11
+[]|\OT1/phv/m/n/10 3 ex-te-rior com-pactors in 3
+ []
+
+>>>>>>> 9a99b8b9b17059f82f83087bfbf38c58890df819
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1780,7 +1895,11 @@ File: /Users/kyleslugg/Documents/NYCHA/Production/MAPS/asset_maps/073_asset_map
 <use /Users/kyleslugg/Documents/NYCHA/Production/MAPS/asset_maps/073_asset_map.
 png>
 Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/MAPS/asset
+<<<<<<< HEAD
 _maps/073_asset_map.png  used on input line 105.
+=======
+_maps/073_asset_map.png  used on input line 109.
+>>>>>>> 9a99b8b9b17059f82f83087bfbf38c58890df819
 (pdftex.def)             Requested size: 514.9221pt x 666.41167pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1836,10 +1955,18 @@ Underfull \hbox (badness 1259) in paragraph at lines 5--5
 
 Package varwidth Warning: Failed to reprocess entire contents on input line 6.
 
+<<<<<<< HEAD
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 6.
+=======
+>>>>>>> 9a99b8b9b17059f82f83087bfbf38c58890df819
 
 Package varwidth Warning: Failed to reprocess entire contents on input line 6.
 
+<<<<<<< HEAD
+=======
 
+>>>>>>> 9a99b8b9b17059f82f83087bfbf38c58890df819
 Underfull \hbox (badness 1259) in paragraph at lines 6--6
 []\OT1/phv/m/n/10 0|  
  []
@@ -1872,7 +1999,11 @@ File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/truck.png Graphic file
  (type png)
 <use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/truck.png>
 Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/tru
+<<<<<<< HEAD
 ck.png  used on input line 127.
+=======
+ck.png  used on input line 131.
+>>>>>>> 9a99b8b9b17059f82f83087bfbf38c58890df819
 (pdftex.def)             Requested size: 135.50624pt x 135.5059pt.
 </Users/kyleslugg/Documents/NYCHA/Production/IMAGES/bobcat.png, id=186, 411.136
 pt x 411.136pt>
@@ -1880,7 +2011,11 @@ File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/bobcat.png Graphic fil
 e (type png)
 <use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/bobcat.png>
 Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/bob
+<<<<<<< HEAD
 cat.png  used on input line 127.
+=======
+cat.png  used on input line 131.
+>>>>>>> 9a99b8b9b17059f82f83087bfbf38c58890df819
 (pdftex.def)             Requested size: 135.50624pt x 135.5059pt.
 </Users/kyleslugg/Documents/NYCHA/Production/IMAGES/chromatica.jpg, id=187, 100
 3.75pt x 1003.75pt>
@@ -1888,10 +2023,17 @@ File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/chromatica.jpg Graphic
  file (type jpg)
 <use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/chromatica.jpg>
 Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/chr
+<<<<<<< HEAD
 omatica.jpg  used on input line 127.
 (pdftex.def)             Requested size: 135.50624pt x 135.5004pt.
 
 Overfull \hbox (30.58269pt too wide) in paragraph at lines 125--129
+=======
+omatica.jpg  used on input line 131.
+(pdftex.def)             Requested size: 135.50624pt x 135.5004pt.
+
+Overfull \hbox (30.58269pt too wide) in paragraph at lines 129--133
+>>>>>>> 9a99b8b9b17059f82f83087bfbf38c58890df819
  [][] 
  []
 
@@ -2024,7 +2166,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 (/Users/kyleslugg/Documents/NYCHA/Production/TEXT/analysis_text/073_analysis.te
 x
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 227--1
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 232--1
+>>>>>>> 9a99b8b9b17059f82f83087bfbf38c58890df819
 
  []
 
@@ -2042,6 +2188,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+<<<<<<< HEAD
  [23])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 308.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 308.
@@ -2049,6 +2196,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 308.
 (./report.aux (./content.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 308.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 308.
+=======
+ [22])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 306.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 306.
+
+(./report.aux (./content.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 306.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 306.
+>>>>>>> 9a99b8b9b17059f82f83087bfbf38c58890df819
 Package rerunfilecheck Info: File `report.out' has not changed.
 (rerunfilecheck)             Checksum: AD41349010F0A0BCEEBF1F2ABAE78328;783.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 308.
@@ -2057,10 +2213,17 @@ Package logreq Info: Writing requests to 'report.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  32110 strings out of 492649
  620304 string characters out of 6129622
  1159336 words of memory out of 5000000
  35243 multiletter control sequences out of 15000+600000
+=======
+ 31956 strings out of 492649
+ 613579 string characters out of 6129622
+ 1154841 words of memory out of 5000000
+ 35124 multiletter control sequences out of 15000+600000
+>>>>>>> 9a99b8b9b17059f82f83087bfbf38c58890df819
  21416 words of font info for 41 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  55i,26n,82p,1151b,2271s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2070,10 +2233,19 @@ live/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
 ive/2018/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/201
 8/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2018/texmf
 -dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
+<<<<<<< HEAD
 Output written on report.pdf (27 pages, 7758005 bytes).
 PDF statistics:
  301 PDF objects out of 1000 (max. 8388607)
  220 compressed objects within 3 object streams
  62 named destinations out of 1000 (max. 500000)
  293 words of extra memory for PDF output out of 10000 (max. 10000000)
+=======
+Output written on report.pdf (26 pages, 7192832 bytes).
+PDF statistics:
+ 283 PDF objects out of 1000 (max. 8388607)
+ 213 compressed objects within 3 object streams
+ 58 named destinations out of 1000 (max. 500000)
+ 268 words of extra memory for PDF output out of 10000 (max. 10000000)
+>>>>>>> 9a99b8b9b17059f82f83087bfbf38c58890df819
 
