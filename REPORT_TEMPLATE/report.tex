@@ -1,4 +1,4 @@
-\documentclass[11pt, letterpaper, final, twoside, table, xcdraw, openany]{report}
+\documentclass[11pt, letterpaper, final, table, xcdraw]{report}
 
 \newcommand{\isPrintVersion}{true}						% false -> show colored links, true -> all links in black
 
@@ -6,8 +6,8 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Data  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\newcommand{\tds}{$tds_number$}
-%\newcommand{\tds}{073}
+%\newcommand{\tds}{$tds_number$}
+\newcommand{\tds}{073}
 \newcommand{\coverPage}{test_coverpage}
 \newcommand{\rootpath}{/Users/kyleslugg/Documents/NYCHA/Production}
 
@@ -167,6 +167,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Listings  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage{listings}
+\usepackage{enumitem}
 
 \lstset{
 	language=Java,								% default language
@@ -215,7 +216,8 @@
 \tikzstyle{process} = [rectangle, minimum width=3cm, minimum height=0.9cm, text centered, text width=4cm, draw=white, fill=white]
 \tikzstyle{processwide} = [rectangle, minimum width=3cm, minimum height=0.9cm, text centered, text width=6cm, draw=white, fill=white]
 \tikzstyle{decision} = [diamond, minimum width=3cm, minimum height=0.9cm, text centered, draw=lightBlue, fill=ccgreen]
-\tikzstyle{arrow} = [thick,->,>=angle 60, draw=ccorange]
+\tikzstyle{arrow} = [thick,->,>=angle 60, draw=ccfuschia]
+\tikzstyle{dotline} = [thick, dashed, draw=ccfuschia]
 \tikzstyle{comment} = [rectangle, minimum width=1cm, minimum height=0.9cm, text centered, text width=3cm, draw=none, fill=none]
 \tikzstyle{subprocess} = [rectangle split, rectangle split horizontal, rectangle split parts=3, minimum height=0.9cm, minimum width=3cm, draw=lightBlue, fill=ccgreen]
 \tikzset{every picture/.style={/utils/exec={\sffamily}}}
@@ -270,6 +272,7 @@
 	\thispagestyle{empty}
 		
 %%%%% Figures, Tables, Listings	
+\begin{comment}
 	\fancypagestyle{plain}{ 
 		\fancyhf{} 
 		\fancyfoot[LE,RO]{\thepage}
@@ -279,7 +282,7 @@
 	\addtocounter{page}{6}							% increase page number: +6	
 
 \clearpage
-
+\end{comment}
 %%%%% Content
 	\fancypagestyle{plain}{ 
 		\fancyhf{} 

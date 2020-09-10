@@ -1,10 +1,14 @@
-\begin{table}[H]
-        \small
+\resizebox{%
+                          \ifdim\width>\textwidth
+                            \textwidth
+                          \else
+                            \width
+                          \fi
+                        }{!}{\small
         \begin{tabularx}{\textwidth}{p{.1em}c}
-               & 
-                        \begin{tabular}[t]{cc}
-                        \multicolumn{2}{l}{CYPRESS HILLS}                                                                                                                                   \\ \hline
-                        \multicolumn{1}{|c|}{\cellcolor{ccorange}{\color[HTML]{FFFFFF} Building}} & \multicolumn{1}{c|}{\cellcolor{ccorange}{\color[HTML]{FFFFFF} Total Repairs}} \\ \hline
+               &  \begin{tabular}[t]{cc}
+                        \multicolumn{2}{c}{Cypress Hills}                                                                                                                                   \\ \hline
+                        \multicolumn{1}{|c|}{\cellcolor{ccorange}{\color[HTML]{FFFFFF} Building}} & \multicolumn{1}{c|}{\cellcolor{ccorange}{\color[HTML]{FFFFFF} Repairs}} \\ \hline
                         \multicolumn{1}{|c|}{9}                                                        & \multicolumn{1}{c|}{25}                                                             \\ \hline
 \multicolumn{1}{|c|}{10}                                                        & \multicolumn{1}{c|}{23}                                                             \\ \hline
 \multicolumn{1}{|c|}{2}                                                        & \multicolumn{1}{c|}{18}                                                             \\ \hline
@@ -12,4 +16,4 @@
 \multicolumn{1}{|c|}{1}                                                        & \multicolumn{1}{c|}{15}                                                             \\ \hline
 \end{tabular}
 
-\end{tabularx}\end{table}
+\end{tabularx}}

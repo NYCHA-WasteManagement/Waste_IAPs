@@ -1,15 +1,19 @@
-\begin{table}[H]
-        \small
+\resizebox{%
+                          \ifdim\width>\textwidth
+                            \textwidth
+                          \else
+                            \width
+                          \fi
+                        }{!}{\small
         \begin{tabularx}{\textwidth}{p{.1em}c}
-               & 
-                        \begin{tabular}[t]{cc}
-                        \multicolumn{2}{l}{ADAMS}                                                                                                                                   \\ \hline
-                        \multicolumn{1}{|c|}{\cellcolor{ccorange}{\color[HTML]{FFFFFF} Building}} & \multicolumn{1}{c|}{\cellcolor{ccorange}{\color[HTML]{FFFFFF} Total Repairs}} \\ \hline
+               &  \begin{tabular}[t]{cc}
+                        \multicolumn{2}{c}{Adams}                                                                                                                                   \\ \hline
+                        \multicolumn{1}{|c|}{\cellcolor{ccorange}{\color[HTML]{FFFFFF} Building}} & \multicolumn{1}{c|}{\cellcolor{ccorange}{\color[HTML]{FFFFFF} Repairs}} \\ \hline
                         \multicolumn{1}{|c|}{1}                                                        & \multicolumn{1}{c|}{70}                                                             \\ \hline
 \multicolumn{1}{|c|}{6}                                                        & \multicolumn{1}{c|}{68}                                                             \\ \hline
-\multicolumn{1}{|c|}{5}                                                        & \multicolumn{1}{c|}{59}                                                             \\ \hline
+\multicolumn{1}{|c|}{5}                                                        & \multicolumn{1}{c|}{64}                                                             \\ \hline
 \multicolumn{1}{|c|}{7}                                                        & \multicolumn{1}{c|}{59}                                                             \\ \hline
 \multicolumn{1}{|c|}{2}                                                        & \multicolumn{1}{c|}{57}                                                             \\ \hline
 \end{tabular}
 
-\end{tabularx}\end{table}
+\end{tabularx}}

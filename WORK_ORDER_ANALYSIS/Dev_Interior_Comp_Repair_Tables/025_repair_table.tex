@@ -1,10 +1,14 @@
-\begin{table}[H]
-        \small
+\resizebox{%
+                          \ifdim\width>\textwidth
+                            \textwidth
+                          \else
+                            \width
+                          \fi
+                        }{!}{\small
         \begin{tabularx}{\textwidth}{p{.1em}c}
-               & 
-                        \begin{tabular}[t]{cc}
-                        \multicolumn{2}{l}{GOWANUS}                                                                                                                                   \\ \hline
-                        \multicolumn{1}{|c|}{\cellcolor{ccorange}{\color[HTML]{FFFFFF} Building}} & \multicolumn{1}{c|}{\cellcolor{ccorange}{\color[HTML]{FFFFFF} Total Repairs}} \\ \hline
+               &  \begin{tabular}[t]{cc}
+                        \multicolumn{2}{c}{Gowanus}                                                                                                                                   \\ \hline
+                        \multicolumn{1}{|c|}{\cellcolor{ccorange}{\color[HTML]{FFFFFF} Building}} & \multicolumn{1}{c|}{\cellcolor{ccorange}{\color[HTML]{FFFFFF} Repairs}} \\ \hline
                         \multicolumn{1}{|c|}{2}                                                        & \multicolumn{1}{c|}{14}                                                             \\ \hline
 \multicolumn{1}{|c|}{7}                                                        & \multicolumn{1}{c|}{14}                                                             \\ \hline
 \multicolumn{1}{|c|}{6}                                                        & \multicolumn{1}{c|}{12}                                                             \\ \hline
@@ -12,4 +16,4 @@
 \multicolumn{1}{|c|}{14}                                                        & \multicolumn{1}{c|}{8}                                                             \\ \hline
 \end{tabular}
 
-\end{tabularx}\end{table}
+\end{tabularx}}

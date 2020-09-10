@@ -1,15 +1,19 @@
-\begin{table}[H]
-        \small
+\resizebox{%
+                          \ifdim\width>\textwidth
+                            \textwidth
+                          \else
+                            \width
+                          \fi
+                        }{!}{\small
         \begin{tabularx}{\textwidth}{p{.1em}c}
-               & 
-                        \begin{tabular}[t]{cc}
-                        \multicolumn{2}{l}{MITCHEL}                                                                                                                                   \\ \hline
-                        \multicolumn{1}{|c|}{\cellcolor{ccorange}{\color[HTML]{FFFFFF} Building}} & \multicolumn{1}{c|}{\cellcolor{ccorange}{\color[HTML]{FFFFFF} Total Repairs}} \\ \hline
-                        \multicolumn{1}{|c|}{7}                                                        & \multicolumn{1}{c|}{37}                                                             \\ \hline
-\multicolumn{1}{|c|}{8}                                                        & \multicolumn{1}{c|}{36}                                                             \\ \hline
+               &  \begin{tabular}[t]{cc}
+                        \multicolumn{2}{c}{Mitchel}                                                                                                                                   \\ \hline
+                        \multicolumn{1}{|c|}{\cellcolor{ccorange}{\color[HTML]{FFFFFF} Building}} & \multicolumn{1}{c|}{\cellcolor{ccorange}{\color[HTML]{FFFFFF} Repairs}} \\ \hline
+                        \multicolumn{1}{|c|}{8}                                                        & \multicolumn{1}{c|}{50}                                                             \\ \hline
+\multicolumn{1}{|c|}{7}                                                        & \multicolumn{1}{c|}{37}                                                             \\ \hline
 \multicolumn{1}{|c|}{4}                                                        & \multicolumn{1}{c|}{29}                                                             \\ \hline
 \multicolumn{1}{|c|}{5}                                                        & \multicolumn{1}{c|}{21}                                                             \\ \hline
 \multicolumn{1}{|c|}{6}                                                        & \multicolumn{1}{c|}{21}                                                             \\ \hline
 \end{tabular}
 
-\end{tabularx}\end{table}
+\end{tabularx}}

@@ -1,16 +1,22 @@
 % ----------------------------------------------	
-\pagestyle{plain}
-\whitetext{\chapter{Introduction}}
+%\let\cleardoublepage\clearpage
+\textbf{GLOSSARY CONTAINING KEY TERMS, EASILY MISUNDERSTOOD TERMS TO COME HERE}
+\pagebreak
+\whitetext{\chapter{\textcolor{ccteal}{Introduction}}}
+\whitetext{\textbf{\Huge Introduction}}
 \pagecolor{ccteal}
 \fontfamily{phv}
+\pagestyle{plain}
+
 %\vspace*{\stretch{.5}}
 \pagebreak
+
 \newpagecolor{white}
 \pagestyle{fancy}
 \fancyhf{}
 \renewcommand{\chaptermark}[1]{\markboth{#1}{}}
-\fancyfoot[LE,RO]{\thepage}
-
+\fancyfoot[LE,RO]{\sffamily\thepage}
+\fancyhead[CE,CO]{\textit{\footnotesize\sffamily Data current as of August 2020; verify before using}}
 	\begin{minipage}[t][.5\textheight][t]{\textwidth}
 	\textcolor{ccteal}{\section{Overview}}
 	
@@ -28,17 +34,15 @@
 \input{\rootpath/TABLES/typology_table/\tds_typology}
 \end{centering}
 \end{minipage}
-\pagebreak
-
-\newgeometry{left=0in, right=0in, top=0in, bottom=0in}
-\fakesection{Context Map}
 \afterpage{%
-    \clearpage% flush all other floats
+    %\clearpage% flush all other floats
     \ifodd\value{page}
-    %\else% uncomment this else to get odd/even instead of even/odd
+    \else% uncomment this else to get odd/even instead of even/odd
         \expandafter\afterpage% put it on the next page if this one is odd
     \fi
     {%
+    \newgeometry{left=0in, right=0in, top=0in, bottom=0in}
+	\fakesection{Context Map}
     \begin{figure}[H]
     	\raggedleft
         \includegraphics[height=11in]{\rootpath/MAPS/context_maps/\tds_context_1.png}%
@@ -51,45 +55,26 @@
     \clearpage
     }%
 }
+\pagecolor{white}
+%\pagebreak
+%-------------------------------------------
+\whitetext{\chapter{\textcolor{ccorange}{Waste Services and Assets}}}
+\whitetext{\textbf{\Huge Waste Services and Assets}}
+\pagecolor{ccorange}
+\pagestyle{plain}
 \restoregeometry
 \pagebreak
-%-------------------------------------------
-\pagestyle{plain}
-\whitetext{\chapter{Waste Services and Assets}}
-\pagecolor{ccorange}
-\pagebreak
-\newpagecolor{white}
 \pagestyle{fancy}
 \fancyhf{}
 \renewcommand{\chaptermark}[1]{\markboth{#1}{}}
-\fancyfoot[LE,RO]{\thepage}
+\fancyfoot[LE,RO]{\sffamily\thepage}
+\fancyhead[CE,CO]{\textit{\footnotesize\sffamily Data current as of August 2020; verify before using}}
 
-\textcolor{ccorange}{\section{Waste Distribution}}
-%%%% TO-DO: AUTOMATE TEXT GENERATION %%%
-\input{\rootpath/TEXT/waste_distribution_top/\tds_wd_top.tex}
-
-\begin{table}[H]
-\begin{threeparttable}
-\small
-
-\input{\rootpath/TABLES/waste_distribution_table/\tds_wd_table}
-
-\begin{tablenotes}
-\item [1] Assumes 5lbs of waste is produced daily in each unit.
-\item [2] Includes miscellaneous garbage as well as uncaptured recyclables, organics, e-waste, and textiles.
-\item [3] Primary method of trash collection, via chute. Assumes a 75\% capture rate.
-\item [4] Secondary method of trash collection. Assumes a 25\% capture rate
-\item [5] Capture rates of recyclables at NYCHA portfolio-wide: 30\% of MGP, 50\% of Cardboard, and 20\% of Paper. 
-%\item[5] Organics, e-waste, and textiles have a capture rate of 0\%.
-\end{tablenotes}
-\end{threeparttable}
-\end{table}
-\input{\rootpath/TEXT/waste_distribution_bottom/\tds_wd_bottom.tex}
-\pagebreak
-
+\sffamily
 \textcolor{ccorange}{\section{Waste Services and Assets}}
 %%% TO-DO: AUTOMATE TEXT GENERATION %%%
-At sites where household waste is not picked up curbside, caretakers are responsible for transporting waste from internal compactor rooms and secondary collection sites to external compactors, either at the development in question or another development within the consolidation. As a rule, bulk is transported to a central location in each consolidation for pickup, while recyclables are collected curbside.
+At sites where household waste is not picked up curbside, caretakers are responsible for transporting waste from internal compactor rooms and secondary collection sites to external compactors, either at the development in question or another development within the consolidation. Bulk is transported from bulk waste drop-off sites at each development (which house one or more 30-yard bulk containers) to a central location in each consolidation for pickup by a private carter. Recyclables are typically collected in receptacles around each site; caretakers then empty these receptacles and transport recyclables to curbside sites for pickup by DSNY.
+\pagecolor{white}
 \begin{table}[H]
 \small
 
@@ -121,12 +106,39 @@ At sites where household waste is not picked up curbside, caretakers are respons
 \end{table}
 
 \textcolor{ccorange}{SUMNER CONSOLIDATION ASSETS}
+
+\textbf{An explanation of how these assets contribute to waste management is forthcoming.}
 \begin{table}[H]
 \input{\rootpath/TABLES/consolidation_assets/\tds_consolidation_assets}
 \end{table}
 \pagebreak
+
+\textcolor{ccorange}{\section{Waste Distribution}}
+%%%% TO-DO: AUTOMATE TEXT GENERATION %%%
+\input{\rootpath/TEXT/waste_distribution_top/\tds_wd_top.tex}
+
+\begin{table}[H]
+\begin{threeparttable}
+\small
+
+\input{\rootpath/TABLES/waste_distribution_table/\tds_wd_table}
+
+\begin{tablenotes}
+\item [1] Assumes 5lbs of waste is produced daily in each unit.
+\item [2] Includes miscellaneous garbage as well as uncaptured recyclables, organics, e-waste, and textiles.
+\item [3] Primary method of trash collection, via chute. Assumes a 75\% capture rate.
+\item [4] Secondary method of trash collection. Assumes a 25\% capture rate
+\item [5] Capture rates of recyclables at NYCHA portfolio-wide: 30\% of MGP, 50\% of Cardboard, and 20\% of Paper. 
+%\item[5] Organics, e-waste, and textiles have a capture rate of 0\%.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}
+\input{\rootpath/TEXT/waste_distribution_bottom/\tds_wd_bottom.tex}
+\pagebreak
+
 \textcolor{ccorange}{\section{Capital Improvements}}
 
+\textbf{Contextualizing text is forthcoming.}
 \begin{table}[H]
 
 \input{\rootpath/TABLES/capital_projects_table/\tds_capital_projects}
@@ -135,18 +147,22 @@ At sites where household waste is not picked up curbside, caretakers are respons
 \pagebreak
 
 \textcolor{ccorange}{PRIORITIES}
+\\\textbf{THIS SECTION IS CURRENTLY UNDER REVISION, PENDING FUTHER FEEDBACK AND INITIAL SITE VISITS}
 \input{\rootpath/WORK_ORDER_ANALYSIS/image_layouts/\tds_layout}
-\pagebreak
+
 %-------------------------------------------
 \pagestyle{plain}
-\whitetext{\Chapter{Staffing}}
+\whitetext{\chapter{\textcolor{ccfuschia}{Staffing}}}
+\whitetext{\textbf{\Huge Staffing}}
 \pagecolor{ccfuschia}
+
 \pagebreak
 \newpagecolor{white}
 \pagestyle{fancy}
 \fancyhf{}
 \renewcommand{\chaptermark}[1]{\markboth{#1}{}}
-\fancyfoot[LE,RO]{\thepage}
+\fancyfoot[LE,RO]{\sffamily\thepage}
+\fancyhead[CE,CO]{\textit{\footnotesize\sffamily Data current as of August 2020; verify before using}}
 
 
 \textcolor{ccfuschia}{STAFFING STRUCTURE}
@@ -154,8 +170,13 @@ At sites where household waste is not picked up curbside, caretakers are respons
 	\resizebox{\textwidth}{!}{
 	\centering
 	\begin{tikzpicture}[node distance=3cm]
-	\node (vp) [processwide] {VP of Operations};
-	\node (borodr) [processwide, below of=vp] {Borough Director};
+	\node (vpes) [process, xshift=-6cm] {VP for Energy and Sustainability};
+	\node (evp) [process, above of=vpes] {EVP for Capital Projects};
+	\node (dires) [process, below of=vpes] {Director of Sustainability Programs};
+	\node (vp) [process] {VP of Operations};
+	\node (vpwm) [process, xshift=6cm] {VP of Waste Management and Pest Control};
+	\node (dirwm) [process, below of=vpwm] {Director of Waste Management};
+	\node (borodr) [process, below of=vp] {Borough Director};
 	\node(ram) [processwide, below of=borodr] {Regional Asset Manager};
 	\node (pm) [processwide, below of=ram] {Property Manager};
 	\node (super) [process, below of=pm, xshift=-5cm] {Superintendent};
@@ -178,6 +199,11 @@ At sites where household waste is not picked up curbside, caretakers are respons
 	%\draw [arrow] (dec1.west) -- ++(-1,0) node[anchor=south,pos=0.5] {No} |- (sub1.west);
 	%\draw [arrow] (dec1) -- node[anchor=west] {Yes} (stop);
 
+	\draw [dotline] (vp) -- (vpwm);
+	\draw [dotline] (vp) -- (vpes);
+	\draw [arrow] (evp) -- (vpes);
+	\draw [arrow] (vpes) -- (dires);
+	\draw [arrow] (vpwm) -- (dirwm);
 	\draw [arrow] (vp) -- (borodr);
 	\draw [arrow] (borodr) -- (ram);
 	\draw [arrow] (ram) -- (pm);
@@ -198,29 +224,35 @@ At sites where household waste is not picked up curbside, caretakers are respons
 
 \pagebreak
 \textcolor{ccfuschia}{ALLOCATED STAFF}
-
+\input{\rootpath/TEXT/staff_descriptions}
 \begin{table}[H]
 \begin{threeparttable}
 
 \input{\rootpath/TABLES/staff_table/\tds_staff_table}
 
 \begin{tablenotes}
-\item [1] Includes staff in roles Caretaker J, Caretaker I, and Chief Caretaker
+\small
+\item [1] Initial staff allocation recommendations are generated by formula, with the number of employees per consolidation and development determined in large part by number of residents at the time of calculation
+\item [2] Includes staff in roles Caretaker J, Caretaker I, and Chief Caretaker
+\item [3] Actual staff figures do not differentiate between caretaker roles
 \end{tablenotes}
 \end{threeparttable}
 \end{table}
-
-\pagebreak
 %-------------------------------------------
-\pagestyle{plain}
-\whitetext{\Chapter{Analysis}}
+
+\whitetext{\chapter{\textcolor{ccgreen}{Analysis}}}
+\whitetext{\textbf{\Huge Analysis}}
 \pagecolor{ccgreen}
+\pagestyle{plain}
+
+
 \pagebreak
 \newpagecolor{white}
 \pagestyle{fancy}
 \fancyhf{}
 \renewcommand{\chaptermark}[1]{\markboth{#1}{}}
-\fancyfoot[LE,RO]{\thepage}
+\fancyfoot[LE,RO]{\sffamily\thepage}
+\fancyhead[CE,CO]{\textit{\footnotesize\sffamily Data current as of August 2020; verify before using}}
 \textcolor{ccgreen}{ANALYSIS OF FINDINGS}
 \\
 \input{\rootpath/TEXT/analysis_text/\tds_analysis}
@@ -228,17 +260,25 @@ At sites where household waste is not picked up curbside, caretakers are respons
 \pagebreak
 % ############################################
 \pagestyle{plain}
-\whitetext{\Chapter{Appendices}}
+\whitetext{\Chapter{\textcolor{lightBlue}{Appendices}}}
+\whitetext{\textbf{\Huge Appendices}}
 \pagecolor{lightBlue}
+
 \pagebreak
 \newpagecolor{white}
 \pagestyle{fancy}
 \fancyhf{}
 \renewcommand{\chaptermark}[1]{\markboth{#1}{}}
 \fancyfoot[LE,RO]{\thepage}
-\textcolor{darkBlue}{Appendix I}
 
-PLACEHOLDER
+%\begin{comment}
+\includepdf[pages=1, angle=0, picturecommand*={\put(200,300){\textcolor{lightBlue}{Appendix I -- Site Plans}}}]{\rootpath/APPENDICES/SITE_PLANS/\tds_site_plans.pdf}
+\includepdf[pages={2-}, angle=0]{\rootpath/APPENDICES/SITE_PLANS/\tds_site_plans.pdf}
+%\end{comment}
+
+%\textcolor{lightBlue}{Appendix I - Site Plans}
+
+%Appendices are to include staffing schedules, site plans, and floorplans for relevant developments, to the extent that each are available and relevant to our purposes here.
 
 \pagebreak
 
