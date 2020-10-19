@@ -11,6 +11,11 @@
 %\newcommand{\tds}{003}
 \newcommand{\coverPage}{test_coverpage}
 \newcommand{\rootpath}{/Users/kyleslugg/Documents/NYCHA/Production}
+\newcommand\blankpage{
+    \null
+    \thispagestyle{empty}
+    \newpage
+    }
 
 
 
@@ -271,7 +276,6 @@
 	\includepdf{\rootpath/IMAGES/coverpage/\tds_cover.jpg}
 	
 	\setcounter{page}{1}
-	
 
 	\input{\rootpath/TEXT/preface_text/\tds_preface}
 	%\{about_the_project}
@@ -285,16 +289,17 @@
 	\thispagestyle{empty}
 		
 %%%%% Figures, Tables, Listings	
+\begin{comment}
 	\fancypagestyle{plain}{ 
 		\fancyhf{} 
-		\fancyfoot[LE,RO]{}
+		\fancyfoot[LE,RO]{\thepage}
 		\renewcommand{\headrulewidth}{0pt}
 		\renewcommand{\footrulewidth}{0pt}
 	}	
 	\addtocounter{page}{6}							% increase page number: +6	
 
 \clearpage
-
+\end{comment}
 %%%%% Content
 	\fancypagestyle{plain}{ 
 		\fancyhf{} 

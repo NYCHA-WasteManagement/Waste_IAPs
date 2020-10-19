@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  10 SEP 2020 15:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  7 OCT 2020 13:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -841,11 +841,11 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 
 Package hyperref Warning: Unexpected value for option `hidelinks'
-(hyperref)                is ignored on input line 135.
+(hyperref)                is ignored on input line 140.
 
-Package hyperref Info: Option `colorlinks' set `false' on input line 135.
-Package hyperref Info: Option `linktocpage' set `true' on input line 135.
-Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 135.
+Package hyperref Info: Option `colorlinks' set `false' on input line 140.
+Package hyperref Info: Option `linktocpage' set `true' on input line 140.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 140.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/pagecolor/pagecolor.sty
 Package: pagecolor 2017/05/29 v1.0i Provides thepagecolor (HMM)
@@ -1309,20 +1309,20 @@ File: german.lbx 2018/03/04 v3.11 biblatex localization (PK/MW)
 (./report.aux (./content.aux))
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 239.
-LaTeX Font Info:    ... okay on input line 239.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 239.
-LaTeX Font Info:    ... okay on input line 239.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 239.
-LaTeX Font Info:    ... okay on input line 239.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 239.
-LaTeX Font Info:    ... okay on input line 239.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 239.
-LaTeX Font Info:    ... okay on input line 239.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 239.
-LaTeX Font Info:    ... okay on input line 239.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 239.
-LaTeX Font Info:    ... okay on input line 239.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 244.
+LaTeX Font Info:    ... okay on input line 244.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 244.
+LaTeX Font Info:    ... okay on input line 244.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 244.
+LaTeX Font Info:    ... okay on input line 244.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 244.
+LaTeX Font Info:    ... okay on input line 244.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 244.
+LaTeX Font Info:    ... okay on input line 244.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 244.
+LaTeX Font Info:    ... okay on input line 244.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 244.
+LaTeX Font Info:    ... okay on input line 244.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1414,9 +1414,9 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'report.bbl' not found.
 
 No file report.bbl.
-Package biblatex Info: Reference section=0 on input line 239.
-Package biblatex Info: Reference segment=0 on input line 239.
-Package hyperref Info: Link coloring OFF on input line 239.
+Package biblatex Info: Reference section=0 on input line 244.
+Package biblatex Info: Reference segment=0 on input line 244.
+Package hyperref Info: Link coloring OFF on input line 244.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
@@ -1425,9 +1425,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count367
 )
-LaTeX Info: Redefining \ref on input line 239.
-LaTeX Info: Redefining \pageref on input line 239.
-LaTeX Info: Redefining \nameref on input line 239.
+LaTeX Info: Redefining \ref on input line 244.
+LaTeX Info: Redefining \pageref on input line 244.
+LaTeX Info: Redefining \nameref on input line 244.
 
 (./report.out) (./report.out)
 \@outlinefile=\write6
@@ -1435,61 +1435,61 @@ LaTeX Info: Redefining \nameref on input line 239.
 
 \c@lstlisting=\count368
  ABD: EveryShipout initializing macros
-</Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jpg, id
-=83, 1593.955pt x 2065.7175pt>
-File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jp
+</Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/004_cover.jpg, id
+=83, 3322.4125pt x 4304.08pt>
+File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/004_cover.jp
 g Graphic file (type jpg)
-<use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jpg
+<use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/004_cover.jpg
 >
 Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/cov
-erpage/073_cover.jpg  used on input line 259.
-(pdftex.def)             Requested size: 1593.95113pt x 2065.71248pt.
-File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jp
+erpage/004_cover.jpg  used on input line 264.
+(pdftex.def)             Requested size: 3322.40443pt x 4304.06956pt.
+File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/004_cover.jp
 g Graphic file (type jpg)
-<use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jpg
+<use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/004_cover.jpg
 >
 Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/cov
-erpage/073_cover.jpg  used on input line 259.
-(pdftex.def)             Requested size: 1593.95113pt x 2065.71248pt.
-File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jp
+erpage/004_cover.jpg  used on input line 264.
+(pdftex.def)             Requested size: 3322.40443pt x 4304.06956pt.
+File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/004_cover.jp
 g Graphic file (type jpg)
-<use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jpg
+<use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/004_cover.jpg
 >
 Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/cov
-erpage/073_cover.jpg  used on input line 259.
-(pdftex.def)             Requested size: 1593.95113pt x 2065.71248pt.
-File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jp
+erpage/004_cover.jpg  used on input line 264.
+(pdftex.def)             Requested size: 3322.40443pt x 4304.06956pt.
+File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/004_cover.jp
 g Graphic file (type jpg)
-<use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jpg
+<use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/004_cover.jpg
 >
 Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/cov
-erpage/073_cover.jpg  used on input line 259.
-(pdftex.def)             Requested size: 613.61377pt x 795.22491pt.
-File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jp
+erpage/004_cover.jpg  used on input line 264.
+(pdftex.def)             Requested size: 613.62279pt x 794.92886pt.
+File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/004_cover.jp
 g Graphic file (type jpg)
-<use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jpg
+<use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/004_cover.jpg
 >
 Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/cov
-erpage/073_cover.jpg  used on input line 259.
-(pdftex.def)             Requested size: 613.61377pt x 795.22491pt.
-File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jp
+erpage/004_cover.jpg  used on input line 264.
+(pdftex.def)             Requested size: 613.62279pt x 794.92886pt.
+File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/004_cover.jp
 g Graphic file (type jpg)
-<use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jpg
+<use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/004_cover.jpg
 >
 Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/cov
-erpage/073_cover.jpg  used on input line 259.
-(pdftex.def)             Requested size: 613.61377pt x 795.22491pt.
-File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jp
+erpage/004_cover.jpg  used on input line 264.
+(pdftex.def)             Requested size: 613.62279pt x 794.92886pt.
+File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/004_cover.jp
 g Graphic file (type jpg)
-<use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jpg
+<use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/004_cover.jpg
 >
 Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/cov
-erpage/073_cover.jpg  used on input line 259.
-(pdftex.def)             Requested size: 613.61377pt x 795.22491pt.
+erpage/004_cover.jpg  used on input line 264.
+(pdftex.def)             Requested size: 613.62279pt x 794.92886pt.
  [1
 
- </Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/073_cover.jpg>]
-(/Users/kyleslugg/Documents/NYCHA/Production/TEXT/preface_text/073_preface.tex
+ </Users/kyleslugg/Documents/NYCHA/Production/IMAGES/coverpage/004_cover.jpg>]
+(/Users/kyleslugg/Documents/NYCHA/Production/TEXT/preface_text/004_preface.tex
 Chapter 1.
 LaTeX Font Info:    Try loading font information for OT1+phv on input line 1.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/ot1phv.fd
@@ -1526,105 +1526,85 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ]
 \openout2 = `content.aux'.
 
- (./content.tex [2
+ (./content.tex
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <20.74> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 2.
+
+(/Users/kyleslugg/Documents/NYCHA/Production/TEXT/glossary.tex
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 1.
+ [2
 
 ]
-Chapter 2.
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 35.
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 51.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omsphv.fd
+File: omsphv.fd 
+)
+LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 51.
+)
 \GPT@outputbox=\box81
+ [3]
+Chapter 2.
 
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 9.
+less on input line 10.
 
 
-Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 13.
-
-[3
-
-]
-
-Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 18.
-
-
-Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 19.
-
-
-(/Users/kyleslugg/Documents/NYCHA/Production/TEXT/overview_text/073_overview.te
-x)
-(/Users/kyleslugg/Documents/NYCHA/Production/TABLES/overview_table/073_overview
+(/Users/kyleslugg/Documents/NYCHA/Production/TABLES/overview_table/004_overview
 _table.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 9.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 9.
 )
-(/Users/kyleslugg/Documents/NYCHA/Production/TABLES/typology_table/073_typology
+(/Users/kyleslugg/Documents/NYCHA/Production/TABLES/typology_table/004_typology
 .tex
-Underfull \hbox (badness 3250) in paragraph at lines 6--6
-[]|\OT1/phv/b/n/10.95 303 Ver-non Av-
- []
-
-</Users/kyleslugg/Documents/NYCHA/Production/IMAGES/typology_towerpark.png, id=
-130, 677.53125pt x 655.44875pt>
-File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/typology_towerpark.png
- Graphic file (type png)
-<use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/typology_towerpark.png>
-
+</Users/kyleslugg/Documents/NYCHA/Production/IMAGES/typology_earlytower.png, id
+=133, 1688.3075pt x 1587.9325pt>
+File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/typology_earlytower.pn
+g Graphic file (type png)
+<use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/typology_earlytower.png
+>
 Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/typ
-ology_towerpark.png  used on input line 6.
-(pdftex.def)             Requested size: 112.05663pt x 108.405pt.
+ology_earlytower.png  used on input line 4.
+(pdftex.def)             Requested size: 153.66713pt x 144.54pt.
 
-Overfull \hbox (3.65163pt too wide) in paragraph at lines 6--6
-[]|[]| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--6
-[]|\OT1/phv/b/n/10.95 Bedford-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--6
-\OT1/phv/b/n/10.95 Stuyvesant
- []
-
-
-Underfull \hbox (badness 1028) in paragraph at lines 6--6
-\OT1/phv/b/n/10.95 Re-hab: \OT1/phv/m/n/10.95 Walkups
- []
-
-</Users/kyleslugg/Documents/NYCHA/Production/IMAGES/typology_prewar.png, id=132
-, 807.015pt x 707.64375pt>
-File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/typology_prewar.png Gr
-aphic file (type png)
-<use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/typology_prewar.png>
-Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/typ
-ology_prewar.png  used on input line 6.
-(pdftex.def)             Requested size: 123.62065pt x 108.405pt.
-
-Overfull \hbox (15.21565pt too wide) in paragraph at lines 6--6
-[]|[]| 
- []
-
-File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/typology_towerpark.png
- Graphic file (type png)
-<use /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/typology_towerpark.png>
-
-Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/typ
-ology_towerpark.png  used on input line 6.
-(pdftex.def)             Requested size: 112.05663pt x 108.405pt.
-
-Overfull \hbox (3.65163pt too wide) in paragraph at lines 6--6
+Overfull \hbox (9.12714pt too wide) in paragraph at lines 4--5
 []|[]| 
  []
 
 )
+Overfull \hbox (12.08798pt too wide) in paragraph at lines 26--27
+[][][][][][][] 
+ []
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 30.
+
+[4
+
+ </Users/kyleslugg/Documents/NYCHA/Production/IMAGES/typology_earlytower.png>]
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 35.
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 36.
+
+
+(/Users/kyleslugg/Documents/NYCHA/Production/TEXT/overview_text/004_overview.te
+x)
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <9> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 61.
- [4 </Users/kyleslugg/Documents/NYCHA/Production/IMAGES/typology_towerpark.png>
- </Users/kyleslugg/Documents/NYCHA/Production/IMAGES/typology_prewar.png>]
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 71.
+ [5] [6
+
+]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: letterpaper
@@ -1657,14 +1637,14 @@ LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <9> not available
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-</Users/kyleslugg/Documents/NYCHA/Production/MAPS/context_maps/073_context_1.pn
-g, id=143, 1760.5775pt x 2489.3pt>
-File: /Users/kyleslugg/Documents/NYCHA/Production/MAPS/context_maps/073_context
+</Users/kyleslugg/Documents/NYCHA/Production/MAPS/context_maps/004_context_1.pn
+g, id=151, 1760.5775pt x 2489.3pt>
+File: /Users/kyleslugg/Documents/NYCHA/Production/MAPS/context_maps/004_context
 _1.png Graphic file (type png)
-<use /Users/kyleslugg/Documents/NYCHA/Production/MAPS/context_maps/073_context_
+<use /Users/kyleslugg/Documents/NYCHA/Production/MAPS/context_maps/004_context_
 1.png>
 Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/MAPS/conte
-xt_maps/073_context_1.png  used on input line 61.
+xt_maps/004_context_1.png  used on input line 71.
 (pdftex.def)             Requested size: 562.24115pt x 794.96999pt.
 
 
@@ -1673,19 +1653,18 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[5
+[7
 
-
- </Users/kyleslugg/Documents/NYCHA/Production/MAPS/context_maps/073_context_1.p
+ </Users/kyleslugg/Documents/NYCHA/Production/MAPS/context_maps/004_context_1.p
 ng>]
-</Users/kyleslugg/Documents/NYCHA/Production/MAPS/context_maps/073_context_2.pn
-g, id=150, 1759.57375pt x 2489.3pt>
-File: /Users/kyleslugg/Documents/NYCHA/Production/MAPS/context_maps/073_context
+</Users/kyleslugg/Documents/NYCHA/Production/MAPS/context_maps/004_context_2.pn
+g, id=158, 1759.57375pt x 2489.3pt>
+File: /Users/kyleslugg/Documents/NYCHA/Production/MAPS/context_maps/004_context
 _2.png Graphic file (type png)
-<use /Users/kyleslugg/Documents/NYCHA/Production/MAPS/context_maps/073_context_
+<use /Users/kyleslugg/Documents/NYCHA/Production/MAPS/context_maps/004_context_
 2.png>
 Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/MAPS/conte
-xt_maps/073_context_2.png  used on input line 61.
+xt_maps/004_context_2.png  used on input line 71.
 (pdftex.def)             Requested size: 561.92061pt x 794.96999pt.
 
 
@@ -1694,60 +1673,35 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[6
+[8
 
- </Users/kyleslugg/Documents/NYCHA/Production/MAPS/context_maps/073_context_2.p
+ </Users/kyleslugg/Documents/NYCHA/Production/MAPS/context_maps/004_context_2.p
 ng>]
 Chapter 3.
 
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 64.
+less on input line 74.
 
 
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 65.
+less on input line 75.
 
-[7
+[9
 
 ]
 
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 70.
+less on input line 80.
 
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 71.
+less on input line 81.
 
 
-(/Users/kyleslugg/Documents/NYCHA/Production/TABLES/waste_services/073_waste_se
+(/Users/kyleslugg/Documents/NYCHA/Production/TABLES/waste_services/004_waste_se
 rvices.tex
 Underfull \hbox (badness 1558) in paragraph at lines 11--11
 []|  
- []
-
-
-Underfull \hbox (badness 3291) in paragraph at lines 11--11
-[]|\OT1/phv/m/n/10 1 ex-te-rior com-pactor in 1
- []
-
-
-Underfull \hbox (badness 1478) in paragraph at lines 11--11
-[]|\OT1/phv/m/n/10 3 ex-te-rior com-pactors in 3
- []
-
-
-Underfull \hbox (badness 4886) in paragraph at lines 11--11
-[]|\OT1/phv/m/n/10 One Bulk Waste Drop-Off
- []
-
-
-Underfull \hbox (badness 4752) in paragraph at lines 11--11
-[]|\OT1/phv/m/n/10 Transferred to Sum-ner for
- []
-
-
-Underfull \hbox (badness 4886) in paragraph at lines 11--11
-[]|\OT1/phv/m/n/10 One Bulk Waste Drop-Off
  []
 
 )
@@ -1757,17 +1711,17 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[8
+[10
 
 ]
-</Users/kyleslugg/Documents/NYCHA/Production/MAPS/asset_maps/073_asset_map.png,
- id=166, 614.295pt x 794.97pt>
-File: /Users/kyleslugg/Documents/NYCHA/Production/MAPS/asset_maps/073_asset_map
+</Users/kyleslugg/Documents/NYCHA/Production/MAPS/asset_maps/004_asset_map.png,
+ id=176, 614.295pt x 794.97pt>
+File: /Users/kyleslugg/Documents/NYCHA/Production/MAPS/asset_maps/004_asset_map
 .png Graphic file (type png)
-<use /Users/kyleslugg/Documents/NYCHA/Production/MAPS/asset_maps/073_asset_map.
+<use /Users/kyleslugg/Documents/NYCHA/Production/MAPS/asset_maps/004_asset_map.
 png>
 Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/MAPS/asset
-_maps/073_asset_map.png  used on input line 90.
+_maps/004_asset_map.png  used on input line 100.
 (pdftex.def)             Requested size: 514.9221pt x 666.41167pt.
 
 
@@ -1776,9 +1730,9 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[9 </Users/kyleslugg/Documents/NYCHA/Production/MAPS/asset_maps/073_asset_map.p
-ng>]
-(/Users/kyleslugg/Documents/NYCHA/Production/TABLES/waste_assets/073_waste_asse
+[11 </Users/kyleslugg/Documents/NYCHA/Production/MAPS/asset_maps/004_asset_map.
+png>]
+(/Users/kyleslugg/Documents/NYCHA/Production/TABLES/waste_assets/004_waste_asse
 ts.tex
 Underfull \hbox (badness 1558) in paragraph at lines 4--4
 []|  
@@ -1815,12 +1769,23 @@ Package varwidth Warning: Failed to reprocess entire contents on input line 4.
 Package varwidth Warning: Failed to reprocess entire contents on input line 4.
 
 
-Package varwidth Warning: Failed to reprocess entire contents on input line 5.
+Package varwidth Warning: Failed to reprocess entire contents on input line 4.
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 4.
 
 
 Package varwidth Warning: Failed to reprocess entire contents on input line 5.
 
 
+Package varwidth Warning: Failed to reprocess entire contents on input line 5.
+
+
+Underfull \hbox (badness 1259) in paragraph at lines 5--5
+[]\OT1/phv/m/n/10 2|  
+ []
+
+
 Underfull \hbox (badness 1259) in paragraph at lines 5--5
 []\OT1/phv/m/n/10 0|  
  []
@@ -1832,60 +1797,18 @@ Underfull \hbox (badness 1259) in paragraph at lines 5--5
 
 
 Underfull \hbox (badness 1259) in paragraph at lines 5--5
-[]\OT1/phv/m/n/10 0|  
- []
-
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 6.
-
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 6.
-
-
-Underfull \hbox (badness 1259) in paragraph at lines 6--6
-[]\OT1/phv/m/n/10 0|  
- []
-
-
-Underfull \hbox (badness 1259) in paragraph at lines 6--6
-[]\OT1/phv/m/n/10 0|  
- []
-
-
-Underfull \hbox (badness 1259) in paragraph at lines 6--6
-[]\OT1/phv/m/n/10 0|  
- []
-
-
-Underfull \hbox (badness 1259) in paragraph at lines 6--6
-[]\OT1/phv/m/n/10 0|  
- []
-
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 7.
-
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 7.
-
-
-Underfull \hbox (badness 1259) in paragraph at lines 7--7
-[]\OT1/phv/m/n/10 0|  
- []
-
-
-Underfull \hbox (badness 1259) in paragraph at lines 7--7
-[]\OT1/phv/m/n/10 0|  
- []
-
-
-Underfull \hbox (badness 1259) in paragraph at lines 7--7
-[]\OT1/phv/m/n/10 8|  
+[]\OT1/phv/m/n/10 4|  
  []
 
 )
-(/Users/kyleslugg/Documents/NYCHA/Production/TABLES/consolidation_assets/073_co
+Overfull \hbox (14.68958pt too wide) in paragraph at lines 108--116
+ [] 
+ []
+
+
+(/Users/kyleslugg/Documents/NYCHA/Production/TABLES/consolidation_assets/004_co
 nsolidation_assets.tex
-</Users/kyleslugg/Documents/NYCHA/Production/IMAGES/truck.png, id=174, 385.44pt
+</Users/kyleslugg/Documents/NYCHA/Production/IMAGES/truck.png, id=183, 385.44pt
  x 385.44pt>
 File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/truck.png Graphic file
  (type png)
@@ -1893,7 +1816,7 @@ File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/truck.png Graphic file
 Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/tru
 ck.png  used on input line 3.
 (pdftex.def)             Requested size: 81.30043pt x 81.29767pt.
-</Users/kyleslugg/Documents/NYCHA/Production/IMAGES/bobcat.png, id=175, 411.136
+</Users/kyleslugg/Documents/NYCHA/Production/IMAGES/bobcat.png, id=184, 411.136
 pt x 411.136pt>
 File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/bobcat.png Graphic fil
 e (type png)
@@ -1901,7 +1824,7 @@ e (type png)
 Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/bob
 cat.png  used on input line 3.
 (pdftex.def)             Requested size: 81.30043pt x 81.29727pt.
-</Users/kyleslugg/Documents/NYCHA/Production/IMAGES/tractor.png, id=176, 385.44
+</Users/kyleslugg/Documents/NYCHA/Production/IMAGES/tractor.png, id=185, 385.44
 pt x 385.44pt>
 File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/tractor.png Graphic fi
 le (type png)
@@ -1909,7 +1832,7 @@ le (type png)
 Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/tra
 ctor.png  used on input line 3.
 (pdftex.def)             Requested size: 81.30043pt x 81.29767pt.
-</Users/kyleslugg/Documents/NYCHA/Production/IMAGES/road-sweeper.png, id=177, 4
+</Users/kyleslugg/Documents/NYCHA/Production/IMAGES/road-sweeper.png, id=186, 4
 11.136pt x 411.136pt>
 File: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/road-sweeper.png Graph
 ic file (type png)
@@ -1918,7 +1841,7 @@ Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/IMAGES/roa
 d-sweeper.png  used on input line 3.
 (pdftex.def)             Requested size: 81.30043pt x 81.29727pt.
 )
-Overfull \hbox (47.99995pt too wide) in paragraph at lines 1--113
+Overfull \hbox (47.99995pt too wide) in paragraph at lines 1--122
  [][] 
  []
 
@@ -1928,89 +1851,44 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[10 </Users/kyleslugg/Documents/NYCHA/Production/IMAGES/truck.png> </Users/kyle
+[12 </Users/kyleslugg/Documents/NYCHA/Production/IMAGES/truck.png> </Users/kyle
 slugg/Documents/NYCHA/Production/IMAGES/bobcat.png> </Users/kyleslugg/Documents
 /NYCHA/Production/IMAGES/tractor.png> </Users/kyleslugg/Documents/NYCHA/Product
 ion/IMAGES/road-sweeper.png>]
-(/Users/kyleslugg/Documents/NYCHA/Production/TEXT/waste_distribution_top/073_wd
+(/Users/kyleslugg/Documents/NYCHA/Production/TEXT/waste_distribution_top/004_wd
 _top.tex)
-(/Users/kyleslugg/Documents/NYCHA/Production/TABLES/waste_distribution_table/07
-3_wd_table.tex
-Underfull \hbox (badness 1558) in paragraph at lines 10--10
+(/Users/kyleslugg/Documents/NYCHA/Production/TABLES/waste_distribution_table/00
+4_wd_table.tex
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 1.
+
+Underfull \hbox (badness 1558) in paragraph at lines 11--11
 []|  
  []
 
 
-Package varwidth Warning: Failed to reprocess entire contents on input line 10.
+Package varwidth Warning: Failed to reprocess entire contents on input line 11.
 
 
 
-Package varwidth Warning: Failed to reprocess entire contents on input line 10.
+Package varwidth Warning: Failed to reprocess entire contents on input line 11.
 
 
 
-Package varwidth Warning: Failed to reprocess entire contents on input line 10.
-
-
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 10.
-
-
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 10.
-
-
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 10.
-
-
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 10.
-
-
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 10.
-
-
-
-Underfull \hbox (badness 1558) in paragraph at lines 18--18
+Underfull \hbox (badness 1558) in paragraph at lines 19--19
 []|  
  []
 
 
-Package varwidth Warning: Failed to reprocess entire contents on input line 18.
+Package varwidth Warning: Failed to reprocess entire contents on input line 19.
 
 
 
-Package varwidth Warning: Failed to reprocess entire contents on input line 18.
-
-
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 18.
-
-
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 18.
-
-
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 18.
-
-
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 18.
-
-
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 18.
-
-
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 18.
+Package varwidth Warning: Failed to reprocess entire contents on input line 19.
 
 
 )
-(/Users/kyleslugg/Documents/NYCHA/Production/TEXT/waste_distribution_bottom/073
+(/Users/kyleslugg/Documents/NYCHA/Production/TEXT/waste_distribution_bottom/004
 _wd_bottom.tex)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2018,168 +1896,96 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[11]
-(/Users/kyleslugg/Documents/NYCHA/Production/TABLES/capital_projects_table/073_
-capital_projects.tex
-Underfull \hbox (badness 10000) in paragraph at lines 17--17
-[]|\OT1/phv/m/n/10.95 Bedford-Stuyvesant Re-
- []
-
-)
+[13]
+(/Users/kyleslugg/Documents/NYCHA/Production/TABLES/capital_projects_table/004_
+capital_projects.tex)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[12]
+[14]
 (/Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/image_layouts/
-073_layout.tex
+004_layout.tex
 </Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Consolidation_
-BarCharts/png/73_Sumner_WorkOrder_Category_BarChart.png, id=201, 433.62pt x 289
-.08pt>
+BarCharts/png/4_Red-Hook-East_WorkOrder_Category_BarChart.png, id=209, 433.62pt
+ x 289.08pt>
 File: /Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Consolida
-tion_BarCharts/png/73_Sumner_WorkOrder_Category_BarChart.png Graphic file (type
- png)
+tion_BarCharts/png/4_Red-Hook-East_WorkOrder_Category_BarChart.png Graphic file
+ (type png)
 <use /Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Consolidat
-ion_BarCharts/png/73_Sumner_WorkOrder_Category_BarChart.png>
+ion_BarCharts/png/4_Red-Hook-East_WorkOrder_Category_BarChart.png>
 Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER
-_ANALYSIS/Consolidation_BarCharts/png/73_Sumner_WorkOrder_Category_BarChart.png
-  used on input line 7.
+_ANALYSIS/Consolidation_BarCharts/png/4_Red-Hook-East_WorkOrder_Category_BarCha
+rt.png  used on input line 7.
 (pdftex.def)             Requested size: 325.2183pt x 216.8227pt.
-</Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Development_Ba
-rCharts/png/156_303-VERNON-AVENUE_WorkOrder_Category_BarChart.png, id=202, 433.
-62pt x 289.08pt>
-File: /Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Developme
-nt_BarCharts/png/156_303-VERNON-AVENUE_WorkOrder_Category_BarChart.png Graphic 
-file (type png)
-<use /Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Developmen
-t_BarCharts/png/156_303-VERNON-AVENUE_WorkOrder_Category_BarChart.png>
-Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER
-_ANALYSIS/Development_BarCharts/png/156_303-VERNON-AVENUE_WorkOrder_Category_Ba
-rChart.png  used on input line 8.
-(pdftex.def)             Requested size: 243.90959pt x 162.60709pt.
-</Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Development_Ba
-rCharts/png/311_BEDFORD-STUYVESANT-REHAB_WorkOrder_Category_BarChart.png, id=20
-3, 433.62pt x 289.08pt>
-File: /Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Developme
-nt_BarCharts/png/311_BEDFORD-STUYVESANT-REHAB_WorkOrder_Category_BarChart.png G
-raphic file (type png)
-<use /Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Developmen
-t_BarCharts/png/311_BEDFORD-STUYVESANT-REHAB_WorkOrder_Category_BarChart.png>
-Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER
-_ANALYSIS/Development_BarCharts/png/311_BEDFORD-STUYVESANT-REHAB_WorkOrder_Cate
-gory_BarChart.png  used on input line 8.
-(pdftex.def)             Requested size: 243.90959pt x 162.60709pt.
-</Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Development_Ba
-rCharts/png/73_SUMNER_WorkOrder_Category_BarChart.png, id=204, 433.62pt x 289.0
-8pt>
-File: /Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Developme
-nt_BarCharts/png/73_SUMNER_WorkOrder_Category_BarChart.png Graphic file (type p
-ng)
-<use /Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Developmen
-t_BarCharts/png/73_SUMNER_WorkOrder_Category_BarChart.png>
-Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER
-_ANALYSIS/Development_BarCharts/png/73_SUMNER_WorkOrder_Category_BarChart.png  
-used on input line 9.
-(pdftex.def)             Requested size: 243.90959pt x 162.60709pt.
 
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 4--10
+Overfull \hbox (12.0pt too wide) in paragraph at lines 4--9
  [] 
  []
 
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[13 </Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Consolidat
-ion_BarCharts/png/73_Sumner_WorkOrder_Category_BarChart.png> </Users/kyleslugg/
-Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Development_BarCharts/png/156_30
-3-VERNON-AVENUE_WorkOrder_Category_BarChart.png> </Users/kyleslugg/Documents/NY
-CHA/Production/WORK_ORDER_ANALYSIS/Development_BarCharts/png/311_BEDFORD-STUYVE
-SANT-REHAB_WorkOrder_Category_BarChart.png> </Users/kyleslugg/Documents/NYCHA/P
-roduction/WORK_ORDER_ANALYSIS/Development_BarCharts/png/73_SUMNER_WorkOrder_Cat
-egory_BarChart.png>]
 </Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Dev_Interior_C
-omp_Repair_BarCharts/png/Sumner_73_303-Vernon-Avenue_156_Interior_Comp_Rep_BarC
-hart.png, id=213, 433.62pt x 289.08pt>
+omp_Repair_BarCharts/png/Red-Hook-East_4_Red-Hook-East_4_Interior_Comp_Rep_BarC
+hart.png, id=210, 433.62pt x 289.08pt>
 File: /Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Dev_Inter
-ior_Comp_Repair_BarCharts/png/Sumner_73_303-Vernon-Avenue_156_Interior_Comp_Rep
+ior_Comp_Repair_BarCharts/png/Red-Hook-East_4_Red-Hook-East_4_Interior_Comp_Rep
 _BarChart.png Graphic file (type png)
 <use /Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Dev_Interi
-or_Comp_Repair_BarCharts/png/Sumner_73_303-Vernon-Avenue_156_Interior_Comp_Rep_
+or_Comp_Repair_BarCharts/png/Red-Hook-East_4_Red-Hook-East_4_Interior_Comp_Rep_
 BarChart.png>
 Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER
-_ANALYSIS/Dev_Interior_Comp_Repair_BarCharts/png/Sumner_73_303-Vernon-Avenue_15
-6_Interior_Comp_Rep_BarChart.png  used on input line 18.
-(pdftex.def)             Requested size: 243.90959pt x 162.60709pt.
-</Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Dev_Interior_C
-omp_Repair_BarCharts/png/Sumner_73_Bedford-Stuyvesant-Rehab_311_Interior_Comp_R
-ep_BarChart.png, id=214, 433.62pt x 289.08pt>
-File: /Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Dev_Inter
-ior_Comp_Repair_BarCharts/png/Sumner_73_Bedford-Stuyvesant-Rehab_311_Interior_C
-omp_Rep_BarChart.png Graphic file (type png)
-<use /Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Dev_Interi
-or_Comp_Repair_BarCharts/png/Sumner_73_Bedford-Stuyvesant-Rehab_311_Interior_Co
-mp_Rep_BarChart.png>
-Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER
-_ANALYSIS/Dev_Interior_Comp_Repair_BarCharts/png/Sumner_73_Bedford-Stuyvesant-R
-ehab_311_Interior_Comp_Rep_BarChart.png  used on input line 18.
-(pdftex.def)             Requested size: 243.90959pt x 162.60709pt.
-</Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Dev_Interior_C
-omp_Repair_BarCharts/png/Sumner_73_Sumner_73_Interior_Comp_Rep_BarChart.png, id
-=215, 433.62pt x 289.08pt>
-File: /Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Dev_Inter
-ior_Comp_Repair_BarCharts/png/Sumner_73_Sumner_73_Interior_Comp_Rep_BarChart.pn
-g Graphic file (type png)
-<use /Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Dev_Interi
-or_Comp_Repair_BarCharts/png/Sumner_73_Sumner_73_Interior_Comp_Rep_BarChart.png
->
-Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER
-_ANALYSIS/Dev_Interior_Comp_Repair_BarCharts/png/Sumner_73_Sumner_73_Interior_C
-omp_Rep_BarChart.png  used on input line 19.
-(pdftex.def)             Requested size: 243.90959pt x 162.60709pt.
+_ANALYSIS/Dev_Interior_Comp_Repair_BarCharts/png/Red-Hook-East_4_Red-Hook-East_
+4_Interior_Comp_Rep_BarChart.png  used on input line 16.
+(pdftex.def)             Requested size: 325.2183pt x 216.8227pt.
 
 (/Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Dev_Interior_C
-omp_Repair_Tables/073_repair_table.tex
-Underfull \hbox (badness 10000) in alignment at lines 31--31
-[][][][] 
+omp_Repair_Tables/004_repair_table.tex
+Underfull \hbox (badness 10000) in alignment at lines 19--19
+[][] 
  []
 
 )
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 16--22
+Overfull \hbox (12.02481pt too wide) in paragraph at lines 14--19
  [] 
  []
 
-)
 
-Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 154.
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
-[14 </Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Dev_Interi
-or_Comp_Repair_BarCharts/png/Sumner_73_303-Vernon-Avenue_156_Interior_Comp_Rep_
-BarChart.png> </Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/
-Dev_Interior_Comp_Repair_BarCharts/png/Sumner_73_Bedford-Stuyvesant-Rehab_311_I
-nterior_Comp_Rep_BarChart.png> </Users/kyleslugg/Documents/NYCHA/Production/WOR
-K_ORDER_ANALYSIS/Dev_Interior_Comp_Repair_BarCharts/png/Sumner_73_Sumner_73_Int
-erior_Comp_Rep_BarChart.png>]
+[15 </Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Consolidat
+ion_BarCharts/png/4_Red-Hook-East_WorkOrder_Category_BarChart.png>])
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[16 </Users/kyleslugg/Documents/NYCHA/Production/WORK_ORDER_ANALYSIS/Dev_Interi
+or_Comp_Repair_BarCharts/png/Red-Hook-East_4_Red-Hook-East_4_Interior_Comp_Rep_
+BarChart.png>]
 Chapter 4.
 
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 160.
+less on input line 168.
 
-[15
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 171.
+
+[17
 
 ]
 
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 164.
+less on input line 175.
 
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 165.
+less on input line 176.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2187,187 +1993,124 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[16] (/Users/kyleslugg/Documents/NYCHA/Production/TEXT/staff_descriptions.tex
-LaTeX Font Info:    Try loading font information for OMS+phv on input line 3.
-
-(/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omsphv.fd
-File: omsphv.fd 
-)
-LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 3.
-)
-(/Users/kyleslugg/Documents/NYCHA/Production/TABLES/staff_table/073_staff_table
+[18] (/Users/kyleslugg/Documents/NYCHA/Production/TEXT/staff_descriptions.tex)
+(/Users/kyleslugg/Documents/NYCHA/Production/TABLES/staff_table/004_staff_table
 .tex)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 246.
 
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
 
-[17]
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 253.
+
+[19]
 Chapter 5.
 
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 246.
+less on input line 257.
 
 
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 250.
+less on input line 261.
 
-[18
+[20
 
 ]
 
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 254.
+less on input line 265.
 
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 255.
+less on input line 266.
 
 
-(/Users/kyleslugg/Documents/NYCHA/Production/TEXT/analysis_text/073_analysis.te
+(/Users/kyleslugg/Documents/NYCHA/Production/TEXT/analysis_text/004_analysis.te
 x)
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[19]
-
-Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 262.
-
-[20]
-Chapter 6.
-
-Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 268.
-
-[21
-
-]
 
 Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
 less on input line 272.
 
-</Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/SITE_PLANS/073_site_pla
-ns.pdf, id=256, 614.295pt x 794.97pt>
-File: /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/SITE_PLANS/073_sit
-e_plans.pdf Graphic file (type pdf)
-<use /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/SITE_PLANS/073_site
-_plans.pdf>
+[21]
+Chapter 6.
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 276.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 279.
+
+[22
+
+]
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 282.
+
+</Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/site_plans/004.pdf, id=
+250, 513.92pt x 794.97pt>
+File: /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/site_plans/004.pdf
+ Graphic file (type pdf)
+<use /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/site_plans/004.pdf>
+
 Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES
-/SITE_PLANS/073_site_plans.pdf  used on input line 275.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/SITE_PLANS/073_sit
-e_plans.pdf Graphic file (type pdf)
-<use /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/SITE_PLANS/073_site
-_plans.pdf>
+/site_plans/004.pdf  used on input line 284.
+(pdftex.def)             Requested size: 513.91873pt x 794.96806pt.
+File: /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/site_plans/004.pdf
+ Graphic file (type pdf)
+<use /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/site_plans/004.pdf>
+
 Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES
-/SITE_PLANS/073_site_plans.pdf  used on input line 275.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-</Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/SITE_PLANS/073_site_pla
-ns.pdf, id=259, page=1, 614.295pt x 794.97pt>
-File: /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/SITE_PLANS/073_sit
-e_plans.pdf Graphic file (type pdf)
-<use /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/SITE_PLANS/073_site
-_plans.pdf, page 1>
+/site_plans/004.pdf  used on input line 284.
+(pdftex.def)             Requested size: 513.91873pt x 794.96806pt.
+</Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/site_plans/004.pdf, id=
+253, page=1, 513.92pt x 794.97pt>
+File: /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/site_plans/004.pdf
+ Graphic file (type pdf)
+<use /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/site_plans/004.pdf,
+ page 1>
 Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES
-/SITE_PLANS/073_site_plans.pdf , page1 used on input line 275.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/SITE_PLANS/073_sit
-e_plans.pdf Graphic file (type pdf)
-<use /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/SITE_PLANS/073_site
-_plans.pdf, page 1>
+/site_plans/004.pdf , page1 used on input line 284.
+(pdftex.def)             Requested size: 513.91873pt x 794.96806pt.
+File: /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/site_plans/004.pdf
+ Graphic file (type pdf)
+<use /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/site_plans/004.pdf,
+ page 1>
 Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES
-/SITE_PLANS/073_site_plans.pdf , page1 used on input line 275.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/SITE_PLANS/073_sit
-e_plans.pdf Graphic file (type pdf)
-<use /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/SITE_PLANS/073_site
-_plans.pdf, page 1>
+/site_plans/004.pdf , page1 used on input line 284.
+(pdftex.def)             Requested size: 514.54607pt x 795.93848pt.
+File: /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/site_plans/004.pdf
+ Graphic file (type pdf)
+<use /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/site_plans/004.pdf,
+ page 1>
 Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES
-/SITE_PLANS/073_site_plans.pdf , page1 used on input line 275.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/SITE_PLANS/073_sit
-e_plans.pdf Graphic file (type pdf)
-<use /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/SITE_PLANS/073_site
-_plans.pdf, page 1>
+/site_plans/004.pdf , page1 used on input line 284.
+(pdftex.def)             Requested size: 514.54607pt x 795.93848pt.
+File: /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/site_plans/004.pdf
+ Graphic file (type pdf)
+<use /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/site_plans/004.pdf,
+ page 1>
 Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES
-/SITE_PLANS/073_site_plans.pdf , page1 used on input line 275.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/SITE_PLANS/073_sit
-e_plans.pdf Graphic file (type pdf)
-<use /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/SITE_PLANS/073_site
-_plans.pdf, page 1>
+/site_plans/004.pdf , page1 used on input line 284.
+(pdftex.def)             Requested size: 514.54607pt x 795.93848pt.
+File: /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/site_plans/004.pdf
+ Graphic file (type pdf)
+<use /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/site_plans/004.pdf,
+ page 1>
 Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES
-/SITE_PLANS/073_site_plans.pdf , page1 used on input line 275.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-[22 </Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/SITE_PLANS/073_site
-_plans.pdf>]
-File: /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/SITE_PLANS/073_sit
-e_plans.pdf Graphic file (type pdf)
-<use /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/SITE_PLANS/073_site
-_plans.pdf>
-Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES
-/SITE_PLANS/073_site_plans.pdf  used on input line 276.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/SITE_PLANS/073_sit
-e_plans.pdf Graphic file (type pdf)
-<use /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/SITE_PLANS/073_site
-_plans.pdf>
-Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES
-/SITE_PLANS/073_site_plans.pdf  used on input line 276.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-</Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/SITE_PLANS/073_site_pla
-ns.pdf, id=275, page=2, 614.295pt x 794.97pt>
-File: /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/SITE_PLANS/073_sit
-e_plans.pdf Graphic file (type pdf)
-<use /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/SITE_PLANS/073_site
-_plans.pdf, page 2>
-Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES
-/SITE_PLANS/073_site_plans.pdf , page2 used on input line 276.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/SITE_PLANS/073_sit
-e_plans.pdf Graphic file (type pdf)
-<use /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/SITE_PLANS/073_site
-_plans.pdf, page 2>
-Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES
-/SITE_PLANS/073_site_plans.pdf , page2 used on input line 276.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/SITE_PLANS/073_sit
-e_plans.pdf Graphic file (type pdf)
-<use /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/SITE_PLANS/073_site
-_plans.pdf, page 2>
-Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES
-/SITE_PLANS/073_site_plans.pdf , page2 used on input line 276.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/SITE_PLANS/073_sit
-e_plans.pdf Graphic file (type pdf)
-<use /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/SITE_PLANS/073_site
-_plans.pdf, page 2>
-Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES
-/SITE_PLANS/073_site_plans.pdf , page2 used on input line 276.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/SITE_PLANS/073_sit
-e_plans.pdf Graphic file (type pdf)
-<use /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/SITE_PLANS/073_site
-_plans.pdf, page 2>
-Package pdftex.def Info: /Users/kyleslugg/Documents/NYCHA/Production/APPENDICES
-/SITE_PLANS/073_site_plans.pdf , page2 used on input line 276.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
- [23 </Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/SITE_PLANS/073_sit
-e_plans.pdf>])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 312.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 312.
+/site_plans/004.pdf , page1 used on input line 284.
+(pdftex.def)             Requested size: 514.54607pt x 795.93848pt.
+[23 </Users/kyleslugg/Documents/NYCHA/Production/APPENDICES/site_plans/004.pdf>
+])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 317.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 317.
  (./report.aux (./content.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 312.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 312.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 317.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 317.
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: FB934CB2DEFAECDA64236F7F1D238069;783.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 312.
+(rerunfilecheck)             Checksum: 599993629D724D871941E559DBBE4977;788.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 317.
 Package logreq Info: Writing requests to 'report.run.xml'.
 \openout1 = `report.run.xml'.
 
@@ -2377,23 +2120,24 @@ Package logreq Info: Writing requests to 'report.run.xml'.
 ### simple group (level 1) entered at line 5 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 32258 strings out of 492649
- 625231 string characters out of 6129622
- 1161233 words of memory out of 5000000
- 35373 multiletter control sequences out of 15000+600000
- 23993 words of font info for 45 fonts, out of 8000000 for 9000
+ 32248 strings out of 492649
+ 621462 string characters out of 6129622
+ 1159247 words of memory out of 5000000
+ 35360 multiletter control sequences out of 15000+600000
+ 33577 words of font info for 58 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 55i,26n,82p,1369b,2271s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,26n,82p,1151b,2271s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc
-}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
-/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></
-usr/local/texlive/2018/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/loc
-al/texlive/2018/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texl
-ive/2018/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on report.pdf (26 pages, 12391118 bytes).
+}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
+sr/local/texlive/2018/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/loca
+l/texlive/2018/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texli
+ve/2018/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on report.pdf (26 pages, 13401790 bytes).
 PDF statistics:
- 319 PDF objects out of 1000 (max. 8388607)
- 219 compressed objects within 3 object streams
+ 298 PDF objects out of 1000 (max. 8388607)
+ 217 compressed objects within 3 object streams
  58 named destinations out of 1000 (max. 500000)
- 343 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 298 words of extra memory for PDF output out of 10000 (max. 10000000)
 
