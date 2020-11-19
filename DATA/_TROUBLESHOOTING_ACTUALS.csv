@@ -1,0 +1,1403 @@
+,Department,RC Name,CST_NAME,Current Modified,13,Unnamed: 5,CONS_TDS,CONS_NAME,VARIANCE,ACT,TITLE_NAME,CODE_KEY,CODE_NAME
+0,Bronx Property Management,Adams,AST RES BLDG SP,1,1 ,0 ,118,ADAMS,0,1,AST RES BLDG SP,6.0,ASUPER
+1,Bronx Property Management,Adams,CARETAKER HA,17,17 ,0 ,118,ADAMS,0,17,CARETAKER HA,10.0,CT
+2,Bronx Property Management,Adams,CLERICAL ASO,1,1 ,0 ,118,ADAMS,0,1,CLERICAL ASO,3.0,SEC
+3,Bronx Property Management,Adams,HSG AST,2,2 ,0 ,118,ADAMS,0,2,HSG AST,4.0,HA
+4,Bronx Property Management,Adams,HSG MGR,1,0,1 ,118,ADAMS,1,0,HSG MGR,1.0,PM
+5,Bronx Property Management,Adams,MAINT WORKER,4,4 ,0 ,118,ADAMS,0,4,MAINT WORKER,9.0,MW
+6,Bronx Property Management,Adams,RES BLDG SUPT,1,1 ,0 ,118,ADAMS,0,1,RES BLDG SUPT,5.0,SUPER
+7,Bronx Property Management,Adams,SECY,1,1 ,0 ,118,ADAMS,0,1,SECY,3.0,SEC
+8,Bronx Property Management,Adams,SUPV HSG CRTKR,1,1 ,0 ,118,ADAMS,0,1,SUPV HSG CRTKR,7.0,SOC
+9,Bronx Property Management,Adams,SUPV HSG GDKPR,1,1 ,0 ,118,ADAMS,0,1,SUPV HSG GDKPR,8.0,SOG
+10,Bronx Property Management,Boston Secor Consolidation,AST RES BLDG SP,1,1 ,0 ,138,BOSTON SECOR CONSOLIDATED,0,1,AST RES BLDG SP,6.0,ASUPER
+11,Bronx Property Management,Boston Secor Consolidation,CARETAKER HA,13,15 ,(2),138,BOSTON SECOR CONSOLIDATED,-2,15,CARETAKER HA,10.0,CT
+12,Bronx Property Management,Boston Secor Consolidation,HSG AST,2,1 ,1 ,138,BOSTON SECOR CONSOLIDATED,1,1,HSG AST,4.0,HA
+13,Bronx Property Management,Boston Secor Consolidation,HSG MGR,1,1 ,0 ,138,BOSTON SECOR CONSOLIDATED,0,1,HSG MGR,1.0,PM
+14,Bronx Property Management,Boston Secor Consolidation,MAINT WORKER,2,2 ,0 ,138,BOSTON SECOR CONSOLIDATED,0,2,MAINT WORKER,9.0,MW
+15,Bronx Property Management,Boston Secor Consolidation,RES BLDG SUPT,1,1 ,0 ,138,BOSTON SECOR CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+16,Bronx Property Management,Boston Secor Consolidation,SECY,2,2 ,0 ,138,BOSTON SECOR CONSOLIDATED,0,2,SECY,3.0,SEC
+17,Bronx Property Management,Boston Secor Consolidation,SUPV HSG CRTKR,1,1 ,0 ,138,BOSTON SECOR CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+18,Bronx Property Management,Boston Secor Consolidation,SUPV HSG GDKPR,1,1 ,0 ,138,BOSTON SECOR CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+19,Bronx Property Management,Bronx River Consolidated,AST HSG MGR,1,1 ,0 ,032,BRONX RIVER CONSOLIDATED,0,1,AST HSG MGR,2.0,APM
+20,Bronx Property Management,Bronx River Consolidated,AST RES BLDG SP,2,2 ,0 ,032,BRONX RIVER CONSOLIDATED,0,2,AST RES BLDG SP,6.0,ASUPER
+21,Bronx Property Management,Bronx River Consolidated,CARETAKER HA,26,24 ,2 ,032,BRONX RIVER CONSOLIDATED,2,24,CARETAKER HA,10.0,CT
+22,Bronx Property Management,Bronx River Consolidated,CHIEF CARETAKER,2,2 ,0 ,032,BRONX RIVER CONSOLIDATED,0,2,CHIEF CARETAKER,10.0,CT
+23,Bronx Property Management,Bronx River Consolidated,HSG AST,4,4 ,0 ,032,BRONX RIVER CONSOLIDATED,0,4,HSG AST,4.0,HA
+24,Bronx Property Management,Bronx River Consolidated,HSG MGR,1,1 ,0 ,032,BRONX RIVER CONSOLIDATED,0,1,HSG MGR,1.0,PM
+25,Bronx Property Management,Bronx River Consolidated,MAINT WORKER,6,5 ,1 ,032,BRONX RIVER CONSOLIDATED,1,5,MAINT WORKER,9.0,MW
+26,Bronx Property Management,Bronx River Consolidated,RES BLDG SUPT,1,1 ,0 ,032,BRONX RIVER CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+27,Bronx Property Management,Bronx River Consolidated,SECY,2,2 ,0 ,032,BRONX RIVER CONSOLIDATED,0,2,SECY,3.0,SEC
+28,Bronx Property Management,Bronx River Consolidated,SUPV HSG CRTKR,2,2 ,0 ,032,BRONX RIVER CONSOLIDATED,0,2,SUPV HSG CRTKR,7.0,SOC
+29,Bronx Property Management,Bronx River Consolidated,SUPV HSG GDKPR,1,1 ,0 ,032,BRONX RIVER CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+30,Bronx Property Management,Butler,AST HSG MGR,1,1 ,0 ,113,BUTLER,0,1,AST HSG MGR,2.0,APM
+31,Bronx Property Management,Butler,AST RES BLDG SP,2,2 ,0 ,113,BUTLER,0,2,AST RES BLDG SP,6.0,ASUPER
+32,Bronx Property Management,Butler,CARETAKER HA,26,23 ,3 ,113,BUTLER,3,23,CARETAKER HA,10.0,CT
+33,Bronx Property Management,Butler,HSG AST,4,3 ,1 ,113,BUTLER,1,3,HSG AST,4.0,HA
+34,Bronx Property Management,Butler,HSG MGR,1,1 ,0 ,113,BUTLER,0,1,HSG MGR,1.0,PM
+35,Bronx Property Management,Butler,MAINT WORKER,6,6 ,0 ,113,BUTLER,0,6,MAINT WORKER,9.0,MW
+36,Bronx Property Management,Butler,RES BLDG SUPT,1,1 ,0 ,113,BUTLER,0,1,RES BLDG SUPT,5.0,SUPER
+37,Bronx Property Management,Butler,SECY,2,2 ,0 ,113,BUTLER,0,2,SECY,3.0,SEC
+38,Bronx Property Management,Butler,SUPV HSG CRTKR,1,1 ,0 ,113,BUTLER,0,1,SUPV HSG CRTKR,7.0,SOC
+39,Bronx Property Management,Butler,SUPV HSG GDKPR,1,1 ,0 ,113,BUTLER,0,1,SUPV HSG GDKPR,8.0,SOG
+40,Bronx Property Management,Claremont Consolidated,AST RES BLDG SP,1,1 ,0 ,308,CLAREMONT CONSOLIDATED,0,1,AST RES BLDG SP,6.0,ASUPER
+41,Bronx Property Management,Claremont Consolidated,CARETAKER HA,13,11 ,2 ,308,CLAREMONT CONSOLIDATED,2,11,CARETAKER HA,10.0,CT
+42,Bronx Property Management,Claremont Consolidated,CHIEF CARETAKER,4,2 ,2 ,308,CLAREMONT CONSOLIDATED,2,2,CHIEF CARETAKER,10.0,CT
+43,Bronx Property Management,Claremont Consolidated,HSG AST,2,1 ,1 ,308,CLAREMONT CONSOLIDATED,1,1,HSG AST,4.0,HA
+44,Bronx Property Management,Claremont Consolidated,HSG MGR,1,1 ,0 ,308,CLAREMONT CONSOLIDATED,0,1,HSG MGR,1.0,PM
+45,Bronx Property Management,Claremont Consolidated,MAINT WORKER,3,3 ,0 ,308,CLAREMONT CONSOLIDATED,0,3,MAINT WORKER,9.0,MW
+46,Bronx Property Management,Claremont Consolidated,RES BLDG SUPT,1,0,1 ,308,CLAREMONT CONSOLIDATED,1,0,RES BLDG SUPT,5.0,SUPER
+47,Bronx Property Management,Claremont Consolidated,SECY,2,2 ,0 ,308,CLAREMONT CONSOLIDATED,0,2,SECY,3.0,SEC
+48,Bronx Property Management,Claremont Consolidated,SUPV HSG CRTKR,1,1 ,0 ,308,CLAREMONT CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+49,Bronx Property Management,Claremont Consolidated,SUPV HSG GDKPR,1,1 ,0 ,308,CLAREMONT CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+50,Bronx Property Management,Eastchester Gardens Consolidated,AST HSG MGR,1,1 ,0 ,034,EASTCHESTER GARDENS CONSOLIDATED,0,1,AST HSG MGR,2.0,APM
+51,Bronx Property Management,Eastchester Gardens Consolidated,AST RES BLDG SP,1,1 ,0 ,034,EASTCHESTER GARDENS CONSOLIDATED,0,1,AST RES BLDG SP,6.0,ASUPER
+52,Bronx Property Management,Eastchester Gardens Consolidated,CARETAKER HA,18,18 ,0 ,034,EASTCHESTER GARDENS CONSOLIDATED,0,18,CARETAKER HA,10.0,CT
+53,Bronx Property Management,Eastchester Gardens Consolidated,CHIEF CARETAKER,1,1 ,0 ,034,EASTCHESTER GARDENS CONSOLIDATED,0,1,CHIEF CARETAKER,10.0,CT
+54,Bronx Property Management,Eastchester Gardens Consolidated,HSG AST,3,3 ,0 ,034,EASTCHESTER GARDENS CONSOLIDATED,0,3,HSG AST,4.0,HA
+55,Bronx Property Management,Eastchester Gardens Consolidated,HSG MGR,1,1 ,0 ,034,EASTCHESTER GARDENS CONSOLIDATED,0,1,HSG MGR,1.0,PM
+56,Bronx Property Management,Eastchester Gardens Consolidated,MAINT WORKER,5,5 ,0 ,034,EASTCHESTER GARDENS CONSOLIDATED,0,5,MAINT WORKER,9.0,MW
+57,Bronx Property Management,Eastchester Gardens Consolidated,RES BLDG SUPT,1,0,1 ,034,EASTCHESTER GARDENS CONSOLIDATED,1,0,RES BLDG SUPT,5.0,SUPER
+58,Bronx Property Management,Eastchester Gardens Consolidated,SECY,2,2 ,0 ,034,EASTCHESTER GARDENS CONSOLIDATED,0,2,SECY,3.0,SEC
+59,Bronx Property Management,Eastchester Gardens Consolidated,SUPV HSG CRTKR,1,1 ,0 ,034,EASTCHESTER GARDENS CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+60,Bronx Property Management,Eastchester Gardens Consolidated,SUPV HSG GDKPR,1,1 ,0 ,034,EASTCHESTER GARDENS CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+61,Bronx Property Management,Edenwald,AST HSG MGR,2,2 ,0 ,057,EDENWALD,0,2,AST HSG MGR,2.0,APM
+62,Bronx Property Management,Edenwald,AST RES BLDG SP,2,2 ,0 ,057,EDENWALD,0,2,AST RES BLDG SP,6.0,ASUPER
+63,Bronx Property Management,Edenwald,CARETAKER HA,37,38 ,(1),057,EDENWALD,-1,38,CARETAKER HA,10.0,CT
+64,Bronx Property Management,Edenwald,CLERICAL ASO,1,1 ,0 ,057,EDENWALD,0,1,CLERICAL ASO,3.0,SEC
+65,Bronx Property Management,Edenwald,HSG AST,4,3 ,1 ,057,EDENWALD,1,3,HSG AST,4.0,HA
+66,Bronx Property Management,Edenwald,HSG AST BILINGL,1,1 ,0 ,057,EDENWALD,0,1,HSG AST BILINGL,4.0,HA
+67,Bronx Property Management,Edenwald,HSG MGR,1,1 ,0 ,057,EDENWALD,0,1,HSG MGR,1.0,PM
+68,Bronx Property Management,Edenwald,MAINT WORKER,9,9 ,0 ,057,EDENWALD,0,9,MAINT WORKER,9.0,MW
+69,Bronx Property Management,Edenwald,RES BLDG SUPT,1,1 ,0 ,057,EDENWALD,0,1,RES BLDG SUPT,5.0,SUPER
+70,Bronx Property Management,Edenwald,SECY,2,1 ,1 ,057,EDENWALD,1,1,SECY,3.0,SEC
+71,Bronx Property Management,Edenwald,SUPV HSG CRTKR,2,2 ,0 ,057,EDENWALD,0,2,SUPV HSG CRTKR,7.0,SOC
+72,Bronx Property Management,Edenwald,SUPV HSG GDKPR,1,1 ,0 ,057,EDENWALD,0,1,SUPV HSG GDKPR,8.0,SOG
+73,Bronx Property Management,Forest Consolidation,AST HSG MGR,2,2 ,0 ,059,FOREST,0,2,AST HSG MGR,2.0,APM
+74,Bronx Property Management,Forest Consolidation,AST RES BLDG SP,2,2 ,0 ,059,FOREST,0,2,AST RES BLDG SP,6.0,ASUPER
+75,Bronx Property Management,Forest Consolidation,CARETAKER HA,36,34 ,2 ,059,FOREST,2,34,CARETAKER HA,10.0,CT
+76,Bronx Property Management,Forest Consolidation,HSG AST,5,5 ,0 ,059,FOREST,0,5,HSG AST,4.0,HA
+77,Bronx Property Management,Forest Consolidation,HSG MGR,1,1 ,0 ,059,FOREST,0,1,HSG MGR,1.0,PM
+78,Bronx Property Management,Forest Consolidation,MAINT WORKER,8,7 ,1 ,059,FOREST,1,7,MAINT WORKER,9.0,MW
+79,Bronx Property Management,Forest Consolidation,RES BLDG SUPT,1,0,1 ,059,FOREST,1,0,RES BLDG SUPT,5.0,SUPER
+80,Bronx Property Management,Forest Consolidation,SECY,2,1 ,1 ,059,FOREST,1,1,SECY,3.0,SEC
+81,Bronx Property Management,Forest Consolidation,SUPV HSG CRTKR,2,2 ,0 ,059,FOREST,0,2,SUPV HSG CRTKR,7.0,SOC
+82,Bronx Property Management,Forest Consolidation,SUPV HSG GDKPR,1,1 ,0 ,059,FOREST,0,1,SUPV HSG GDKPR,8.0,SOG
+83,Bronx Property Management,Fort Independence Consolidated,AST RES BLDG SP,1,1 ,0 ,197,FORT INDEPENDENCE CONSOLIDATED,0,1,AST RES BLDG SP,6.0,ASUPER
+84,Bronx Property Management,Fort Independence Consolidated,CARETAKER HA,13,15 ,(2),197,FORT INDEPENDENCE CONSOLIDATED,-2,15,CARETAKER HA,10.0,CT
+85,Bronx Property Management,Fort Independence Consolidated,CLERICAL ASO,1,1 ,0 ,197,FORT INDEPENDENCE CONSOLIDATED,0,1,CLERICAL ASO,3.0,SEC
+86,Bronx Property Management,Fort Independence Consolidated,HSG AST,2,2 ,0 ,197,FORT INDEPENDENCE CONSOLIDATED,0,2,HSG AST,4.0,HA
+87,Bronx Property Management,Fort Independence Consolidated,HSG MGR,1,0,1 ,197,FORT INDEPENDENCE CONSOLIDATED,1,0,HSG MGR,1.0,PM
+88,Bronx Property Management,Fort Independence Consolidated,MAINT WORKER,3,2 ,1 ,197,FORT INDEPENDENCE CONSOLIDATED,1,2,MAINT WORKER,9.0,MW
+89,Bronx Property Management,Fort Independence Consolidated,RES BLDG SUPT,1,2 ,(1),197,FORT INDEPENDENCE CONSOLIDATED,-1,2,RES BLDG SUPT,5.0,SUPER
+90,Bronx Property Management,Fort Independence Consolidated,SECY,1,1 ,0 ,197,FORT INDEPENDENCE CONSOLIDATED,0,1,SECY,3.0,SEC
+91,Bronx Property Management,Fort Independence Consolidated,SUPV HSG CRTKR,1,0,1 ,197,FORT INDEPENDENCE CONSOLIDATED,1,0,SUPV HSG CRTKR,7.0,SOC
+92,Bronx Property Management,Fort Independence Consolidated,SUPV HSG GDKPR,1,1 ,0 ,197,FORT INDEPENDENCE CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+93,Bronx Property Management,Gun Hill,AST RES BLDG SP,1,1 ,0 ,040,GUN HILL,0,1,AST RES BLDG SP,6.0,ASUPER
+94,Bronx Property Management,Gun Hill,CARETAKER HA,15,16 ,(1),040,GUN HILL,-1,16,CARETAKER HA,10.0,CT
+95,Bronx Property Management,Gun Hill,HSG AST,2,2 ,0 ,040,GUN HILL,0,2,HSG AST,4.0,HA
+96,Bronx Property Management,Gun Hill,HSG MGR,1,1 ,0 ,040,GUN HILL,0,1,HSG MGR,1.0,PM
+97,Bronx Property Management,Gun Hill,MAINT WORKER,3,3 ,0 ,040,GUN HILL,0,3,MAINT WORKER,9.0,MW
+98,Bronx Property Management,Gun Hill,RES BLDG SUPT,1,1 ,0 ,040,GUN HILL,0,1,RES BLDG SUPT,5.0,SUPER
+99,Bronx Property Management,Gun Hill,SECY,2,1 ,1 ,040,GUN HILL,1,1,SECY,3.0,SEC
+100,Bronx Property Management,Gun Hill,SUPV HSG CRTKR,1,1 ,0 ,040,GUN HILL,0,1,SUPV HSG CRTKR,7.0,SOC
+101,Bronx Property Management,Gun Hill,SUPV HSG GDKPR,1,1 ,0 ,040,GUN HILL,0,1,SUPV HSG GDKPR,8.0,SOG
+102,Bronx Property Management,Highbridge Gardens,AST RES BLDG SP,1,1 ,0 ,078,HIGHBRIDGE GARDENS,0,1,AST RES BLDG SP,6.0,ASUPER
+103,Bronx Property Management,Highbridge Gardens,CARETAKER HA,14,17 ,(3),078,HIGHBRIDGE GARDENS,-3,17,CARETAKER HA,10.0,CT
+104,Bronx Property Management,Highbridge Gardens,HSG AST,2,2 ,0 ,078,HIGHBRIDGE GARDENS,0,2,HSG AST,4.0,HA
+105,Bronx Property Management,Highbridge Gardens,HSG MGR,1,0,1 ,078,HIGHBRIDGE GARDENS,1,0,HSG MGR,1.0,PM
+106,Bronx Property Management,Highbridge Gardens,MAINT WORKER,3,3 ,0 ,078,HIGHBRIDGE GARDENS,0,3,MAINT WORKER,9.0,MW
+107,Bronx Property Management,Highbridge Gardens,RES BLDG SUPT,1,1 ,0 ,078,HIGHBRIDGE GARDENS,0,1,RES BLDG SUPT,5.0,SUPER
+108,Bronx Property Management,Highbridge Gardens,SECY,2,2 ,0 ,078,HIGHBRIDGE GARDENS,0,2,SECY,3.0,SEC
+109,Bronx Property Management,Highbridge Gardens,SUPV HSG CRTKR,1,1 ,0 ,078,HIGHBRIDGE GARDENS,0,1,SUPV HSG CRTKR,7.0,SOC
+110,Bronx Property Management,Highbridge Gardens,SUPV HSG GDKPR,1,1 ,0 ,078,HIGHBRIDGE GARDENS,0,1,SUPV HSG GDKPR,8.0,SOG
+111,Bronx Property Management,Justice Sonia Sotomayor  Consolidated,AST HSG MGR,1,1 ,0 ,067,SOTOMAYOR HOUSES CONSOLIDATED,0,1,AST HSG MGR,2.0,APM
+112,Bronx Property Management,Justice Sonia Sotomayor  Consolidated,AST RES BLDG SP,2,2 ,0 ,067,SOTOMAYOR HOUSES CONSOLIDATED,0,2,AST RES BLDG SP,6.0,ASUPER
+113,Bronx Property Management,Justice Sonia Sotomayor  Consolidated,CARETAKER HA,29,25 ,4 ,067,SOTOMAYOR HOUSES CONSOLIDATED,4,25,CARETAKER HA,10.0,CT
+114,Bronx Property Management,Justice Sonia Sotomayor  Consolidated,CHIEF CARETAKER,1,1 ,0 ,067,SOTOMAYOR HOUSES CONSOLIDATED,0,1,CHIEF CARETAKER,10.0,CT
+115,Bronx Property Management,Justice Sonia Sotomayor  Consolidated,CLERICAL ASO,1,1 ,0 ,067,SOTOMAYOR HOUSES CONSOLIDATED,0,1,CLERICAL ASO,3.0,SEC
+116,Bronx Property Management,Justice Sonia Sotomayor  Consolidated,HSG AST,4,4 ,0 ,067,SOTOMAYOR HOUSES CONSOLIDATED,0,4,HSG AST,4.0,HA
+117,Bronx Property Management,Justice Sonia Sotomayor  Consolidated,HSG MGR,1,1 ,0 ,067,SOTOMAYOR HOUSES CONSOLIDATED,0,1,HSG MGR,1.0,PM
+118,Bronx Property Management,Justice Sonia Sotomayor  Consolidated,MAINT WORKER,8,7 ,1 ,067,SOTOMAYOR HOUSES CONSOLIDATED,1,7,MAINT WORKER,9.0,MW
+119,Bronx Property Management,Justice Sonia Sotomayor  Consolidated,RES BLDG SUPT,1,0,1 ,067,SOTOMAYOR HOUSES CONSOLIDATED,1,0,RES BLDG SUPT,5.0,SUPER
+120,Bronx Property Management,Justice Sonia Sotomayor  Consolidated,SECY,1,0,1 ,067,SOTOMAYOR HOUSES CONSOLIDATED,1,0,SECY,3.0,SEC
+121,Bronx Property Management,Justice Sonia Sotomayor  Consolidated,SUPV HSG CRTKR,2,2 ,0 ,067,SOTOMAYOR HOUSES CONSOLIDATED,0,2,SUPV HSG CRTKR,7.0,SOC
+122,Bronx Property Management,Justice Sonia Sotomayor  Consolidated,SUPV HSG GDKPR,1,1 ,0 ,067,SOTOMAYOR HOUSES CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+123,Bronx Property Management,Monroe,AST HSG MGR,1,1 ,0 ,088,MONROE,0,1,AST HSG MGR,2.0,APM
+124,Bronx Property Management,Monroe,AST RES BLDG SP,1,1 ,0 ,088,MONROE,0,1,AST RES BLDG SP,6.0,ASUPER
+125,Bronx Property Management,Monroe,CARETAKER HA,20,20 ,0 ,088,MONROE,0,20,CARETAKER HA,10.0,CT
+126,Bronx Property Management,Monroe,HSG AST,3,3 ,0 ,088,MONROE,0,3,HSG AST,4.0,HA
+127,Bronx Property Management,Monroe,HSG MGR,1,1 ,0 ,088,MONROE,0,1,HSG MGR,1.0,PM
+128,Bronx Property Management,Monroe,MAINT WORKER,5,5 ,0 ,088,MONROE,0,5,MAINT WORKER,9.0,MW
+129,Bronx Property Management,Monroe,RES BLDG SUPT,1,1 ,0 ,088,MONROE,0,1,RES BLDG SUPT,5.0,SUPER
+130,Bronx Property Management,Monroe,SECY,2,2 ,0 ,088,MONROE,0,2,SECY,3.0,SEC
+131,Bronx Property Management,Monroe,SUPV HSG CRTKR,1,1 ,0 ,088,MONROE,0,1,SUPV HSG CRTKR,7.0,SOC
+132,Bronx Property Management,Monroe,SUPV HSG GDKPR,1,1 ,0 ,088,MONROE,0,1,SUPV HSG GDKPR,8.0,SOG
+133,Bronx Property Management,Morris Consolidated,AST HSG MGR,2,1 ,1 ,102,MORRIS CONSOLIDATED,1,1,AST HSG MGR,2.0,APM
+134,Bronx Property Management,Morris Consolidated,AST RES BLDG SP,2,1 ,1 ,102,MORRIS CONSOLIDATED,1,1,AST RES BLDG SP,6.0,ASUPER
+135,Bronx Property Management,Morris Consolidated,CARETAKER HA,31,34 ,(3),102,MORRIS CONSOLIDATED,-3,34,CARETAKER HA,10.0,CT
+136,Bronx Property Management,Morris Consolidated,HSG AST,5,3 ,2 ,102,MORRIS CONSOLIDATED,2,3,HSG AST,4.0,HA
+137,Bronx Property Management,Morris Consolidated,HSG MGR,1,1 ,0 ,102,MORRIS CONSOLIDATED,0,1,HSG MGR,1.0,PM
+138,Bronx Property Management,Morris Consolidated,MAINT WORKER,8,8 ,0 ,102,MORRIS CONSOLIDATED,0,8,MAINT WORKER,9.0,MW
+139,Bronx Property Management,Morris Consolidated,RES BLDG SUPT,1,2 ,(1),102,MORRIS CONSOLIDATED,-1,2,RES BLDG SUPT,5.0,SUPER
+140,Bronx Property Management,Morris Consolidated,SECY,2,1 ,1 ,102,MORRIS CONSOLIDATED,1,1,SECY,3.0,SEC
+141,Bronx Property Management,Morris Consolidated,SUPV HSG CRTKR,2,2 ,0 ,102,MORRIS CONSOLIDATED,0,2,SUPV HSG CRTKR,7.0,SOC
+142,Bronx Property Management,Morris Consolidated,SUPV HSG GDKPR,1,1 ,0 ,102,MORRIS CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+143,Bronx Property Management,Morrisania Consolidated,AST HSG MGR,1,1 ,0 ,267,MORRISANIA AIR RIGHTS CONSOLIDATED,0,1,AST HSG MGR,2.0,APM
+144,Bronx Property Management,Morrisania Consolidated,AST RES BLDG SP,2,2 ,0 ,267,MORRISANIA AIR RIGHTS CONSOLIDATED,0,2,AST RES BLDG SP,6.0,ASUPER
+145,Bronx Property Management,Morrisania Consolidated,CARETAKER HA,30,28 ,2 ,267,MORRISANIA AIR RIGHTS CONSOLIDATED,2,28,CARETAKER HA,10.0,CT
+146,Bronx Property Management,Morrisania Consolidated,HSG AST,4,5 ,(1),267,MORRISANIA AIR RIGHTS CONSOLIDATED,-1,5,HSG AST,4.0,HA
+147,Bronx Property Management,Morrisania Consolidated,HSG MGR,1,1 ,0 ,267,MORRISANIA AIR RIGHTS CONSOLIDATED,0,1,HSG MGR,1.0,PM
+148,Bronx Property Management,Morrisania Consolidated,MAINT WORKER,7,6 ,1 ,267,MORRISANIA AIR RIGHTS CONSOLIDATED,1,6,MAINT WORKER,9.0,MW
+149,Bronx Property Management,Morrisania Consolidated,RES BLDG SUPT,1,0,1 ,267,MORRISANIA AIR RIGHTS CONSOLIDATED,1,0,RES BLDG SUPT,5.0,SUPER
+150,Bronx Property Management,Morrisania Consolidated,SECY,2,1 ,1 ,267,MORRISANIA AIR RIGHTS CONSOLIDATED,1,1,SECY,3.0,SEC
+151,Bronx Property Management,Morrisania Consolidated,SUPV HSG CRTKR,2,2 ,0 ,267,MORRISANIA AIR RIGHTS CONSOLIDATED,0,2,SUPV HSG CRTKR,7.0,SOC
+152,Bronx Property Management,Morrisania Consolidated,SUPV HSG GDKPR,1,1 ,0 ,267,MORRISANIA AIR RIGHTS CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+153,Bronx Property Management,Murphy Consolidated,AST RES BLDG SP,1,1 ,0 ,180,1010 EAST 178TH STREET,0,1,AST RES BLDG SP,6.0,ASUPER
+154,Bronx Property Management,Murphy Consolidated,CARETAKER HA,15,17 ,(2),180,1010 EAST 178TH STREET,-2,17,CARETAKER HA,10.0,CT
+155,Bronx Property Management,Murphy Consolidated,CHIEF CARETAKER,1,1 ,0 ,180,1010 EAST 178TH STREET,0,1,CHIEF CARETAKER,10.0,CT
+156,Bronx Property Management,Murphy Consolidated,HSG AST,2,2 ,0 ,180,1010 EAST 178TH STREET,0,2,HSG AST,4.0,HA
+157,Bronx Property Management,Murphy Consolidated,HSG MGR,1,1 ,0 ,180,1010 EAST 178TH STREET,0,1,HSG MGR,1.0,PM
+158,Bronx Property Management,Murphy Consolidated,MAINT WORKER,3,3 ,0 ,180,1010 EAST 178TH STREET,0,3,MAINT WORKER,9.0,MW
+159,Bronx Property Management,Murphy Consolidated,RES BLDG SUPT,1,1 ,0 ,180,1010 EAST 178TH STREET,0,1,RES BLDG SUPT,5.0,SUPER
+160,Bronx Property Management,Murphy Consolidated,SECY,2,1 ,1 ,180,1010 EAST 178TH STREET,1,1,SECY,3.0,SEC
+161,Bronx Property Management,Murphy Consolidated,SUPV HSG CRTKR,1,1 ,0 ,180,1010 EAST 178TH STREET,0,1,SUPV HSG CRTKR,7.0,SOC
+162,Bronx Property Management,Murphy Consolidated,SUPV HSG GDKPR,1,1 ,0 ,180,1010 EAST 178TH STREET,0,1,SUPV HSG GDKPR,8.0,SOG
+163,Bronx Property Management,Parkside,AST RES BLDG SP,1,1 ,0 ,047,PARKSIDE,0,1,AST RES BLDG SP,6.0,ASUPER
+164,Bronx Property Management,Parkside,CARETAKER HA,16,14 ,2 ,047,PARKSIDE,2,14,CARETAKER HA,10.0,CT
+165,Bronx Property Management,Parkside,CITY ATTENDANT,1,1 ,0 ,047,PARKSIDE,0,1,CITY ATTENDANT,3.0,SEC
+166,Bronx Property Management,Parkside,HSG AST,2,1 ,1 ,047,PARKSIDE,1,1,HSG AST,4.0,HA
+167,Bronx Property Management,Parkside,HSG MGR,1,1 ,0 ,047,PARKSIDE,0,1,HSG MGR,1.0,PM
+168,Bronx Property Management,Parkside,MAINT WORKER,4,4 ,0 ,047,PARKSIDE,0,4,MAINT WORKER,9.0,MW
+169,Bronx Property Management,Parkside,RES BLDG SUPT,1,1 ,0 ,047,PARKSIDE,0,1,RES BLDG SUPT,5.0,SUPER
+170,Bronx Property Management,Parkside,SECY,1,1 ,0 ,047,PARKSIDE,0,1,SECY,3.0,SEC
+171,Bronx Property Management,Parkside,SUPV HSG CRTKR,1,1 ,0 ,047,PARKSIDE,0,1,SUPV HSG CRTKR,7.0,SOC
+172,Bronx Property Management,Parkside,SUPV HSG GDKPR,1,1 ,0 ,047,PARKSIDE,0,1,SUPV HSG GDKPR,8.0,SOG
+173,Bronx Property Management,Pelham Parkway Consolidated,AST HSG MGR,1,1 ,0 ,039,PELHAM PARKWAY CONSOLIDATED,0,1,AST HSG MGR,2.0,APM
+174,Bronx Property Management,Pelham Parkway Consolidated,AST RES BLDG SP,2,2 ,0 ,039,PELHAM PARKWAY CONSOLIDATED,0,2,AST RES BLDG SP,6.0,ASUPER
+175,Bronx Property Management,Pelham Parkway Consolidated,CARETAKER HA,27,29 ,(2),039,PELHAM PARKWAY CONSOLIDATED,-2,29,CARETAKER HA,10.0,CT
+176,Bronx Property Management,Pelham Parkway Consolidated,CHIEF CARETAKER,1,0,1 ,039,PELHAM PARKWAY CONSOLIDATED,1,0,CHIEF CARETAKER,10.0,CT
+177,Bronx Property Management,Pelham Parkway Consolidated,HSG AST,4,4 ,0 ,039,PELHAM PARKWAY CONSOLIDATED,0,4,HSG AST,4.0,HA
+178,Bronx Property Management,Pelham Parkway Consolidated,HSG MGR,1,1 ,0 ,039,PELHAM PARKWAY CONSOLIDATED,0,1,HSG MGR,1.0,PM
+179,Bronx Property Management,Pelham Parkway Consolidated,MAINT WORKER,6,5 ,1 ,039,PELHAM PARKWAY CONSOLIDATED,1,5,MAINT WORKER,9.0,MW
+180,Bronx Property Management,Pelham Parkway Consolidated,RES BLDG SUPT,1,1 ,0 ,039,PELHAM PARKWAY CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+181,Bronx Property Management,Pelham Parkway Consolidated,SECY,2,2 ,0 ,039,PELHAM PARKWAY CONSOLIDATED,0,2,SECY,3.0,SEC
+182,Bronx Property Management,Pelham Parkway Consolidated,SUPV HSG CRTKR,2,2 ,0 ,039,PELHAM PARKWAY CONSOLIDATED,0,2,SUPV HSG CRTKR,7.0,SOC
+183,Bronx Property Management,Pelham Parkway Consolidated,SUPV HSG GDKPR,1,1 ,0 ,039,PELHAM PARKWAY CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+184,Bronx Property Management,Sack Wern Consolidated,AST RES BLDG SP,1,0,1 ,280,SACK WERN CONSOLIDATED,1,0,AST RES BLDG SP,6.0,ASUPER
+185,Bronx Property Management,Sack Wern Consolidated,CARETAKER HA,17,14 ,3 ,280,SACK WERN CONSOLIDATED,3,14,CARETAKER HA,10.0,CT
+186,Bronx Property Management,Sack Wern Consolidated,CHIEF CARETAKER,0,1 ,(1),280,SACK WERN CONSOLIDATED,-1,1,CHIEF CARETAKER,10.0,CT
+187,Bronx Property Management,Sack Wern Consolidated,HSG AST,2,2 ,0 ,280,SACK WERN CONSOLIDATED,0,2,HSG AST,4.0,HA
+188,Bronx Property Management,Sack Wern Consolidated,HSG MGR,1,1 ,0 ,280,SACK WERN CONSOLIDATED,0,1,HSG MGR,1.0,PM
+189,Bronx Property Management,Sack Wern Consolidated,MAINT WORKER,4,3 ,1 ,280,SACK WERN CONSOLIDATED,1,3,MAINT WORKER,9.0,MW
+190,Bronx Property Management,Sack Wern Consolidated,RES BLDG SUPT,1,0,1 ,280,SACK WERN CONSOLIDATED,1,0,RES BLDG SUPT,5.0,SUPER
+191,Bronx Property Management,Sack Wern Consolidated,SECY,2,2 ,0 ,280,SACK WERN CONSOLIDATED,0,2,SECY,3.0,SEC
+192,Bronx Property Management,Sack Wern Consolidated,SUPV HSG CRTKR,1,1 ,0 ,280,SACK WERN CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+193,Bronx Property Management,Sack Wern Consolidated,SUPV HSG GDKPR,1,1 ,0 ,280,SACK WERN CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+194,Bronx Property Management,Sedgwick Consolidated,AST RES BLDG SP,1,1 ,0 ,045,SEDGWICK CONSOLIDATED,0,1,AST RES BLDG SP,6.0,ASUPER
+195,Bronx Property Management,Sedgwick Consolidated,CARETAKER HA,18,17 ,1 ,045,SEDGWICK CONSOLIDATED,1,17,CARETAKER HA,10.0,CT
+196,Bronx Property Management,Sedgwick Consolidated,CHIEF CARETAKER,0,1 ,(1),045,SEDGWICK CONSOLIDATED,-1,1,CHIEF CARETAKER,10.0,CT
+197,Bronx Property Management,Sedgwick Consolidated,HSG AST,2,2 ,0 ,045,SEDGWICK CONSOLIDATED,0,2,HSG AST,4.0,HA
+198,Bronx Property Management,Sedgwick Consolidated,HSG MGR,1,1 ,0 ,045,SEDGWICK CONSOLIDATED,0,1,HSG MGR,1.0,PM
+199,Bronx Property Management,Sedgwick Consolidated,MAINT WORKER,4,5 ,(1),045,SEDGWICK CONSOLIDATED,-1,5,MAINT WORKER,9.0,MW
+200,Bronx Property Management,Sedgwick Consolidated,RES BLDG SUPT,1,1 ,0 ,045,SEDGWICK CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+201,Bronx Property Management,Sedgwick Consolidated,SECY,2,2 ,0 ,045,SEDGWICK CONSOLIDATED,0,2,SECY,3.0,SEC
+202,Bronx Property Management,Sedgwick Consolidated,SUPV HSG CRTKR,1,1 ,0 ,045,SEDGWICK CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+203,Bronx Property Management,Sedgwick Consolidated,SUPV HSG GDKPR,1,1 ,0 ,045,SEDGWICK CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+204,Bronx Property Management,Soundview,AST HSG MGR,1,1 ,0 ,071,SOUNDVIEW,0,1,AST HSG MGR,2.0,APM
+205,Bronx Property Management,Soundview,AST RES BLDG SP,1,1 ,0 ,071,SOUNDVIEW,0,1,AST RES BLDG SP,6.0,ASUPER
+206,Bronx Property Management,Soundview,CARETAKER HA,25,19 ,6 ,071,SOUNDVIEW,6,19,CARETAKER HA,10.0,CT
+207,Bronx Property Management,Soundview,HSG AST,2,2 ,0 ,071,SOUNDVIEW,0,2,HSG AST,4.0,HA
+208,Bronx Property Management,Soundview,HSG AST BILINGL,1,1 ,0 ,071,SOUNDVIEW,0,1,HSG AST BILINGL,4.0,HA
+209,Bronx Property Management,Soundview,HSG MGR,1,1 ,0 ,071,SOUNDVIEW,0,1,HSG MGR,1.0,PM
+210,Bronx Property Management,Soundview,MAINT WORKER,5,5 ,0 ,071,SOUNDVIEW,0,5,MAINT WORKER,9.0,MW
+211,Bronx Property Management,Soundview,RES BLDG SUPT,1,0,1 ,071,SOUNDVIEW,1,0,RES BLDG SUPT,5.0,SUPER
+212,Bronx Property Management,Soundview,SECY,2,0,2 ,071,SOUNDVIEW,2,0,SECY,3.0,SEC
+213,Bronx Property Management,Soundview,SUPV HSG CRTKR,1,2 ,(1),071,SOUNDVIEW,-1,2,SUPV HSG CRTKR,7.0,SOC
+214,Bronx Property Management,Soundview,SUPV HSG GDKPR,1,1 ,0 ,071,SOUNDVIEW,0,1,SUPV HSG GDKPR,8.0,SOG
+215,Bronx Property Management,Throggs Neck Consolidated,AST HSG MGR,1,1 ,0 ,063,THROGGS NECK CONSOLIDATED,0,1,AST HSG MGR,2.0,APM
+216,Bronx Property Management,Throggs Neck Consolidated,AST RES BLDG SP,2,2 ,0 ,063,THROGGS NECK CONSOLIDATED,0,2,AST RES BLDG SP,6.0,ASUPER
+217,Bronx Property Management,Throggs Neck Consolidated,CARETAKER HA,32,29 ,3 ,063,THROGGS NECK CONSOLIDATED,3,29,CARETAKER HA,10.0,CT
+218,Bronx Property Management,Throggs Neck Consolidated,HSG AST,4,2 ,2 ,063,THROGGS NECK CONSOLIDATED,2,2,HSG AST,4.0,HA
+219,Bronx Property Management,Throggs Neck Consolidated,HSG MGR,1,1 ,0 ,063,THROGGS NECK CONSOLIDATED,0,1,HSG MGR,1.0,PM
+220,Bronx Property Management,Throggs Neck Consolidated,MAINT WORKER,8,9 ,(1),063,THROGGS NECK CONSOLIDATED,-1,9,MAINT WORKER,9.0,MW
+221,Bronx Property Management,Throggs Neck Consolidated,RES BLDG SUPT,1,1 ,0 ,063,THROGGS NECK CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+222,Bronx Property Management,Throggs Neck Consolidated,SECY,2,1 ,1 ,063,THROGGS NECK CONSOLIDATED,1,1,SECY,3.0,SEC
+223,Bronx Property Management,Throggs Neck Consolidated,SUPV HSG CRTKR,2,2 ,0 ,063,THROGGS NECK CONSOLIDATED,0,2,SUPV HSG CRTKR,7.0,SOC
+224,Bronx Property Management,Throggs Neck Consolidated,SUPV HSG GDKPR,1,1 ,0 ,063,THROGGS NECK CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+225,Bronx Property Management,Union Ave Consolidated,AST RES BLDG SP,1,1 ,0 ,342,UNION AVENUE CONSOLIDATED,0,1,AST RES BLDG SP,6.0,ASUPER
+226,Bronx Property Management,Union Ave Consolidated,CARETAKER HA,15,16 ,(1),342,UNION AVENUE CONSOLIDATED,-1,16,CARETAKER HA,10.0,CT
+227,Bronx Property Management,Union Ave Consolidated,CHIEF CARETAKER,6,5 ,1 ,342,UNION AVENUE CONSOLIDATED,1,5,CHIEF CARETAKER,10.0,CT
+228,Bronx Property Management,Union Ave Consolidated,HSG AST,2,2 ,0 ,342,UNION AVENUE CONSOLIDATED,0,2,HSG AST,4.0,HA
+229,Bronx Property Management,Union Ave Consolidated,HSG MGR,1,1 ,0 ,342,UNION AVENUE CONSOLIDATED,0,1,HSG MGR,1.0,PM
+230,Bronx Property Management,Union Ave Consolidated,MAINT WORKER,4,4 ,0 ,342,UNION AVENUE CONSOLIDATED,0,4,MAINT WORKER,9.0,MW
+231,Bronx Property Management,Union Ave Consolidated,RES BLDG SUPT,1,1 ,0 ,342,UNION AVENUE CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+232,Bronx Property Management,Union Ave Consolidated,SECY,2,2 ,0 ,342,UNION AVENUE CONSOLIDATED,0,2,SECY,3.0,SEC
+233,Bronx Property Management,Union Ave Consolidated,SUPV HSG CRTKR,1,1 ,0 ,342,UNION AVENUE CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+234,Bronx Property Management,Union Ave Consolidated,SUPV HSG GDKPR,1,1 ,0 ,342,UNION AVENUE CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+235,Bronx Property Management,Webster Consolidated,AST RES BLDG SP,1,1 ,0 ,141,WEBSTER CONSOLIDATED,0,1,AST RES BLDG SP,6.0,ASUPER
+236,Bronx Property Management,Webster Consolidated,CARETAKER HA,16,16 ,0 ,141,WEBSTER CONSOLIDATED,0,16,CARETAKER HA,10.0,CT
+237,Bronx Property Management,Webster Consolidated,HSG AST,2,2 ,0 ,141,WEBSTER CONSOLIDATED,0,2,HSG AST,4.0,HA
+238,Bronx Property Management,Webster Consolidated,HSG MGR,1,1 ,0 ,141,WEBSTER CONSOLIDATED,0,1,HSG MGR,1.0,PM
+239,Bronx Property Management,Webster Consolidated,MAINT WORKER,4,4 ,0 ,141,WEBSTER CONSOLIDATED,0,4,MAINT WORKER,9.0,MW
+240,Bronx Property Management,Webster Consolidated,RES BLDG SUPT,1,0,1 ,141,WEBSTER CONSOLIDATED,1,0,RES BLDG SUPT,5.0,SUPER
+241,Bronx Property Management,Webster Consolidated,SECY,2,2 ,0 ,141,WEBSTER CONSOLIDATED,0,2,SECY,3.0,SEC
+242,Bronx Property Management,Webster Consolidated,SUPV HSG CRTKR,1,1 ,0 ,141,WEBSTER CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+243,Bronx Property Management,Webster Consolidated,SUPV HSG GDKPR,1,1 ,0 ,141,WEBSTER CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+244,Brooklyn Property Management,Albany Consolidated,AST HSG MGR,1,1 ,0 ,031,ALBANY CONSOLIDATED,0,1,AST HSG MGR,2.0,APM
+245,Brooklyn Property Management,Albany Consolidated,AST RES BLDG SP,1,2 ,(1),031,ALBANY CONSOLIDATED,-1,2,AST RES BLDG SP,6.0,ASUPER
+246,Brooklyn Property Management,Albany Consolidated,CARETAKER HA,23,26 ,(3),031,ALBANY CONSOLIDATED,-3,26,CARETAKER HA,10.0,CT
+247,Brooklyn Property Management,Albany Consolidated,HSG AST,3,4 ,(1),031,ALBANY CONSOLIDATED,-1,4,HSG AST,4.0,HA
+248,Brooklyn Property Management,Albany Consolidated,HSG MGR,1,1 ,0 ,031,ALBANY CONSOLIDATED,0,1,HSG MGR,1.0,PM
+249,Brooklyn Property Management,Albany Consolidated,MAINT WORKER,5,4 ,1 ,031,ALBANY CONSOLIDATED,1,4,MAINT WORKER,9.0,MW
+250,Brooklyn Property Management,Albany Consolidated,RES BLDG SUPT,1,1 ,0 ,031,ALBANY CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+251,Brooklyn Property Management,Albany Consolidated,SECY,2,1 ,1 ,031,ALBANY CONSOLIDATED,1,1,SECY,3.0,SEC
+252,Brooklyn Property Management,Albany Consolidated,SUPV HSG CRTKR,1,1 ,0 ,031,ALBANY CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+253,Brooklyn Property Management,Albany Consolidated,SUPV HSG GDKPR,1,1 ,0 ,031,ALBANY CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+254,Brooklyn Property Management,Borinquen Plaza Consolidated,AST RES BLDG SP,1,1 ,0 ,243,BORINQUEN PLAZA CONSOLIDATED,0,1,AST RES BLDG SP,6.0,ASUPER
+255,Brooklyn Property Management,Borinquen Plaza Consolidated,CARETAKER HA,21,24 ,(3),243,BORINQUEN PLAZA CONSOLIDATED,-3,24,CARETAKER HA,10.0,CT
+256,Brooklyn Property Management,Borinquen Plaza Consolidated,CITY ATTENDANT,1,1 ,0 ,243,BORINQUEN PLAZA CONSOLIDATED,0,1,CITY ATTENDANT,3.0,SEC
+257,Brooklyn Property Management,Borinquen Plaza Consolidated,CLERICAL ASO,1,1 ,0 ,243,BORINQUEN PLAZA CONSOLIDATED,0,1,CLERICAL ASO,3.0,SEC
+258,Brooklyn Property Management,Borinquen Plaza Consolidated,HSG AST,2,2 ,0 ,243,BORINQUEN PLAZA CONSOLIDATED,0,2,HSG AST,4.0,HA
+259,Brooklyn Property Management,Borinquen Plaza Consolidated,HSG MGR,1,1 ,0 ,243,BORINQUEN PLAZA CONSOLIDATED,0,1,HSG MGR,1.0,PM
+260,Brooklyn Property Management,Borinquen Plaza Consolidated,MAINT WORKER,4,3 ,1 ,243,BORINQUEN PLAZA CONSOLIDATED,1,3,MAINT WORKER,9.0,MW
+261,Brooklyn Property Management,Borinquen Plaza Consolidated,RES BLDG SUPT,1,1 ,0 ,243,BORINQUEN PLAZA CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+262,Brooklyn Property Management,Borinquen Plaza Consolidated,SUPV HSG CRTKR,1,1 ,0 ,243,BORINQUEN PLAZA CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+263,Brooklyn Property Management,Borinquen Plaza Consolidated,SUPV HSG GDKPR,1,1 ,0 ,243,BORINQUEN PLAZA CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+264,Brooklyn Property Management,Breukelen,AST HSG MGR,1,0,1 ,056,BREUKELEN,1,0,AST HSG MGR,2.0,APM
+265,Brooklyn Property Management,Breukelen,AST RES BLDG SP,2,1 ,1 ,056,BREUKELEN,1,1,AST RES BLDG SP,6.0,ASUPER
+266,Brooklyn Property Management,Breukelen,CARETAKER HA,30,26 ,4 ,056,BREUKELEN,4,26,CARETAKER HA,10.0,CT
+267,Brooklyn Property Management,Breukelen,CLERICAL ASO,1,1 ,0 ,056,BREUKELEN,0,1,CLERICAL ASO,3.0,SEC
+268,Brooklyn Property Management,Breukelen,HSG AST,4,4 ,0 ,056,BREUKELEN,0,4,HSG AST,4.0,HA
+269,Brooklyn Property Management,Breukelen,HSG MGR,1,1 ,0 ,056,BREUKELEN,0,1,HSG MGR,1.0,PM
+270,Brooklyn Property Management,Breukelen,MAINT WORKER,7,7 ,0 ,056,BREUKELEN,0,7,MAINT WORKER,9.0,MW
+271,Brooklyn Property Management,Breukelen,RES BLDG SUPT,1,1 ,0 ,056,BREUKELEN,0,1,RES BLDG SUPT,5.0,SUPER
+272,Brooklyn Property Management,Breukelen,SECY,1,1 ,0 ,056,BREUKELEN,0,1,SECY,3.0,SEC
+273,Brooklyn Property Management,Breukelen,SUPV HSG CRTKR,2,1 ,1 ,056,BREUKELEN,1,1,SUPV HSG CRTKR,7.0,SOC
+274,Brooklyn Property Management,Breukelen,SUPV HSG GDKPR,1,1 ,0 ,056,BREUKELEN,0,1,SUPV HSG GDKPR,8.0,SOG
+275,Brooklyn Property Management,Brevoort,AST RES BLDG SP,1,1 ,0 ,065,BREVOORT,0,1,AST RES BLDG SP,6.0,ASUPER
+276,Brooklyn Property Management,Brevoort,CARETAKER HA,17,18 ,(1),065,BREVOORT,-1,18,CARETAKER HA,10.0,CT
+277,Brooklyn Property Management,Brevoort,HSG AST,2,2 ,0 ,065,BREVOORT,0,2,HSG AST,4.0,HA
+278,Brooklyn Property Management,Brevoort,HSG MGR,1,1 ,0 ,065,BREVOORT,0,1,HSG MGR,1.0,PM
+279,Brooklyn Property Management,Brevoort,MAINT WORKER,4,2 ,2 ,065,BREVOORT,2,2,MAINT WORKER,9.0,MW
+280,Brooklyn Property Management,Brevoort,RES BLDG SUPT,1,1 ,0 ,065,BREVOORT,0,1,RES BLDG SUPT,5.0,SUPER
+281,Brooklyn Property Management,Brevoort,SECY,2,2 ,0 ,065,BREVOORT,0,2,SECY,3.0,SEC
+282,Brooklyn Property Management,Brevoort,SUPV HSG CRTKR,1,1 ,0 ,065,BREVOORT,0,1,SUPV HSG CRTKR,7.0,SOC
+283,Brooklyn Property Management,Brevoort,SUPV HSG GDKPR,1,1 ,0 ,065,BREVOORT,0,1,SUPV HSG GDKPR,8.0,SOG
+284,Brooklyn Property Management,Carey Gardens Consolidated,AST HSG MGR,1,0,1 ,166,CAREY GARDENS CONSOLIDATED,1,0,AST HSG MGR,2.0,APM
+285,Brooklyn Property Management,Carey Gardens Consolidated,AST RES BLDG SP,1,1 ,0 ,166,CAREY GARDENS CONSOLIDATED,0,1,AST RES BLDG SP,6.0,ASUPER
+286,Brooklyn Property Management,Carey Gardens Consolidated,CARETAKER HA,22,21 ,1 ,166,CAREY GARDENS CONSOLIDATED,1,21,CARETAKER HA,10.0,CT
+287,Brooklyn Property Management,Carey Gardens Consolidated,CLERICAL ASO,1,1 ,0 ,166,CAREY GARDENS CONSOLIDATED,0,1,CLERICAL ASO,3.0,SEC
+288,Brooklyn Property Management,Carey Gardens Consolidated,HSG AST,3,3 ,0 ,166,CAREY GARDENS CONSOLIDATED,0,3,HSG AST,4.0,HA
+289,Brooklyn Property Management,Carey Gardens Consolidated,HSG MGR,1,1 ,0 ,166,CAREY GARDENS CONSOLIDATED,0,1,HSG MGR,1.0,PM
+290,Brooklyn Property Management,Carey Gardens Consolidated,MAINT WORKER,5,5 ,0 ,166,CAREY GARDENS CONSOLIDATED,0,5,MAINT WORKER,9.0,MW
+291,Brooklyn Property Management,Carey Gardens Consolidated,RES BLDG SUPT,1,1 ,0 ,166,CAREY GARDENS CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+292,Brooklyn Property Management,Carey Gardens Consolidated,SECY,1,1 ,0 ,166,CAREY GARDENS CONSOLIDATED,0,1,SECY,3.0,SEC
+293,Brooklyn Property Management,Carey Gardens Consolidated,SUPV HSG CRTKR,1,1 ,0 ,166,CAREY GARDENS CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+294,Brooklyn Property Management,Carey Gardens Consolidated,SUPV HSG GDKPR,1,1 ,0 ,166,CAREY GARDENS CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+295,Brooklyn Property Management,Cooper Park,AST RES BLDG SP,1,1 ,0 ,069,COOPER PARK,0,1,AST RES BLDG SP,6.0,ASUPER
+296,Brooklyn Property Management,Cooper Park,CARETAKER HA,14,14 ,0 ,069,COOPER PARK,0,14,CARETAKER HA,10.0,CT
+297,Brooklyn Property Management,Cooper Park,HSG AST,2,2 ,0 ,069,COOPER PARK,0,2,HSG AST,4.0,HA
+298,Brooklyn Property Management,Cooper Park,HSG MGR,1,1 ,0 ,069,COOPER PARK,0,1,HSG MGR,1.0,PM
+299,Brooklyn Property Management,Cooper Park,MAINT WORKER,3,3 ,0 ,069,COOPER PARK,0,3,MAINT WORKER,9.0,MW
+300,Brooklyn Property Management,Cooper Park,RES BLDG SUPT,1,1 ,0 ,069,COOPER PARK,0,1,RES BLDG SUPT,5.0,SUPER
+301,Brooklyn Property Management,Cooper Park,SECY,2,2 ,0 ,069,COOPER PARK,0,2,SECY,3.0,SEC
+302,Brooklyn Property Management,Cooper Park,SUPV HSG CRTKR,1,1 ,0 ,069,COOPER PARK,0,1,SUPV HSG CRTKR,7.0,SOC
+303,Brooklyn Property Management,Cooper Park,SUPV HSG GDKPR,1,1 ,0 ,069,COOPER PARK,0,1,SUPV HSG GDKPR,8.0,SOG
+304,Brooklyn Property Management,Cypress Hills Consolidated,AST HSG MGR,1,1 ,0 ,070,CYPRESS HILLS CONSOLIDATED,0,1,AST HSG MGR,2.0,APM
+305,Brooklyn Property Management,Cypress Hills Consolidated,AST RES BLDG SP,2,2 ,0 ,070,CYPRESS HILLS CONSOLIDATED,0,2,AST RES BLDG SP,6.0,ASUPER
+306,Brooklyn Property Management,Cypress Hills Consolidated,CARETAKER HA,26,31 ,(5),070,CYPRESS HILLS CONSOLIDATED,-5,31,CARETAKER HA,10.0,CT
+307,Brooklyn Property Management,Cypress Hills Consolidated,HSG AST,4,4 ,0 ,070,CYPRESS HILLS CONSOLIDATED,0,4,HSG AST,4.0,HA
+308,Brooklyn Property Management,Cypress Hills Consolidated,HSG MGR,1,1 ,0 ,070,CYPRESS HILLS CONSOLIDATED,0,1,HSG MGR,1.0,PM
+309,Brooklyn Property Management,Cypress Hills Consolidated,MAINT WORKER,7,6 ,1 ,070,CYPRESS HILLS CONSOLIDATED,1,6,MAINT WORKER,9.0,MW
+310,Brooklyn Property Management,Cypress Hills Consolidated,RES BLDG SUPT,1,1 ,0 ,070,CYPRESS HILLS CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+311,Brooklyn Property Management,Cypress Hills Consolidated,SECY,2,2 ,0 ,070,CYPRESS HILLS CONSOLIDATED,0,2,SECY,3.0,SEC
+312,Brooklyn Property Management,Cypress Hills Consolidated,SUPV HSG CRTKR,1,1 ,0 ,070,CYPRESS HILLS CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+313,Brooklyn Property Management,Cypress Hills Consolidated,SUPV HSG GDKPR,1,1 ,0 ,070,CYPRESS HILLS CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+314,Brooklyn Property Management,Farragut,AST HSG MGR,1,0,1 ,029,FARRAGUT,1,0,AST HSG MGR,2.0,APM
+315,Brooklyn Property Management,Farragut,AST RES BLDG SP,2,1 ,1 ,029,FARRAGUT,1,1,AST RES BLDG SP,6.0,ASUPER
+316,Brooklyn Property Management,Farragut,CARETAKER HA,25,27 ,(2),029,FARRAGUT,-2,27,CARETAKER HA,10.0,CT
+317,Brooklyn Property Management,Farragut,CITY ATTENDANT,1,1 ,0 ,029,FARRAGUT,0,1,CITY ATTENDANT,3.0,SEC
+318,Brooklyn Property Management,Farragut,HSG AST,3,1 ,2 ,029,FARRAGUT,2,1,HSG AST,4.0,HA
+319,Brooklyn Property Management,Farragut,HSG MGR,1,1 ,0 ,029,FARRAGUT,0,1,HSG MGR,1.0,PM
+320,Brooklyn Property Management,Farragut,MAINT WORKER,6,6 ,0 ,029,FARRAGUT,0,6,MAINT WORKER,9.0,MW
+321,Brooklyn Property Management,Farragut,RES BLDG SUPT,1,1 ,0 ,029,FARRAGUT,0,1,RES BLDG SUPT,5.0,SUPER
+322,Brooklyn Property Management,Farragut,SECY,1,1 ,0 ,029,FARRAGUT,0,1,SECY,3.0,SEC
+323,Brooklyn Property Management,Farragut,SUPV HSG CRTKR,1,1 ,0 ,029,FARRAGUT,0,1,SUPV HSG CRTKR,7.0,SOC
+324,Brooklyn Property Management,Farragut,SUPV HSG GDKPR,1,1 ,0 ,029,FARRAGUT,0,1,SUPV HSG GDKPR,8.0,SOG
+325,Brooklyn Property Management,Garvey Consolidated,AST RES BLDG SP,1,1 ,0 ,252,GARVEY CONSOLIDATED,0,1,AST RES BLDG SP,6.0,ASUPER
+326,Brooklyn Property Management,Garvey Consolidated,CARETAKER HA,15,17 ,(2),252,GARVEY CONSOLIDATED,-2,17,CARETAKER HA,10.0,CT
+327,Brooklyn Property Management,Garvey Consolidated,CLERICAL ASO,1,0,1 ,252,GARVEY CONSOLIDATED,1,0,CLERICAL ASO,3.0,SEC
+328,Brooklyn Property Management,Garvey Consolidated,HSG AST,2,2 ,0 ,252,GARVEY CONSOLIDATED,0,2,HSG AST,4.0,HA
+329,Brooklyn Property Management,Garvey Consolidated,HSG MGR,1,1 ,0 ,252,GARVEY CONSOLIDATED,0,1,HSG MGR,1.0,PM
+330,Brooklyn Property Management,Garvey Consolidated,MAINT WORKER,3,2 ,1 ,252,GARVEY CONSOLIDATED,1,2,MAINT WORKER,9.0,MW
+331,Brooklyn Property Management,Garvey Consolidated,RES BLDG SUPT,1,1 ,0 ,252,GARVEY CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+332,Brooklyn Property Management,Garvey Consolidated,SECY,1,1 ,0 ,252,GARVEY CONSOLIDATED,0,1,SECY,3.0,SEC
+333,Brooklyn Property Management,Garvey Consolidated,SUPV HSG CRTKR,1,1 ,0 ,252,GARVEY CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+334,Brooklyn Property Management,Garvey Consolidated,SUPV HSG GDKPR,1,1 ,0 ,252,GARVEY CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+335,Brooklyn Property Management,Glenwood,AST HSG MGR,1,1 ,0 ,044,GLENWOOD,0,1,AST HSG MGR,2.0,APM
+336,Brooklyn Property Management,Glenwood,AST RES BLDG SP,1,1 ,0 ,044,GLENWOOD,0,1,AST RES BLDG SP,6.0,ASUPER
+337,Brooklyn Property Management,Glenwood,CARETAKER HA,22,24 ,(2),044,GLENWOOD,-2,24,CARETAKER HA,10.0,CT
+338,Brooklyn Property Management,Glenwood,HSG AST,3,3 ,0 ,044,GLENWOOD,0,3,HSG AST,4.0,HA
+339,Brooklyn Property Management,Glenwood,HSG MGR,1,1 ,0 ,044,GLENWOOD,0,1,HSG MGR,1.0,PM
+340,Brooklyn Property Management,Glenwood,MAINT WORKER,5,3 ,2 ,044,GLENWOOD,2,3,MAINT WORKER,9.0,MW
+341,Brooklyn Property Management,Glenwood,RES BLDG SUPT,1,1 ,0 ,044,GLENWOOD,0,1,RES BLDG SUPT,5.0,SUPER
+342,Brooklyn Property Management,Glenwood,SECY,2,1 ,1 ,044,GLENWOOD,1,1,SECY,3.0,SEC
+343,Brooklyn Property Management,Glenwood,SUPV HSG CRTKR,1,1 ,0 ,044,GLENWOOD,0,1,SUPV HSG CRTKR,7.0,SOC
+344,Brooklyn Property Management,Glenwood,SUPV HSG GDKPR,1,1 ,0 ,044,GLENWOOD,0,1,SUPV HSG GDKPR,8.0,SOG
+345,Brooklyn Property Management,Gowanus,AST HSG MGR,1,1 ,0 ,025,GOWANUS,0,1,AST HSG MGR,2.0,APM
+346,Brooklyn Property Management,Gowanus,AST RES BLDG SP,1,1 ,0 ,025,GOWANUS,0,1,AST RES BLDG SP,6.0,ASUPER
+347,Brooklyn Property Management,Gowanus,CARETAKER HA,21,22 ,(1),025,GOWANUS,-1,22,CARETAKER HA,10.0,CT
+348,Brooklyn Property Management,Gowanus,CLERICAL ASO,1,1 ,0 ,025,GOWANUS,0,1,CLERICAL ASO,3.0,SEC
+349,Brooklyn Property Management,Gowanus,HSG AST,3,3 ,0 ,025,GOWANUS,0,3,HSG AST,4.0,HA
+350,Brooklyn Property Management,Gowanus,HSG MGR,1,1 ,0 ,025,GOWANUS,0,1,HSG MGR,1.0,PM
+351,Brooklyn Property Management,Gowanus,MAINT WORKER,5,5 ,0 ,025,GOWANUS,0,5,MAINT WORKER,9.0,MW
+352,Brooklyn Property Management,Gowanus,RES BLDG SUPT,1,1 ,0 ,025,GOWANUS,0,1,RES BLDG SUPT,5.0,SUPER
+353,Brooklyn Property Management,Gowanus,SECY,1,1 ,0 ,025,GOWANUS,0,1,SECY,3.0,SEC
+354,Brooklyn Property Management,Gowanus,SUPV HSG CRTKR,1,1 ,0 ,025,GOWANUS,0,1,SUPV HSG CRTKR,7.0,SOC
+355,Brooklyn Property Management,Gowanus,SUPV HSG GDKPR,1,1 ,0 ,025,GOWANUS,0,1,SUPV HSG GDKPR,8.0,SOG
+356,Brooklyn Property Management,Ingersoll,AST HSG MGR,2,2 ,0 ,014,INGERSOLL,0,2,AST HSG MGR,2.0,APM
+357,Brooklyn Property Management,Ingersoll,AST RES BLDG SP,2,2 ,0 ,014,INGERSOLL,0,2,AST RES BLDG SP,6.0,ASUPER
+358,Brooklyn Property Management,Ingersoll,CARETAKER HA,32,32 ,0 ,014,INGERSOLL,0,32,CARETAKER HA,10.0,CT
+359,Brooklyn Property Management,Ingersoll,HSG AST,5,4 ,1 ,014,INGERSOLL,1,4,HSG AST,4.0,HA
+360,Brooklyn Property Management,Ingersoll,HSG MGR,1,1 ,0 ,014,INGERSOLL,0,1,HSG MGR,1.0,PM
+361,Brooklyn Property Management,Ingersoll,MAINT WORKER,7,6 ,1 ,014,INGERSOLL,1,6,MAINT WORKER,9.0,MW
+362,Brooklyn Property Management,Ingersoll,RES BLDG SUPT,1,1 ,0 ,014,INGERSOLL,0,1,RES BLDG SUPT,5.0,SUPER
+363,Brooklyn Property Management,Ingersoll,SECY,2,3 ,(1),014,INGERSOLL,-1,3,SECY,3.0,SEC
+364,Brooklyn Property Management,Ingersoll,SUPV HSG CRTKR,2,2 ,0 ,014,INGERSOLL,0,2,SUPV HSG CRTKR,7.0,SOC
+365,Brooklyn Property Management,Ingersoll,SUPV HSG GDKPR,1,1 ,0 ,014,INGERSOLL,0,1,SUPV HSG GDKPR,8.0,SOG
+366,Brooklyn Property Management,Kingsborough Consolidated,AST HSG MGR,1,1 ,0 ,010,KINGSBOROUGH CONSOLIDATED,0,1,AST HSG MGR,2.0,APM
+367,Brooklyn Property Management,Kingsborough Consolidated,AST RES BLDG SP,1,1 ,0 ,010,KINGSBOROUGH CONSOLIDATED,0,1,AST RES BLDG SP,6.0,ASUPER
+368,Brooklyn Property Management,Kingsborough Consolidated,CARETAKER HA,25,26 ,(1),010,KINGSBOROUGH CONSOLIDATED,-1,26,CARETAKER HA,10.0,CT
+369,Brooklyn Property Management,Kingsborough Consolidated,HSG AST,3,3 ,0 ,010,KINGSBOROUGH CONSOLIDATED,0,3,HSG AST,4.0,HA
+370,Brooklyn Property Management,Kingsborough Consolidated,HSG MGR,1,1 ,0 ,010,KINGSBOROUGH CONSOLIDATED,0,1,HSG MGR,1.0,PM
+371,Brooklyn Property Management,Kingsborough Consolidated,MAINT WORKER,5,5 ,0 ,010,KINGSBOROUGH CONSOLIDATED,0,5,MAINT WORKER,9.0,MW
+372,Brooklyn Property Management,Kingsborough Consolidated,RES BLDG SUPT,1,1 ,0 ,010,KINGSBOROUGH CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+373,Brooklyn Property Management,Kingsborough Consolidated,SECY,2,1 ,1 ,010,KINGSBOROUGH CONSOLIDATED,1,1,SECY,3.0,SEC
+374,Brooklyn Property Management,Kingsborough Consolidated,SUPV HSG CRTKR,1,1 ,0 ,010,KINGSBOROUGH CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+375,Brooklyn Property Management,Kingsborough Consolidated,SUPV HSG GDKPR,1,1 ,0 ,010,KINGSBOROUGH CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+376,Brooklyn Property Management,Lafayette,AST RES BLDG SP,1,1 ,0 ,122,LAFAYETTE,0,1,AST RES BLDG SP,6.0,ASUPER
+377,Brooklyn Property Management,Lafayette,CARETAKER HA,17,17 ,0 ,122,LAFAYETTE,0,17,CARETAKER HA,10.0,CT
+378,Brooklyn Property Management,Lafayette,HSG AST,2,2 ,0 ,122,LAFAYETTE,0,2,HSG AST,4.0,HA
+379,Brooklyn Property Management,Lafayette,HSG MGR,1,1 ,0 ,122,LAFAYETTE,0,1,HSG MGR,1.0,PM
+380,Brooklyn Property Management,Lafayette,MAINT WORKER,4,3 ,1 ,122,LAFAYETTE,1,3,MAINT WORKER,9.0,MW
+381,Brooklyn Property Management,Lafayette,RES BLDG SUPT,1,1 ,0 ,122,LAFAYETTE,0,1,RES BLDG SUPT,5.0,SUPER
+382,Brooklyn Property Management,Lafayette,SECY,2,2 ,0 ,122,LAFAYETTE,0,2,SECY,3.0,SEC
+383,Brooklyn Property Management,Lafayette,SUPV HSG CRTKR,1,1 ,0 ,122,LAFAYETTE,0,1,SUPV HSG CRTKR,7.0,SOC
+384,Brooklyn Property Management,Lafayette,SUPV HSG GDKPR,1,1 ,0 ,122,LAFAYETTE,0,1,SUPV HSG GDKPR,8.0,SOG
+385,Brooklyn Property Management,Marcy,AST HSG MGR,1,1 ,0 ,021,MARCY,0,1,AST HSG MGR,2.0,APM
+386,Brooklyn Property Management,Marcy,AST RES BLDG SP,2,2 ,0 ,021,MARCY,0,2,AST RES BLDG SP,6.0,ASUPER
+387,Brooklyn Property Management,Marcy,CARETAKER HA,30,29 ,1 ,021,MARCY,1,29,CARETAKER HA,10.0,CT
+388,Brooklyn Property Management,Marcy,HSG AST,4,3 ,1 ,021,MARCY,1,3,HSG AST,4.0,HA
+389,Brooklyn Property Management,Marcy,HSG MGR,1,1 ,0 ,021,MARCY,0,1,HSG MGR,1.0,PM
+390,Brooklyn Property Management,Marcy,MAINT WORKER,7,6 ,1 ,021,MARCY,1,6,MAINT WORKER,9.0,MW
+391,Brooklyn Property Management,Marcy,RES BLDG SUPT,1,1 ,0 ,021,MARCY,0,1,RES BLDG SUPT,5.0,SUPER
+392,Brooklyn Property Management,Marcy,SECY,2,2 ,0 ,021,MARCY,0,2,SECY,3.0,SEC
+393,Brooklyn Property Management,Marcy,SUPV HSG CRTKR,2,2 ,0 ,021,MARCY,0,2,SUPV HSG CRTKR,7.0,SOC
+394,Brooklyn Property Management,Marcy,SUPV HSG GDKPR,1,1 ,0 ,021,MARCY,0,1,SUPV HSG GDKPR,8.0,SOG
+395,Brooklyn Property Management,Ocean Hill Consolidated,AST RES BLDG SP,1,1 ,0 ,162,OCEAN HILL CONSOLIDATED,0,1,AST RES BLDG SP,6.0,ASUPER
+396,Brooklyn Property Management,Ocean Hill Consolidated,CARETAKER HA,14,17 ,(3),162,OCEAN HILL CONSOLIDATED,-3,17,CARETAKER HA,10.0,CT
+397,Brooklyn Property Management,Ocean Hill Consolidated,HSG AST,2,2 ,0 ,162,OCEAN HILL CONSOLIDATED,0,2,HSG AST,4.0,HA
+398,Brooklyn Property Management,Ocean Hill Consolidated,HSG MGR,1,1 ,0 ,162,OCEAN HILL CONSOLIDATED,0,1,HSG MGR,1.0,PM
+399,Brooklyn Property Management,Ocean Hill Consolidated,MAINT WORKER,2,2 ,0 ,162,OCEAN HILL CONSOLIDATED,0,2,MAINT WORKER,9.0,MW
+400,Brooklyn Property Management,Ocean Hill Consolidated,RES BLDG SUPT,1,1 ,0 ,162,OCEAN HILL CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+401,Brooklyn Property Management,Ocean Hill Consolidated,SECY,2,2 ,0 ,162,OCEAN HILL CONSOLIDATED,0,2,SECY,3.0,SEC
+402,Brooklyn Property Management,Ocean Hill Consolidated,SUPV HSG CRTKR,1,1 ,0 ,162,OCEAN HILL CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+403,Brooklyn Property Management,Ocean Hill Consolidated,SUPV HSG GDKPR,1,1 ,0 ,162,OCEAN HILL CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+404,Brooklyn Property Management,O'dwyer Gardens Consolidated,AST HSG MGR,1,1 ,0 ,172,O'DWYER GARDENS CONSOLIDATED,0,1,AST HSG MGR,2.0,APM
+405,Brooklyn Property Management,O'dwyer Gardens Consolidated,AST RES BLDG SP,2,2 ,0 ,172,O'DWYER GARDENS CONSOLIDATED,0,2,AST RES BLDG SP,6.0,ASUPER
+406,Brooklyn Property Management,O'dwyer Gardens Consolidated,CARETAKER HA,25,26 ,(1),172,O'DWYER GARDENS CONSOLIDATED,-1,26,CARETAKER HA,10.0,CT
+407,Brooklyn Property Management,O'dwyer Gardens Consolidated,CITY ATTENDANT,1,1 ,0 ,172,O'DWYER GARDENS CONSOLIDATED,0,1,CITY ATTENDANT,3.0,SEC
+408,Brooklyn Property Management,O'dwyer Gardens Consolidated,HSG AST,3,1 ,2 ,172,O'DWYER GARDENS CONSOLIDATED,2,1,HSG AST,4.0,HA
+409,Brooklyn Property Management,O'dwyer Gardens Consolidated,HSG MGR,1,1 ,0 ,172,O'DWYER GARDENS CONSOLIDATED,0,1,HSG MGR,1.0,PM
+410,Brooklyn Property Management,O'dwyer Gardens Consolidated,MAINT WORKER,6,5 ,1 ,172,O'DWYER GARDENS CONSOLIDATED,1,5,MAINT WORKER,9.0,MW
+411,Brooklyn Property Management,O'dwyer Gardens Consolidated,RES BLDG SUPT,1,1 ,0 ,172,O'DWYER GARDENS CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+412,Brooklyn Property Management,O'dwyer Gardens Consolidated,SECY,1,1 ,0 ,172,O'DWYER GARDENS CONSOLIDATED,0,1,SECY,3.0,SEC
+413,Brooklyn Property Management,O'dwyer Gardens Consolidated,SUPV HSG CRTKR,1,1 ,0 ,172,O'DWYER GARDENS CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+414,Brooklyn Property Management,O'dwyer Gardens Consolidated,SUPV HSG GDKPR,1,1 ,0 ,172,O'DWYER GARDENS CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+415,Brooklyn Property Management,Park Rock Consolidated,AST HSG MGR,1,1 ,0 ,351,PARK ROCK CONSOLIDATED,0,1,AST HSG MGR,2.0,APM
+416,Brooklyn Property Management,Park Rock Consolidated,AST RES BLDG SP,2,2 ,0 ,351,PARK ROCK CONSOLIDATED,0,2,AST RES BLDG SP,6.0,ASUPER
+417,Brooklyn Property Management,Park Rock Consolidated,CARETAKER HA,18,20 ,(2),351,PARK ROCK CONSOLIDATED,-2,20,CARETAKER HA,10.0,CT
+418,Brooklyn Property Management,Park Rock Consolidated,CHIEF CARETAKER,2,1 ,1 ,351,PARK ROCK CONSOLIDATED,1,1,CHIEF CARETAKER,10.0,CT
+419,Brooklyn Property Management,Park Rock Consolidated,HSG AST,2,2 ,0 ,351,PARK ROCK CONSOLIDATED,0,2,HSG AST,4.0,HA
+420,Brooklyn Property Management,Park Rock Consolidated,HSG MGR,1,1 ,0 ,351,PARK ROCK CONSOLIDATED,0,1,HSG MGR,1.0,PM
+421,Brooklyn Property Management,Park Rock Consolidated,MAINT WORKER,5,3 ,2 ,351,PARK ROCK CONSOLIDATED,2,3,MAINT WORKER,9.0,MW
+422,Brooklyn Property Management,Park Rock Consolidated,RES BLDG SUPT,1,1 ,0 ,351,PARK ROCK CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+423,Brooklyn Property Management,Park Rock Consolidated,SECY,2,1 ,1 ,351,PARK ROCK CONSOLIDATED,1,1,SECY,3.0,SEC
+424,Brooklyn Property Management,Park Rock Consolidated,SUPV HSG CRTKR,1,1 ,0 ,351,PARK ROCK CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+425,Brooklyn Property Management,Park Rock Consolidated,SUPV HSG GDKPR,1,0,1 ,351,PARK ROCK CONSOLIDATED,1,0,SUPV HSG GDKPR,8.0,SOG
+426,Brooklyn Property Management,Pennsylvania Ave - Wortman Ave Consolidated,AST RES BLDG SP,1,1 ,0 ,194,PENNSYLVANIA AVENUE-WORTMAN AVENUE CONSOLIDATED,0,1,AST RES BLDG SP,6.0,ASUPER
+427,Brooklyn Property Management,Pennsylvania Ave - Wortman Ave Consolidated,CARETAKER HA,13,17 ,(4),194,PENNSYLVANIA AVENUE-WORTMAN AVENUE CONSOLIDATED,-4,17,CARETAKER HA,10.0,CT
+428,Brooklyn Property Management,Pennsylvania Ave - Wortman Ave Consolidated,HSG AST,2,2 ,0 ,194,PENNSYLVANIA AVENUE-WORTMAN AVENUE CONSOLIDATED,0,2,HSG AST,4.0,HA
+429,Brooklyn Property Management,Pennsylvania Ave - Wortman Ave Consolidated,HSG MGR,1,1 ,0 ,194,PENNSYLVANIA AVENUE-WORTMAN AVENUE CONSOLIDATED,0,1,HSG MGR,1.0,PM
+430,Brooklyn Property Management,Pennsylvania Ave - Wortman Ave Consolidated,MAINT WORKER,3,3 ,0 ,194,PENNSYLVANIA AVENUE-WORTMAN AVENUE CONSOLIDATED,0,3,MAINT WORKER,9.0,MW
+431,Brooklyn Property Management,Pennsylvania Ave - Wortman Ave Consolidated,RES BLDG SUPT,1,1 ,0 ,194,PENNSYLVANIA AVENUE-WORTMAN AVENUE CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+432,Brooklyn Property Management,Pennsylvania Ave - Wortman Ave Consolidated,SECY,2,2 ,0 ,194,PENNSYLVANIA AVENUE-WORTMAN AVENUE CONSOLIDATED,0,2,SECY,3.0,SEC
+433,Brooklyn Property Management,Pennsylvania Ave - Wortman Ave Consolidated,SUPV HSG CRTKR,1,1 ,0 ,194,PENNSYLVANIA AVENUE-WORTMAN AVENUE CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+434,Brooklyn Property Management,Pennsylvania Ave - Wortman Ave Consolidated,SUPV HSG GDKPR,1,1 ,0 ,194,PENNSYLVANIA AVENUE-WORTMAN AVENUE CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+435,Brooklyn Property Management,Pink,AST HSG MGR,1,1 ,0 ,089,PINK,0,1,AST HSG MGR,2.0,APM
+436,Brooklyn Property Management,Pink,AST RES BLDG SP,2,1 ,1 ,089,PINK,1,1,AST RES BLDG SP,6.0,ASUPER
+437,Brooklyn Property Management,Pink,CARETAKER HA,28,29 ,(1),089,PINK,-1,29,CARETAKER HA,10.0,CT
+438,Brooklyn Property Management,Pink,HSG AST,4,4 ,0 ,089,PINK,0,4,HSG AST,4.0,HA
+439,Brooklyn Property Management,Pink,HSG MGR,1,1 ,0 ,089,PINK,0,1,HSG MGR,1.0,PM
+440,Brooklyn Property Management,Pink,MAINT WORKER,6,3 ,3 ,089,PINK,3,3,MAINT WORKER,9.0,MW
+441,Brooklyn Property Management,Pink,RES BLDG SUPT,1,1 ,0 ,089,PINK,0,1,RES BLDG SUPT,5.0,SUPER
+442,Brooklyn Property Management,Pink,SECY,2,1 ,1 ,089,PINK,1,1,SECY,3.0,SEC
+443,Brooklyn Property Management,Pink,SUPV HSG CRTKR,1,1 ,0 ,089,PINK,0,1,SUPV HSG CRTKR,7.0,SOC
+444,Brooklyn Property Management,Pink,SUPV HSG GDKPR,1,1 ,0 ,089,PINK,0,1,SUPV HSG GDKPR,8.0,SOG
+445,Brooklyn Property Management,Red Hook East,AST HSG MGR,1,1 ,0 ,004,RED HOOK EAST,0,1,AST HSG MGR,2.0,APM
+446,Brooklyn Property Management,Red Hook East,AST RES BLDG SP,2,1 ,1 ,004,RED HOOK EAST,1,1,AST RES BLDG SP,6.0,ASUPER
+447,Brooklyn Property Management,Red Hook East,CARETAKER HA,24,26 ,(2),004,RED HOOK EAST,-2,26,CARETAKER HA,10.0,CT
+448,Brooklyn Property Management,Red Hook East,CHIEF CARETAKER,1,0,1 ,004,RED HOOK EAST,1,0,CHIEF CARETAKER,10.0,CT
+449,Brooklyn Property Management,Red Hook East,HSG AST,4,4 ,0 ,004,RED HOOK EAST,0,4,HSG AST,4.0,HA
+450,Brooklyn Property Management,Red Hook East,HSG MGR,1,1 ,0 ,004,RED HOOK EAST,0,1,HSG MGR,1.0,PM
+451,Brooklyn Property Management,Red Hook East,MAINT WORKER,6,4 ,2 ,004,RED HOOK EAST,2,4,MAINT WORKER,9.0,MW
+452,Brooklyn Property Management,Red Hook East,RES BLDG SUPT,1,1 ,0 ,004,RED HOOK EAST,0,1,RES BLDG SUPT,5.0,SUPER
+453,Brooklyn Property Management,Red Hook East,SECY,2,1 ,1 ,004,RED HOOK EAST,1,1,SECY,3.0,SEC
+454,Brooklyn Property Management,Red Hook East,SUPV HSG CRTKR,1,1 ,0 ,004,RED HOOK EAST,0,1,SUPV HSG CRTKR,7.0,SOC
+455,Brooklyn Property Management,Red Hook East,SUPV HSG GDKPR,1,0,1 ,004,RED HOOK EAST,1,0,SUPV HSG GDKPR,8.0,SOG
+456,Brooklyn Property Management,Red Hook West,AST HSG MGR,1,1 ,0 ,079,RED HOOK WEST,0,1,AST HSG MGR,2.0,APM
+457,Brooklyn Property Management,Red Hook West,AST RES BLDG SP,2,2 ,0 ,079,RED HOOK WEST,0,2,AST RES BLDG SP,6.0,ASUPER
+458,Brooklyn Property Management,Red Hook West,CARETAKER HA,25,21 ,4 ,079,RED HOOK WEST,4,21,CARETAKER HA,10.0,CT
+459,Brooklyn Property Management,Red Hook West,HSG AST,4,4 ,0 ,079,RED HOOK WEST,0,4,HSG AST,4.0,HA
+460,Brooklyn Property Management,Red Hook West,HSG MGR,1,1 ,0 ,079,RED HOOK WEST,0,1,HSG MGR,1.0,PM
+461,Brooklyn Property Management,Red Hook West,MAINT WORKER,6,5 ,1 ,079,RED HOOK WEST,1,5,MAINT WORKER,9.0,MW
+462,Brooklyn Property Management,Red Hook West,RES BLDG SUPT,1,1 ,0 ,079,RED HOOK WEST,0,1,RES BLDG SUPT,5.0,SUPER
+463,Brooklyn Property Management,Red Hook West,SECY,2,2 ,0 ,079,RED HOOK WEST,0,2,SECY,3.0,SEC
+464,Brooklyn Property Management,Red Hook West,SUPV HSG CRTKR,1,1 ,0 ,079,RED HOOK WEST,0,1,SUPV HSG CRTKR,7.0,SOC
+465,Brooklyn Property Management,Red Hook West,SUPV HSG GDKPR,1,1 ,0 ,079,RED HOOK WEST,0,1,SUPV HSG GDKPR,8.0,SOG
+466,Brooklyn Property Management,Reid Apartments Consolidated,AST HSG MGR,1,1 ,0 ,167,REID APARTMENTS CONSOLIDATED,0,1,AST HSG MGR,2.0,APM
+467,Brooklyn Property Management,Reid Apartments Consolidated,AST RES BLDG SP,2,1 ,1 ,167,REID APARTMENTS CONSOLIDATED,1,1,AST RES BLDG SP,6.0,ASUPER
+468,Brooklyn Property Management,Reid Apartments Consolidated,CARETAKER HA,16,15 ,1 ,167,REID APARTMENTS CONSOLIDATED,1,15,CARETAKER HA,10.0,CT
+469,Brooklyn Property Management,Reid Apartments Consolidated,HSG AST,3,1 ,2 ,167,REID APARTMENTS CONSOLIDATED,2,1,HSG AST,4.0,HA
+470,Brooklyn Property Management,Reid Apartments Consolidated,HSG MGR,1,1 ,0 ,167,REID APARTMENTS CONSOLIDATED,0,1,HSG MGR,1.0,PM
+471,Brooklyn Property Management,Reid Apartments Consolidated,MAINT WORKER,4,4 ,0 ,167,REID APARTMENTS CONSOLIDATED,0,4,MAINT WORKER,9.0,MW
+472,Brooklyn Property Management,Reid Apartments Consolidated,RES BLDG SUPT,1,1 ,0 ,167,REID APARTMENTS CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+473,Brooklyn Property Management,Reid Apartments Consolidated,SECY,2,2 ,0 ,167,REID APARTMENTS CONSOLIDATED,0,2,SECY,3.0,SEC
+474,Brooklyn Property Management,Reid Apartments Consolidated,SUPV HSG CRTKR,1,1 ,0 ,167,REID APARTMENTS CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+475,Brooklyn Property Management,Reid Apartments Consolidated,SUPV HSG GDKPR,1,1 ,0 ,167,REID APARTMENTS CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+476,Brooklyn Property Management,Roosevelt Consolidated,AST HSG MGR,1,1 ,0 ,135,ROOSEVELT CONSOLIDATED,0,1,AST HSG MGR,2.0,APM
+477,Brooklyn Property Management,Roosevelt Consolidated,AST RES BLDG SP,1,1 ,0 ,135,ROOSEVELT CONSOLIDATED,0,1,AST RES BLDG SP,6.0,ASUPER
+478,Brooklyn Property Management,Roosevelt Consolidated,CARETAKER HA,20,20 ,0 ,135,ROOSEVELT CONSOLIDATED,0,20,CARETAKER HA,10.0,CT
+479,Brooklyn Property Management,Roosevelt Consolidated,HSG AST,3,2 ,1 ,135,ROOSEVELT CONSOLIDATED,1,2,HSG AST,4.0,HA
+480,Brooklyn Property Management,Roosevelt Consolidated,HSG MGR,1,1 ,0 ,135,ROOSEVELT CONSOLIDATED,0,1,HSG MGR,1.0,PM
+481,Brooklyn Property Management,Roosevelt Consolidated,MAINT WORKER,5,4 ,1 ,135,ROOSEVELT CONSOLIDATED,1,4,MAINT WORKER,9.0,MW
+482,Brooklyn Property Management,Roosevelt Consolidated,RES BLDG SUPT,1,1 ,0 ,135,ROOSEVELT CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+483,Brooklyn Property Management,Roosevelt Consolidated,SECY,2,2 ,0 ,135,ROOSEVELT CONSOLIDATED,0,2,SECY,3.0,SEC
+484,Brooklyn Property Management,Roosevelt Consolidated,SUPV HSG CRTKR,1,1 ,0 ,135,ROOSEVELT CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+485,Brooklyn Property Management,Roosevelt Consolidated,SUPV HSG GDKPR,1,0,1 ,135,ROOSEVELT CONSOLIDATED,1,0,SUPV HSG GDKPR,8.0,SOG
+486,Brooklyn Property Management,Sheepshead Bay Consolidated,AST HSG MGR,2,0,2 ,036,SHEEPSHEAD BAY CONSOLIDATED,2,0,AST HSG MGR,2.0,APM
+487,Brooklyn Property Management,Sheepshead Bay Consolidated,AST RES BLDG SP,2,1 ,1 ,036,SHEEPSHEAD BAY CONSOLIDATED,1,1,AST RES BLDG SP,6.0,ASUPER
+488,Brooklyn Property Management,Sheepshead Bay Consolidated,CARETAKER HA,37,36 ,1 ,036,SHEEPSHEAD BAY CONSOLIDATED,1,36,CARETAKER HA,10.0,CT
+489,Brooklyn Property Management,Sheepshead Bay Consolidated,CLERICAL ASO,1,1 ,0 ,036,SHEEPSHEAD BAY CONSOLIDATED,0,1,CLERICAL ASO,3.0,SEC
+490,Brooklyn Property Management,Sheepshead Bay Consolidated,HSG AST,6,6 ,0 ,036,SHEEPSHEAD BAY CONSOLIDATED,0,6,HSG AST,4.0,HA
+491,Brooklyn Property Management,Sheepshead Bay Consolidated,HSG MGR,1,1 ,0 ,036,SHEEPSHEAD BAY CONSOLIDATED,0,1,HSG MGR,1.0,PM
+492,Brooklyn Property Management,Sheepshead Bay Consolidated,MAINT WORKER,9,8 ,1 ,036,SHEEPSHEAD BAY CONSOLIDATED,1,8,MAINT WORKER,9.0,MW
+493,Brooklyn Property Management,Sheepshead Bay Consolidated,RES BLDG SUPT,1,1 ,0 ,036,SHEEPSHEAD BAY CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+494,Brooklyn Property Management,Sheepshead Bay Consolidated,SECY,2,2 ,0 ,036,SHEEPSHEAD BAY CONSOLIDATED,0,2,SECY,3.0,SEC
+495,Brooklyn Property Management,Sheepshead Bay Consolidated,SUPV HSG CRTKR,2,2 ,0 ,036,SHEEPSHEAD BAY CONSOLIDATED,0,2,SUPV HSG CRTKR,7.0,SOC
+496,Brooklyn Property Management,Sheepshead Bay Consolidated,SUPV HSG GDKPR,1,1 ,0 ,036,SHEEPSHEAD BAY CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+497,Brooklyn Property Management,Stuyvesant Gardens Consolidated,AST RES BLDG SP,1,1 ,0 ,221,STUYVESANT GARDENS CONSOLIDATED,0,1,AST RES BLDG SP,6.0,ASUPER
+498,Brooklyn Property Management,Stuyvesant Gardens Consolidated,CARETAKER HA,13,13 ,0 ,221,STUYVESANT GARDENS CONSOLIDATED,0,13,CARETAKER HA,10.0,CT
+499,Brooklyn Property Management,Stuyvesant Gardens Consolidated,HSG AST,2,2 ,0 ,221,STUYVESANT GARDENS CONSOLIDATED,0,2,HSG AST,4.0,HA
+500,Brooklyn Property Management,Stuyvesant Gardens Consolidated,HSG MGR,1,1 ,0 ,221,STUYVESANT GARDENS CONSOLIDATED,0,1,HSG MGR,1.0,PM
+501,Brooklyn Property Management,Stuyvesant Gardens Consolidated,MAINT WORKER,3,3 ,0 ,221,STUYVESANT GARDENS CONSOLIDATED,0,3,MAINT WORKER,9.0,MW
+502,Brooklyn Property Management,Stuyvesant Gardens Consolidated,RES BLDG SUPT,1,1 ,0 ,221,STUYVESANT GARDENS CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+503,Brooklyn Property Management,Stuyvesant Gardens Consolidated,SECY,2,2 ,0 ,221,STUYVESANT GARDENS CONSOLIDATED,0,2,SECY,3.0,SEC
+504,Brooklyn Property Management,Stuyvesant Gardens Consolidated,SUPV HSG CRTKR,1,1 ,0 ,221,STUYVESANT GARDENS CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+505,Brooklyn Property Management,Stuyvesant Gardens Consolidated,SUPV HSG GDKPR,1,1 ,0 ,221,STUYVESANT GARDENS CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+506,Brooklyn Property Management,Sumner Consolidated,AST HSG MGR,1,1 ,0 ,073,SUMNER CONSOLIDATED,0,1,AST HSG MGR,2.0,APM
+507,Brooklyn Property Management,Sumner Consolidated,AST RES BLDG SP,2,2 ,0 ,073,SUMNER CONSOLIDATED,0,2,AST RES BLDG SP,6.0,ASUPER
+508,Brooklyn Property Management,Sumner Consolidated,CARETAKER HA,27,25 ,2 ,073,SUMNER CONSOLIDATED,2,25,CARETAKER HA,10.0,CT
+509,Brooklyn Property Management,Sumner Consolidated,CLERICAL ASO,1,1 ,0 ,073,SUMNER CONSOLIDATED,0,1,CLERICAL ASO,3.0,SEC
+510,Brooklyn Property Management,Sumner Consolidated,HSG AST,3,3 ,0 ,073,SUMNER CONSOLIDATED,0,3,HSG AST,4.0,HA
+511,Brooklyn Property Management,Sumner Consolidated,HSG AST BILINGL,1,1 ,0 ,073,SUMNER CONSOLIDATED,0,1,HSG AST BILINGL,4.0,HA
+512,Brooklyn Property Management,Sumner Consolidated,HSG MGR,1,1 ,0 ,073,SUMNER CONSOLIDATED,0,1,HSG MGR,1.0,PM
+513,Brooklyn Property Management,Sumner Consolidated,MAINT WORKER,6,3 ,3 ,073,SUMNER CONSOLIDATED,3,3,MAINT WORKER,9.0,MW
+514,Brooklyn Property Management,Sumner Consolidated,RES BLDG SUPT,1,1 ,0 ,073,SUMNER CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+515,Brooklyn Property Management,Sumner Consolidated,SECY,1,1 ,0 ,073,SUMNER CONSOLIDATED,0,1,SECY,3.0,SEC
+516,Brooklyn Property Management,Sumner Consolidated,SUPV HSG CRTKR,1,1 ,0 ,073,SUMNER CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+517,Brooklyn Property Management,Sumner Consolidated,SUPV HSG GDKPR,1,1 ,0 ,073,SUMNER CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+518,Brooklyn Property Management,Surfside Gardens Consolidated,AST HSG MGR,1,1 ,0 ,170,SURFSIDE GARDENS CONSOLIDATED,0,1,AST HSG MGR,2.0,APM
+519,Brooklyn Property Management,Surfside Gardens Consolidated,AST RES BLDG SP,2,2 ,0 ,170,SURFSIDE GARDENS CONSOLIDATED,0,2,AST RES BLDG SP,6.0,ASUPER
+520,Brooklyn Property Management,Surfside Gardens Consolidated,CARETAKER HA,27,25 ,2 ,170,SURFSIDE GARDENS CONSOLIDATED,2,25,CARETAKER HA,10.0,CT
+521,Brooklyn Property Management,Surfside Gardens Consolidated,HSG AST,4,3 ,1 ,170,SURFSIDE GARDENS CONSOLIDATED,1,3,HSG AST,4.0,HA
+522,Brooklyn Property Management,Surfside Gardens Consolidated,HSG MGR,1,1 ,0 ,170,SURFSIDE GARDENS CONSOLIDATED,0,1,HSG MGR,1.0,PM
+523,Brooklyn Property Management,Surfside Gardens Consolidated,MAINT WORKER,7,5 ,2 ,170,SURFSIDE GARDENS CONSOLIDATED,2,5,MAINT WORKER,9.0,MW
+524,Brooklyn Property Management,Surfside Gardens Consolidated,RES BLDG SUPT,1,1 ,0 ,170,SURFSIDE GARDENS CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+525,Brooklyn Property Management,Surfside Gardens Consolidated,SECY,2,2 ,0 ,170,SURFSIDE GARDENS CONSOLIDATED,0,2,SECY,3.0,SEC
+526,Brooklyn Property Management,Surfside Gardens Consolidated,SUPV HSG CRTKR,1,1 ,0 ,170,SURFSIDE GARDENS CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+527,Brooklyn Property Management,Surfside Gardens Consolidated,SUPV HSG GDKPR,1,1 ,0 ,170,SURFSIDE GARDENS CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+528,Brooklyn Property Management,Tompkins Consolidated,AST HSG MGR,1,1 ,0 ,131,TOMPKINS CONSOLIDATED,0,1,AST HSG MGR,2.0,APM
+529,Brooklyn Property Management,Tompkins Consolidated,AST RES BLDG SP,1,1 ,0 ,131,TOMPKINS CONSOLIDATED,0,1,AST RES BLDG SP,6.0,ASUPER
+530,Brooklyn Property Management,Tompkins Consolidated,CARETAKER HA,19,24 ,(5),131,TOMPKINS CONSOLIDATED,-5,24,CARETAKER HA,10.0,CT
+531,Brooklyn Property Management,Tompkins Consolidated,HSG AST,3,3 ,0 ,131,TOMPKINS CONSOLIDATED,0,3,HSG AST,4.0,HA
+532,Brooklyn Property Management,Tompkins Consolidated,HSG MGR,1,1 ,0 ,131,TOMPKINS CONSOLIDATED,0,1,HSG MGR,1.0,PM
+533,Brooklyn Property Management,Tompkins Consolidated,MAINT WORKER,5,4 ,1 ,131,TOMPKINS CONSOLIDATED,1,4,MAINT WORKER,9.0,MW
+534,Brooklyn Property Management,Tompkins Consolidated,RES BLDG SUPT,1,1 ,0 ,131,TOMPKINS CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+535,Brooklyn Property Management,Tompkins Consolidated,SECY,2,1 ,1 ,131,TOMPKINS CONSOLIDATED,1,1,SECY,3.0,SEC
+536,Brooklyn Property Management,Tompkins Consolidated,SUPV HSG CRTKR,1,1 ,0 ,131,TOMPKINS CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+537,Brooklyn Property Management,Tompkins Consolidated,SUPV HSG GDKPR,1,1 ,0 ,131,TOMPKINS CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+538,Brooklyn Property Management,Whitman,AST HSG MGR,1,1 ,0 ,514,WHITMAN,0,1,AST HSG MGR,2.0,APM
+539,Brooklyn Property Management,Whitman,AST RES BLDG SP,2,1 ,1 ,514,WHITMAN,1,1,AST RES BLDG SP,6.0,ASUPER
+540,Brooklyn Property Management,Whitman,CARETAKER HA,29,26 ,3 ,514,WHITMAN,3,26,CARETAKER HA,10.0,CT
+541,Brooklyn Property Management,Whitman,CITY ATTENDANT,1,1 ,0 ,514,WHITMAN,0,1,CITY ATTENDANT,3.0,SEC
+542,Brooklyn Property Management,Whitman,CLERICAL ASO,1,1 ,0 ,514,WHITMAN,0,1,CLERICAL ASO,3.0,SEC
+543,Brooklyn Property Management,Whitman,HSG AST,4,3 ,1 ,514,WHITMAN,1,3,HSG AST,4.0,HA
+544,Brooklyn Property Management,Whitman,HSG MGR,1,1 ,0 ,514,WHITMAN,0,1,HSG MGR,1.0,PM
+545,Brooklyn Property Management,Whitman,MAINT WORKER,7,7 ,0 ,514,WHITMAN,0,7,MAINT WORKER,9.0,MW
+546,Brooklyn Property Management,Whitman,RES BLDG SUPT,1,1 ,0 ,514,WHITMAN,0,1,RES BLDG SUPT,5.0,SUPER
+547,Brooklyn Property Management,Whitman,SUPV HSG CRTKR,2,2 ,0 ,514,WHITMAN,0,2,SUPV HSG CRTKR,7.0,SOC
+548,Brooklyn Property Management,Whitman,SUPV HSG GDKPR,1,1 ,0 ,514,WHITMAN,0,1,SUPV HSG GDKPR,8.0,SOG
+549,Brooklyn Property Management,Williamsburg,AST HSG MGR,1,1 ,0 ,002,WILLIAMSBURG,0,1,AST HSG MGR,2.0,APM
+550,Brooklyn Property Management,Williamsburg,AST RES BLDG SP,2,2 ,0 ,002,WILLIAMSBURG,0,2,AST RES BLDG SP,6.0,ASUPER
+551,Brooklyn Property Management,Williamsburg,CARETAKER HA,30,29 ,1 ,002,WILLIAMSBURG,1,29,CARETAKER HA,10.0,CT
+552,Brooklyn Property Management,Williamsburg,HSG AST,4,4 ,0 ,002,WILLIAMSBURG,0,4,HSG AST,4.0,HA
+553,Brooklyn Property Management,Williamsburg,HSG MGR,1,1 ,0 ,002,WILLIAMSBURG,0,1,HSG MGR,1.0,PM
+554,Brooklyn Property Management,Williamsburg,MAINT WORKER,7,6 ,1 ,002,WILLIAMSBURG,1,6,MAINT WORKER,9.0,MW
+555,Brooklyn Property Management,Williamsburg,RES BLDG SUPT,1,1 ,0 ,002,WILLIAMSBURG,0,1,RES BLDG SUPT,5.0,SUPER
+556,Brooklyn Property Management,Williamsburg,SECY,2,2 ,0 ,002,WILLIAMSBURG,0,2,SECY,3.0,SEC
+557,Brooklyn Property Management,Williamsburg,SUPV HSG CRTKR,2,2 ,0 ,002,WILLIAMSBURG,0,2,SUPV HSG CRTKR,7.0,SOC
+558,Brooklyn Property Management,Williamsburg,SUPV HSG GDKPR,1,1 ,0 ,002,WILLIAMSBURG,0,1,SUPV HSG GDKPR,8.0,SOG
+559,Brooklyn Property Management,Wyckoff Gardens Consolidated,AST HSG MGR,0,1 ,(1),163,WYCKOFF GARDENS CONSOLIDATED,-1,1,AST HSG MGR,2.0,APM
+560,Brooklyn Property Management,Wyckoff Gardens Consolidated,AST RES BLDG SP,1,1 ,0 ,163,WYCKOFF GARDENS CONSOLIDATED,0,1,AST RES BLDG SP,6.0,ASUPER
+561,Brooklyn Property Management,Wyckoff Gardens Consolidated,CARETAKER HA,16,18 ,(2),163,WYCKOFF GARDENS CONSOLIDATED,-2,18,CARETAKER HA,10.0,CT
+562,Brooklyn Property Management,Wyckoff Gardens Consolidated,HSG AST,2,3 ,(1),163,WYCKOFF GARDENS CONSOLIDATED,-1,3,HSG AST,4.0,HA
+563,Brooklyn Property Management,Wyckoff Gardens Consolidated,HSG MGR,1,1 ,0 ,163,WYCKOFF GARDENS CONSOLIDATED,0,1,HSG MGR,1.0,PM
+564,Brooklyn Property Management,Wyckoff Gardens Consolidated,MAINT WORKER,4,5 ,(1),163,WYCKOFF GARDENS CONSOLIDATED,-1,5,MAINT WORKER,9.0,MW
+565,Brooklyn Property Management,Wyckoff Gardens Consolidated,RES BLDG SUPT,1,1 ,0 ,163,WYCKOFF GARDENS CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+566,Brooklyn Property Management,Wyckoff Gardens Consolidated,SECY,2,1 ,1 ,163,WYCKOFF GARDENS CONSOLIDATED,1,1,SECY,3.0,SEC
+567,Brooklyn Property Management,Wyckoff Gardens Consolidated,SUPV HSG CRTKR,1,1 ,0 ,163,WYCKOFF GARDENS CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+568,Brooklyn Property Management,Wyckoff Gardens Consolidated,SUPV HSG GDKPR,1,1 ,0 ,163,WYCKOFF GARDENS CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+569,Manhattan Property Management,Baruch Consolidated,AST HSG MGR,2,2 ,0 ,060,BARUCH CONSOLIDATED,0,2,AST HSG MGR,2.0,APM
+570,Manhattan Property Management,Baruch Consolidated,AST RES BLDG SP,2,1 ,1 ,060,BARUCH CONSOLIDATED,1,1,AST RES BLDG SP,6.0,ASUPER
+571,Manhattan Property Management,Baruch Consolidated,CARETAKER HA,41,33 ,8 ,060,BARUCH CONSOLIDATED,8,33,CARETAKER HA,10.0,CT
+572,Manhattan Property Management,Baruch Consolidated,HSG AST,6,5 ,1 ,060,BARUCH CONSOLIDATED,1,5,HSG AST,4.0,HA
+573,Manhattan Property Management,Baruch Consolidated,HSG MGR,1,1 ,0 ,060,BARUCH CONSOLIDATED,0,1,HSG MGR,1.0,PM
+574,Manhattan Property Management,Baruch Consolidated,MAINT WORKER,10,9 ,1 ,060,BARUCH CONSOLIDATED,1,9,MAINT WORKER,9.0,MW
+575,Manhattan Property Management,Baruch Consolidated,RES BLDG SUPT,1,1 ,0 ,060,BARUCH CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+576,Manhattan Property Management,Baruch Consolidated,SECY,3,3 ,0 ,060,BARUCH CONSOLIDATED,0,3,SECY,3.0,SEC
+577,Manhattan Property Management,Baruch Consolidated,SUPV HSG CRTKR,2,2 ,0 ,060,BARUCH CONSOLIDATED,0,2,SUPV HSG CRTKR,7.0,SOC
+578,Manhattan Property Management,Baruch Consolidated,SUPV HSG GDKPR,1,1 ,0 ,060,BARUCH CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+579,Manhattan Property Management,Carver,AST HSG MGR,1,0,1 ,058,CARVER,1,0,AST HSG MGR,2.0,APM
+580,Manhattan Property Management,Carver,AST RES BLDG SP,1,1 ,0 ,058,CARVER,0,1,AST RES BLDG SP,6.0,ASUPER
+581,Manhattan Property Management,Carver,CARETAKER HA,22,18 ,4 ,058,CARVER,4,18,CARETAKER HA,10.0,CT
+582,Manhattan Property Management,Carver,CHIEF CARETAKER,0,1 ,(1),058,CARVER,-1,1,CHIEF CARETAKER,10.0,CT
+583,Manhattan Property Management,Carver,HSG AST,3,1 ,2 ,058,CARVER,2,1,HSG AST,4.0,HA
+584,Manhattan Property Management,Carver,HSG MGR,1,1 ,0 ,058,CARVER,0,1,HSG MGR,1.0,PM
+585,Manhattan Property Management,Carver,MAINT WORKER,5,5 ,0 ,058,CARVER,0,5,MAINT WORKER,9.0,MW
+586,Manhattan Property Management,Carver,RES BLDG SUPT,1,1 ,0 ,058,CARVER,0,1,RES BLDG SUPT,5.0,SUPER
+587,Manhattan Property Management,Carver,SECY,2,2 ,0 ,058,CARVER,0,2,SECY,3.0,SEC
+588,Manhattan Property Management,Carver,SUPV HSG CRTKR,1,1 ,0 ,058,CARVER,0,1,SUPV HSG CRTKR,7.0,SOC
+589,Manhattan Property Management,Carver,SUPV HSG GDKPR,1,1 ,0 ,058,CARVER,0,1,SUPV HSG GDKPR,8.0,SOG
+590,Manhattan Property Management,Clinton,AST RES BLDG SP,1,1 ,0 ,123,CLINTON,0,1,AST RES BLDG SP,6.0,ASUPER
+591,Manhattan Property Management,Clinton,CARETAKER HA,15,17 ,(2),123,CLINTON,-2,17,CARETAKER HA,10.0,CT
+592,Manhattan Property Management,Clinton,HSG AST,2,2 ,0 ,123,CLINTON,0,2,HSG AST,4.0,HA
+593,Manhattan Property Management,Clinton,HSG MGR,1,0,1 ,123,CLINTON,1,0,HSG MGR,1.0,PM
+594,Manhattan Property Management,Clinton,MAINT WORKER,4,4 ,0 ,123,CLINTON,0,4,MAINT WORKER,9.0,MW
+595,Manhattan Property Management,Clinton,RES BLDG SUPT,1,1 ,0 ,123,CLINTON,0,1,RES BLDG SUPT,5.0,SUPER
+596,Manhattan Property Management,Clinton,SECY,2,2 ,0 ,123,CLINTON,0,2,SECY,3.0,SEC
+597,Manhattan Property Management,Clinton,SUPV HSG CRTKR,1,1 ,0 ,123,CLINTON,0,1,SUPV HSG CRTKR,7.0,SOC
+598,Manhattan Property Management,Clinton,SUPV HSG GDKPR,1,1 ,0 ,123,CLINTON,0,1,SUPV HSG GDKPR,8.0,SOG
+599,Manhattan Property Management,Clinton,ADM MGR-NM,0,1 ,(1),123,CLINTON,-1,1,ADM MGR-NM,1.0,PM
+600,Manhattan Property Management,Douglass Consolidated,AST HSG MGR,2,1 ,1 ,082,DOUGLASS CONSOLIDATED,1,1,AST HSG MGR,2.0,APM
+601,Manhattan Property Management,Douglass Consolidated,AST RES BLDG SP,2,1 ,1 ,082,DOUGLASS CONSOLIDATED,1,1,AST RES BLDG SP,6.0,ASUPER
+602,Manhattan Property Management,Douglass Consolidated,CARETAKER HA,41,40 ,1 ,082,DOUGLASS CONSOLIDATED,1,40,CARETAKER HA,10.0,CT
+603,Manhattan Property Management,Douglass Consolidated,HSG AST,6,6 ,0 ,082,DOUGLASS CONSOLIDATED,0,6,HSG AST,4.0,HA
+604,Manhattan Property Management,Douglass Consolidated,HSG MGR,1,1 ,0 ,082,DOUGLASS CONSOLIDATED,0,1,HSG MGR,1.0,PM
+605,Manhattan Property Management,Douglass Consolidated,MAINT WORKER,10,8 ,2 ,082,DOUGLASS CONSOLIDATED,2,8,MAINT WORKER,9.0,MW
+606,Manhattan Property Management,Douglass Consolidated,RES BLDG SUPT,1,1 ,0 ,082,DOUGLASS CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+607,Manhattan Property Management,Douglass Consolidated,SECY,3,1 ,2 ,082,DOUGLASS CONSOLIDATED,2,1,SECY,3.0,SEC
+608,Manhattan Property Management,Douglass Consolidated,SUPV HSG CRTKR,2,2 ,0 ,082,DOUGLASS CONSOLIDATED,0,2,SUPV HSG CRTKR,7.0,SOC
+609,Manhattan Property Management,Douglass Consolidated,SUPV HSG GDKPR,1,1 ,0 ,082,DOUGLASS CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+610,Manhattan Property Management,Dyckman,AST HSG MGR,1,1 ,0 ,041,DYCKMAN,0,1,AST HSG MGR,2.0,APM
+611,Manhattan Property Management,Dyckman,AST RES BLDG SP,1,1 ,0 ,041,DYCKMAN,0,1,AST RES BLDG SP,6.0,ASUPER
+612,Manhattan Property Management,Dyckman,CARETAKER HA,21,21 ,0 ,041,DYCKMAN,0,21,CARETAKER HA,10.0,CT
+613,Manhattan Property Management,Dyckman,HSG AST,3,3 ,0 ,041,DYCKMAN,0,3,HSG AST,4.0,HA
+614,Manhattan Property Management,Dyckman,HSG MGR,1,1 ,0 ,041,DYCKMAN,0,1,HSG MGR,1.0,PM
+615,Manhattan Property Management,Dyckman,MAINT WORKER,6,6 ,0 ,041,DYCKMAN,0,6,MAINT WORKER,9.0,MW
+616,Manhattan Property Management,Dyckman,RES BLDG SUPT,1,1 ,0 ,041,DYCKMAN,0,1,RES BLDG SUPT,5.0,SUPER
+617,Manhattan Property Management,Dyckman,SECY,2,1 ,1 ,041,DYCKMAN,1,1,SECY,3.0,SEC
+618,Manhattan Property Management,Dyckman,SUPV HSG CRTKR,1,1 ,0 ,041,DYCKMAN,0,1,SUPV HSG CRTKR,7.0,SOC
+619,Manhattan Property Management,Dyckman,SUPV HSG GDKPR,1,1 ,0 ,041,DYCKMAN,0,1,SUPV HSG GDKPR,8.0,SOG
+620,Manhattan Property Management,Fulton,AST RES BLDG SP,1,1 ,0 ,136,FULTON,0,1,AST RES BLDG SP,6.0,ASUPER
+621,Manhattan Property Management,Fulton,CARETAKER HA,17,16 ,1 ,136,FULTON,1,16,CARETAKER HA,10.0,CT
+622,Manhattan Property Management,Fulton,CLERICAL ASO,1,1 ,0 ,136,FULTON,0,1,CLERICAL ASO,3.0,SEC
+623,Manhattan Property Management,Fulton,HSG AST,2,2 ,0 ,136,FULTON,0,2,HSG AST,4.0,HA
+624,Manhattan Property Management,Fulton,HSG MGR,1,1 ,0 ,136,FULTON,0,1,HSG MGR,1.0,PM
+625,Manhattan Property Management,Fulton,MAINT WORKER,5,4 ,1 ,136,FULTON,1,4,MAINT WORKER,9.0,MW
+626,Manhattan Property Management,Fulton,RES BLDG SUPT,1,1 ,0 ,136,FULTON,0,1,RES BLDG SUPT,5.0,SUPER
+627,Manhattan Property Management,Fulton,SECY,1,1 ,0 ,136,FULTON,0,1,SECY,3.0,SEC
+628,Manhattan Property Management,Fulton,SUPV HSG CRTKR,1,1 ,0 ,136,FULTON,0,1,SUPV HSG CRTKR,7.0,SOC
+629,Manhattan Property Management,Fulton,SUPV HSG GDKPR,1,1 ,0 ,136,FULTON,0,1,SUPV HSG GDKPR,8.0,SOG
+630,Manhattan Property Management,Gompers Consolidated,AST HSG MGR,1,1 ,0 ,100,GOMPERS CONSOLIDATED,0,1,AST HSG MGR,2.0,APM
+631,Manhattan Property Management,Gompers Consolidated,AST RES BLDG SP,2,2 ,0 ,100,GOMPERS CONSOLIDATED,0,2,AST RES BLDG SP,6.0,ASUPER
+632,Manhattan Property Management,Gompers Consolidated,CARETAKER HA,27,23 ,4 ,100,GOMPERS CONSOLIDATED,4,23,CARETAKER HA,10.0,CT
+633,Manhattan Property Management,Gompers Consolidated,CLERICAL ASO,1,1 ,0 ,100,GOMPERS CONSOLIDATED,0,1,CLERICAL ASO,3.0,SEC
+634,Manhattan Property Management,Gompers Consolidated,HSG AST,4,4 ,0 ,100,GOMPERS CONSOLIDATED,0,4,HSG AST,4.0,HA
+635,Manhattan Property Management,Gompers Consolidated,HSG MGR,1,1 ,0 ,100,GOMPERS CONSOLIDATED,0,1,HSG MGR,1.0,PM
+636,Manhattan Property Management,Gompers Consolidated,MAINT WORKER,7,7 ,0 ,100,GOMPERS CONSOLIDATED,0,7,MAINT WORKER,9.0,MW
+637,Manhattan Property Management,Gompers Consolidated,RES BLDG SUPT,1,1 ,0 ,100,GOMPERS CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+638,Manhattan Property Management,Gompers Consolidated,SECY,1,1 ,0 ,100,GOMPERS CONSOLIDATED,0,1,SECY,3.0,SEC
+639,Manhattan Property Management,Gompers Consolidated,SUPV HSG CRTKR,2,2 ,0 ,100,GOMPERS CONSOLIDATED,0,2,SUPV HSG CRTKR,7.0,SOC
+640,Manhattan Property Management,Gompers Consolidated,SUPV HSG GDKPR,1,1 ,0 ,100,GOMPERS CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+641,Manhattan Property Management,Grant,AST HSG MGR,2,2 ,0 ,087,GRANT,0,2,AST HSG MGR,2.0,APM
+642,Manhattan Property Management,Grant,AST RES BLDG SP,2,1 ,1 ,087,GRANT,1,1,AST RES BLDG SP,6.0,ASUPER
+643,Manhattan Property Management,Grant,CARETAKER HA,31,28 ,3 ,087,GRANT,3,28,CARETAKER HA,10.0,CT
+644,Manhattan Property Management,Grant,HSG AST,5,5 ,0 ,087,GRANT,0,5,HSG AST,4.0,HA
+645,Manhattan Property Management,Grant,HSG MGR,1,1 ,0 ,087,GRANT,0,1,HSG MGR,1.0,PM
+646,Manhattan Property Management,Grant,MAINT WORKER,8,8 ,0 ,087,GRANT,0,8,MAINT WORKER,9.0,MW
+647,Manhattan Property Management,Grant,RES BLDG SUPT,1,1 ,0 ,087,GRANT,0,1,RES BLDG SUPT,5.0,SUPER
+648,Manhattan Property Management,Grant,SECY,2,1 ,1 ,087,GRANT,1,1,SECY,3.0,SEC
+649,Manhattan Property Management,Grant,SUPV HSG CRTKR,2,1 ,1 ,087,GRANT,1,1,SUPV HSG CRTKR,7.0,SOC
+650,Manhattan Property Management,Grant,SUPV HSG GDKPR,1,1 ,0 ,087,GRANT,0,1,SUPV HSG GDKPR,8.0,SOG
+651,Manhattan Property Management,Harlem River Consolidated,AST HSG MGR,1,1 ,0 ,003,HARLEM RIVER CONSOLIDATED,0,1,AST HSG MGR,2.0,APM
+652,Manhattan Property Management,Harlem River Consolidated,AST RES BLDG SP,2,2 ,0 ,003,HARLEM RIVER CONSOLIDATED,0,2,AST RES BLDG SP,6.0,ASUPER
+653,Manhattan Property Management,Harlem River Consolidated,CARETAKER HA,23,20 ,3 ,003,HARLEM RIVER CONSOLIDATED,3,20,CARETAKER HA,10.0,CT
+654,Manhattan Property Management,Harlem River Consolidated,HSG AST,3,3 ,0 ,003,HARLEM RIVER CONSOLIDATED,0,3,HSG AST,4.0,HA
+655,Manhattan Property Management,Harlem River Consolidated,HSG MGR,1,1 ,0 ,003,HARLEM RIVER CONSOLIDATED,0,1,HSG MGR,1.0,PM
+656,Manhattan Property Management,Harlem River Consolidated,MAINT WORKER,5,5 ,0 ,003,HARLEM RIVER CONSOLIDATED,0,5,MAINT WORKER,9.0,MW
+657,Manhattan Property Management,Harlem River Consolidated,RES BLDG SUPT,1,1 ,0 ,003,HARLEM RIVER CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+658,Manhattan Property Management,Harlem River Consolidated,SECY,2,1 ,1 ,003,HARLEM RIVER CONSOLIDATED,1,1,SECY,3.0,SEC
+659,Manhattan Property Management,Harlem River Consolidated,SUPV HSG CRTKR,1,1 ,0 ,003,HARLEM RIVER CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+660,Manhattan Property Management,Harlem River Consolidated,SUPV HSG GDKPR,1,1 ,0 ,003,HARLEM RIVER CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+661,Manhattan Property Management,Harlem River Consolidated,SECY WP,0,1 ,(1),003,HARLEM RIVER CONSOLIDATED,-1,1,SECY WP,3.0,SEC
+662,Manhattan Property Management,Isaacs Consolidated,AST HSG MGR,1,1 ,0 ,139,ISAACS CONSOLIDATED,0,1,AST HSG MGR,2.0,APM
+663,Manhattan Property Management,Isaacs Consolidated,AST RES BLDG SP,1,1 ,0 ,139,ISAACS CONSOLIDATED,0,1,AST RES BLDG SP,6.0,ASUPER
+664,Manhattan Property Management,Isaacs Consolidated,CARETAKER HA,23,20 ,3 ,139,ISAACS CONSOLIDATED,3,20,CARETAKER HA,10.0,CT
+665,Manhattan Property Management,Isaacs Consolidated,CHIEF CARETAKER,0,1 ,(1),139,ISAACS CONSOLIDATED,-1,1,CHIEF CARETAKER,10.0,CT
+666,Manhattan Property Management,Isaacs Consolidated,HSG AST,3,3 ,0 ,139,ISAACS CONSOLIDATED,0,3,HSG AST,4.0,HA
+667,Manhattan Property Management,Isaacs Consolidated,HSG MGR,1,1 ,0 ,139,ISAACS CONSOLIDATED,0,1,HSG MGR,1.0,PM
+668,Manhattan Property Management,Isaacs Consolidated,MAINT WORKER,6,5 ,1 ,139,ISAACS CONSOLIDATED,1,5,MAINT WORKER,9.0,MW
+669,Manhattan Property Management,Isaacs Consolidated,RES BLDG SUPT,1,1 ,0 ,139,ISAACS CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+670,Manhattan Property Management,Isaacs Consolidated,SECY,2,2 ,0 ,139,ISAACS CONSOLIDATED,0,2,SECY,3.0,SEC
+671,Manhattan Property Management,Isaacs Consolidated,SUPV HSG CRTKR,1,1 ,0 ,139,ISAACS CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+672,Manhattan Property Management,Isaacs Consolidated,SUPV HSG GDKPR,1,1 ,0 ,139,ISAACS CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+673,Manhattan Property Management,Jackie Robinson Consolidated,AST RES BLDG SP,1,1 ,0 ,241,JACKIE ROBINSON CONSOLIDATED,0,1,AST RES BLDG SP,6.0,ASUPER
+674,Manhattan Property Management,Jackie Robinson Consolidated,CARETAKER HA,13,12 ,1 ,241,JACKIE ROBINSON CONSOLIDATED,1,12,CARETAKER HA,10.0,CT
+675,Manhattan Property Management,Jackie Robinson Consolidated,HSG AST,2,2 ,0 ,241,JACKIE ROBINSON CONSOLIDATED,0,2,HSG AST,4.0,HA
+676,Manhattan Property Management,Jackie Robinson Consolidated,HSG MGR,1,1 ,0 ,241,JACKIE ROBINSON CONSOLIDATED,0,1,HSG MGR,1.0,PM
+677,Manhattan Property Management,Jackie Robinson Consolidated,MAINT WORKER,3,3 ,0 ,241,JACKIE ROBINSON CONSOLIDATED,0,3,MAINT WORKER,9.0,MW
+678,Manhattan Property Management,Jackie Robinson Consolidated,RES BLDG SUPT,1,1 ,0 ,241,JACKIE ROBINSON CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+679,Manhattan Property Management,Jackie Robinson Consolidated,SECY,2,2 ,0 ,241,JACKIE ROBINSON CONSOLIDATED,0,2,SECY,3.0,SEC
+680,Manhattan Property Management,Jackie Robinson Consolidated,SUPV HSG CRTKR,1,1 ,0 ,241,JACKIE ROBINSON CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+681,Manhattan Property Management,Jackie Robinson Consolidated,SUPV HSG GDKPR,1,1 ,0 ,241,JACKIE ROBINSON CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+682,Manhattan Property Management,Johnson,AST HSG MGR,1,1 ,0 ,017,JOHNSON,0,1,AST HSG MGR,2.0,APM
+683,Manhattan Property Management,Johnson,AST RES BLDG SP,1,1 ,0 ,017,JOHNSON,0,1,AST RES BLDG SP,6.0,ASUPER
+684,Manhattan Property Management,Johnson,CARETAKER HA,23,23 ,0 ,017,JOHNSON,0,23,CARETAKER HA,10.0,CT
+685,Manhattan Property Management,Johnson,HSG AST,3,2 ,1 ,017,JOHNSON,1,2,HSG AST,4.0,HA
+686,Manhattan Property Management,Johnson,HSG MGR,1,1 ,0 ,017,JOHNSON,0,1,HSG MGR,1.0,PM
+687,Manhattan Property Management,Johnson,MAINT WORKER,5,5 ,0 ,017,JOHNSON,0,5,MAINT WORKER,9.0,MW
+688,Manhattan Property Management,Johnson,RES BLDG SUPT,1,1 ,0 ,017,JOHNSON,0,1,RES BLDG SUPT,5.0,SUPER
+689,Manhattan Property Management,Johnson,SECY,2,2 ,0 ,017,JOHNSON,0,2,SECY,3.0,SEC
+690,Manhattan Property Management,Johnson,SUPV HSG CRTKR,1,1 ,0 ,017,JOHNSON,0,1,SUPV HSG CRTKR,7.0,SOC
+691,Manhattan Property Management,Johnson,SUPV HSG GDKPR,1,1 ,0 ,017,JOHNSON,0,1,SUPV HSG GDKPR,8.0,SOG
+692,Manhattan Property Management,Kings Tower Consolidated,AST HSG MGR,1,1 ,0 ,030,KING TOWERS CONSOLIDATED,0,1,AST HSG MGR,2.0,APM
+693,Manhattan Property Management,Kings Tower Consolidated,AST RES BLDG SP,2,1 ,1 ,030,KING TOWERS CONSOLIDATED,1,1,AST RES BLDG SP,6.0,ASUPER
+694,Manhattan Property Management,Kings Tower Consolidated,CARETAKER HA,26,22 ,4 ,030,KING TOWERS CONSOLIDATED,4,22,CARETAKER HA,10.0,CT
+695,Manhattan Property Management,Kings Tower Consolidated,HSG AST,4,3 ,1 ,030,KING TOWERS CONSOLIDATED,1,3,HSG AST,4.0,HA
+696,Manhattan Property Management,Kings Tower Consolidated,HSG MGR,1,1 ,0 ,030,KING TOWERS CONSOLIDATED,0,1,HSG MGR,1.0,PM
+697,Manhattan Property Management,Kings Tower Consolidated,MAINT WORKER,7,6 ,1 ,030,KING TOWERS CONSOLIDATED,1,6,MAINT WORKER,9.0,MW
+698,Manhattan Property Management,Kings Tower Consolidated,RES BLDG SUPT,1,1 ,0 ,030,KING TOWERS CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+699,Manhattan Property Management,Kings Tower Consolidated,SECY,2,2 ,0 ,030,KING TOWERS CONSOLIDATED,0,2,SECY,3.0,SEC
+700,Manhattan Property Management,Kings Tower Consolidated,SUPV HSG CRTKR,1,1 ,0 ,030,KING TOWERS CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+701,Manhattan Property Management,Kings Tower Consolidated,SUPV HSG GDKPR,1,1 ,0 ,030,KING TOWERS CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+702,Manhattan Property Management,La Guardia Consolidated,AST HSG MGR,1,1 ,0 ,076,LA GUARDIA CONSOLIDATED,0,1,AST HSG MGR,2.0,APM
+703,Manhattan Property Management,La Guardia Consolidated,AST RES BLDG SP,1,1 ,0 ,076,LA GUARDIA CONSOLIDATED,0,1,AST RES BLDG SP,6.0,ASUPER
+704,Manhattan Property Management,La Guardia Consolidated,CARETAKER HA,26,26 ,0 ,076,LA GUARDIA CONSOLIDATED,0,26,CARETAKER HA,10.0,CT
+705,Manhattan Property Management,La Guardia Consolidated,HSG AST,4,4 ,0 ,076,LA GUARDIA CONSOLIDATED,0,4,HSG AST,4.0,HA
+706,Manhattan Property Management,La Guardia Consolidated,HSG MGR,1,0,1 ,076,LA GUARDIA CONSOLIDATED,1,0,HSG MGR,1.0,PM
+707,Manhattan Property Management,La Guardia Consolidated,MAINT WORKER,6,2 ,4 ,076,LA GUARDIA CONSOLIDATED,4,2,MAINT WORKER,9.0,MW
+708,Manhattan Property Management,La Guardia Consolidated,RES BLDG SUPT,1,1 ,0 ,076,LA GUARDIA CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+709,Manhattan Property Management,La Guardia Consolidated,SECY,2,2 ,0 ,076,LA GUARDIA CONSOLIDATED,0,2,SECY,3.0,SEC
+710,Manhattan Property Management,La Guardia Consolidated,SUPV HSG CRTKR,1,0,1 ,076,LA GUARDIA CONSOLIDATED,1,0,SUPV HSG CRTKR,7.0,SOC
+711,Manhattan Property Management,La Guardia Consolidated,SUPV HSG GDKPR,1,1 ,0 ,076,LA GUARDIA CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+712,Manhattan Property Management,La Guardia Consolidated,ADM MGR-NM,0,1 ,(1),076,LA GUARDIA CONSOLIDATED,-1,1,ADM MGR-NM,1.0,PM
+713,Manhattan Property Management,Lehman,AST RES BLDG SP,1,1 ,0 ,101,LEHMAN VILLAGE,0,1,AST RES BLDG SP,6.0,ASUPER
+714,Manhattan Property Management,Lehman,CARETAKER HA,13,14 ,(1),101,LEHMAN VILLAGE,-1,14,CARETAKER HA,10.0,CT
+715,Manhattan Property Management,Lehman,HSG AST,2,2 ,0 ,101,LEHMAN VILLAGE,0,2,HSG AST,4.0,HA
+716,Manhattan Property Management,Lehman,HSG MGR,1,1 ,0 ,101,LEHMAN VILLAGE,0,1,HSG MGR,1.0,PM
+717,Manhattan Property Management,Lehman,MAINT WORKER,3,3 ,0 ,101,LEHMAN VILLAGE,0,3,MAINT WORKER,9.0,MW
+718,Manhattan Property Management,Lehman,RES BLDG SUPT,1,1 ,0 ,101,LEHMAN VILLAGE,0,1,RES BLDG SUPT,5.0,SUPER
+719,Manhattan Property Management,Lehman,SECY,2,1 ,1 ,101,LEHMAN VILLAGE,1,1,SECY,3.0,SEC
+720,Manhattan Property Management,Lehman,SUPV HSG CRTKR,1,1 ,0 ,101,LEHMAN VILLAGE,0,1,SUPV HSG CRTKR,7.0,SOC
+721,Manhattan Property Management,Lehman,SUPV HSG GDKPR,1,1 ,0 ,101,LEHMAN VILLAGE,0,1,SUPV HSG GDKPR,8.0,SOG
+722,Manhattan Property Management,Lower East Side Consolidated,AST RES BLDG SP,1,0,1 ,337,LOWER EAST SIDE CONSOLIDATED,1,0,AST RES BLDG SP,6.0,ASUPER
+723,Manhattan Property Management,Lower East Side Consolidated,CARETAKER HA,17,15 ,2 ,337,LOWER EAST SIDE CONSOLIDATED,2,15,CARETAKER HA,10.0,CT
+724,Manhattan Property Management,Lower East Side Consolidated,HSG AST,2,1 ,1 ,337,LOWER EAST SIDE CONSOLIDATED,1,1,HSG AST,4.0,HA
+725,Manhattan Property Management,Lower East Side Consolidated,HSG MGR,1,1 ,0 ,337,LOWER EAST SIDE CONSOLIDATED,0,1,HSG MGR,1.0,PM
+726,Manhattan Property Management,Lower East Side Consolidated,MAINT WORKER,4,4 ,0 ,337,LOWER EAST SIDE CONSOLIDATED,0,4,MAINT WORKER,9.0,MW
+727,Manhattan Property Management,Lower East Side Consolidated,RES BLDG SUPT,1,0,1 ,337,LOWER EAST SIDE CONSOLIDATED,1,0,RES BLDG SUPT,5.0,SUPER
+728,Manhattan Property Management,Lower East Side Consolidated,SECY,2,2 ,0 ,337,LOWER EAST SIDE CONSOLIDATED,0,2,SECY,3.0,SEC
+729,Manhattan Property Management,Lower East Side Consolidated,SUPV HSG CRTKR,1,1 ,0 ,337,LOWER EAST SIDE CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+730,Manhattan Property Management,Lower East Side Consolidated,SUPV HSG GDKPR,1,1 ,0 ,337,LOWER EAST SIDE CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+731,Manhattan Property Management,Polo Grounds Tower,AST HSG MGR,1,1 ,0 ,149,POLO GROUNDS TOWERS,0,1,AST HSG MGR,2.0,APM
+732,Manhattan Property Management,Polo Grounds Tower,AST RES BLDG SP,2,2 ,0 ,149,POLO GROUNDS TOWERS,0,2,AST RES BLDG SP,6.0,ASUPER
+733,Manhattan Property Management,Polo Grounds Tower,CARETAKER HA,28,27 ,1 ,149,POLO GROUNDS TOWERS,1,27,CARETAKER HA,10.0,CT
+734,Manhattan Property Management,Polo Grounds Tower,CLERICAL ASO,2,2 ,0 ,149,POLO GROUNDS TOWERS,0,2,CLERICAL ASO,3.0,SEC
+735,Manhattan Property Management,Polo Grounds Tower,HSG AST,4,4 ,0 ,149,POLO GROUNDS TOWERS,0,4,HSG AST,4.0,HA
+736,Manhattan Property Management,Polo Grounds Tower,HSG MGR,1,1 ,0 ,149,POLO GROUNDS TOWERS,0,1,HSG MGR,1.0,PM
+737,Manhattan Property Management,Polo Grounds Tower,MAINT WORKER,7,6 ,1 ,149,POLO GROUNDS TOWERS,1,6,MAINT WORKER,9.0,MW
+738,Manhattan Property Management,Polo Grounds Tower,RES BLDG SUPT,1,1 ,0 ,149,POLO GROUNDS TOWERS,0,1,RES BLDG SUPT,5.0,SUPER
+739,Manhattan Property Management,Polo Grounds Tower,SUPV HSG CRTKR,2,2 ,0 ,149,POLO GROUNDS TOWERS,0,2,SUPV HSG CRTKR,7.0,SOC
+740,Manhattan Property Management,Polo Grounds Tower,SUPV HSG GDKPR,1,1 ,0 ,149,POLO GROUNDS TOWERS,0,1,SUPV HSG GDKPR,8.0,SOG
+741,Manhattan Property Management,Rangel,AST HSG MGR,1,1 ,0 ,037,RANGEL,0,1,AST HSG MGR,2.0,APM
+742,Manhattan Property Management,Rangel,AST RES BLDG SP,1,1 ,0 ,037,RANGEL,0,1,AST RES BLDG SP,6.0,ASUPER
+743,Manhattan Property Management,Rangel,CARETAKER HA,18,16 ,2 ,037,RANGEL,2,16,CARETAKER HA,10.0,CT
+744,Manhattan Property Management,Rangel,HSG AST,2,2 ,0 ,037,RANGEL,0,2,HSG AST,4.0,HA
+745,Manhattan Property Management,Rangel,HSG MGR,1,1 ,0 ,037,RANGEL,0,1,HSG MGR,1.0,PM
+746,Manhattan Property Management,Rangel,MAINT WORKER,4,4 ,0 ,037,RANGEL,0,4,MAINT WORKER,9.0,MW
+747,Manhattan Property Management,Rangel,RES BLDG SUPT,1,0,1 ,037,RANGEL,1,0,RES BLDG SUPT,5.0,SUPER
+748,Manhattan Property Management,Rangel,SECY,2,2 ,0 ,037,RANGEL,0,2,SECY,3.0,SEC
+749,Manhattan Property Management,Rangel,SUPV HSG CRTKR,1,1 ,0 ,037,RANGEL,0,1,SUPV HSG CRTKR,7.0,SOC
+750,Manhattan Property Management,Rangel,SUPV HSG GDKPR,1,1 ,0 ,037,RANGEL,0,1,SUPV HSG GDKPR,8.0,SOG
+751,Manhattan Property Management,Riis Consolidated,AST HSG MGR,1,1 ,0 ,018,RIIS CONSOLIDATED,0,1,AST HSG MGR,2.0,APM
+752,Manhattan Property Management,Riis Consolidated,AST RES BLDG SP,2,1 ,1 ,018,RIIS CONSOLIDATED,1,1,AST RES BLDG SP,6.0,ASUPER
+753,Manhattan Property Management,Riis Consolidated,CARETAKER HA,30,31 ,(1),018,RIIS CONSOLIDATED,-1,31,CARETAKER HA,10.0,CT
+754,Manhattan Property Management,Riis Consolidated,HSG AST,4,3 ,1 ,018,RIIS CONSOLIDATED,1,3,HSG AST,4.0,HA
+755,Manhattan Property Management,Riis Consolidated,HSG MGR,1,1 ,0 ,018,RIIS CONSOLIDATED,0,1,HSG MGR,1.0,PM
+756,Manhattan Property Management,Riis Consolidated,MAINT WORKER,8,7 ,1 ,018,RIIS CONSOLIDATED,1,7,MAINT WORKER,9.0,MW
+757,Manhattan Property Management,Riis Consolidated,RES BLDG SUPT,1,1 ,0 ,018,RIIS CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+758,Manhattan Property Management,Riis Consolidated,SECY,2,2 ,0 ,018,RIIS CONSOLIDATED,0,2,SECY,3.0,SEC
+759,Manhattan Property Management,Riis Consolidated,SUPV HSG CRTKR,2,2 ,0 ,018,RIIS CONSOLIDATED,0,2,SUPV HSG CRTKR,7.0,SOC
+760,Manhattan Property Management,Riis Consolidated,SUPV HSG GDKPR,1,1 ,0 ,018,RIIS CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+761,Manhattan Property Management,Saint Nicholas,AST HSG MGR,1,0,1 ,038,SAINT NICHOLAS,1,0,AST HSG MGR,2.0,APM
+762,Manhattan Property Management,Saint Nicholas,AST RES BLDG SP,2,2 ,0 ,038,SAINT NICHOLAS,0,2,AST RES BLDG SP,6.0,ASUPER
+763,Manhattan Property Management,Saint Nicholas,CARETAKER HA,26,25 ,1 ,038,SAINT NICHOLAS,1,25,CARETAKER HA,10.0,CT
+764,Manhattan Property Management,Saint Nicholas,HSG AST,4,4 ,0 ,038,SAINT NICHOLAS,0,4,HSG AST,4.0,HA
+765,Manhattan Property Management,Saint Nicholas,HSG MGR,1,1 ,0 ,038,SAINT NICHOLAS,0,1,HSG MGR,1.0,PM
+766,Manhattan Property Management,Saint Nicholas,MAINT WORKER,7,5 ,2 ,038,SAINT NICHOLAS,2,5,MAINT WORKER,9.0,MW
+767,Manhattan Property Management,Saint Nicholas,RES BLDG SUPT,1,1 ,0 ,038,SAINT NICHOLAS,0,1,RES BLDG SUPT,5.0,SUPER
+768,Manhattan Property Management,Saint Nicholas,SECY,2,2 ,0 ,038,SAINT NICHOLAS,0,2,SECY,3.0,SEC
+769,Manhattan Property Management,Saint Nicholas,SUPV HSG CRTKR,1,0,1 ,038,SAINT NICHOLAS,1,0,SUPV HSG CRTKR,7.0,SOC
+770,Manhattan Property Management,Saint Nicholas,SUPV HSG GDKPR,1,1 ,0 ,038,SAINT NICHOLAS,0,1,SUPV HSG GDKPR,8.0,SOG
+771,Manhattan Property Management,Smith,AST HSG MGR,2,2 ,0 ,027,SMITH,0,2,AST HSG MGR,2.0,APM
+772,Manhattan Property Management,Smith,AST RES BLDG SP,2,2 ,0 ,027,SMITH,0,2,AST RES BLDG SP,6.0,ASUPER
+773,Manhattan Property Management,Smith,CARETAKER HA,34,32 ,2 ,027,SMITH,2,32,CARETAKER HA,10.0,CT
+774,Manhattan Property Management,Smith,CLERICAL ASO,1,1 ,0 ,027,SMITH,0,1,CLERICAL ASO,3.0,SEC
+775,Manhattan Property Management,Smith,HSG AST,5,4 ,1 ,027,SMITH,1,4,HSG AST,4.0,HA
+776,Manhattan Property Management,Smith,HSG MGR,1,1 ,0 ,027,SMITH,0,1,HSG MGR,1.0,PM
+777,Manhattan Property Management,Smith,MAINT WORKER,9,9 ,0 ,027,SMITH,0,9,MAINT WORKER,9.0,MW
+778,Manhattan Property Management,Smith,RES BLDG SUPT,1,1 ,0 ,027,SMITH,0,1,RES BLDG SUPT,5.0,SUPER
+779,Manhattan Property Management,Smith,SECY,1,1 ,0 ,027,SMITH,0,1,SECY,3.0,SEC
+780,Manhattan Property Management,Smith,SUPV HSG CRTKR,2,2 ,0 ,027,SMITH,0,2,SUPV HSG CRTKR,7.0,SOC
+781,Manhattan Property Management,Smith,SUPV HSG GDKPR,1,1 ,0 ,027,SMITH,0,1,SUPV HSG GDKPR,8.0,SOG
+782,Manhattan Property Management,Taft Consolidated,AST HSG MGR,1,1 ,0 ,097,TAFT CONSOLIDATED,0,1,AST HSG MGR,2.0,APM
+783,Manhattan Property Management,Taft Consolidated,AST RES BLDG SP,2,1 ,1 ,097,TAFT CONSOLIDATED,1,1,AST RES BLDG SP,6.0,ASUPER
+784,Manhattan Property Management,Taft Consolidated,CARETAKER HA,27,28 ,(1),097,TAFT CONSOLIDATED,-1,28,CARETAKER HA,10.0,CT
+785,Manhattan Property Management,Taft Consolidated,HSG AST,4,4 ,0 ,097,TAFT CONSOLIDATED,0,4,HSG AST,4.0,HA
+786,Manhattan Property Management,Taft Consolidated,HSG MGR,1,1 ,0 ,097,TAFT CONSOLIDATED,0,1,HSG MGR,1.0,PM
+787,Manhattan Property Management,Taft Consolidated,MAINT WORKER,8,9 ,(1),097,TAFT CONSOLIDATED,-1,9,MAINT WORKER,9.0,MW
+788,Manhattan Property Management,Taft Consolidated,RES BLDG SUPT,1,1 ,0 ,097,TAFT CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+789,Manhattan Property Management,Taft Consolidated,SECY,2,0,2 ,097,TAFT CONSOLIDATED,2,0,SECY,3.0,SEC
+790,Manhattan Property Management,Taft Consolidated,SUPV HSG CRTKR,1,1 ,0 ,097,TAFT CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+791,Manhattan Property Management,Taft Consolidated,SUPV HSG GDKPR,1,0,1 ,097,TAFT CONSOLIDATED,1,0,SUPV HSG GDKPR,8.0,SOG
+792,Manhattan Property Management,Vladeck Consolidated,AST HSG MGR,1,1 ,0 ,006,VLADECK CONSOLIDATED,0,1,AST HSG MGR,2.0,APM
+793,Manhattan Property Management,Vladeck Consolidated,AST RES BLDG SP,2,2 ,0 ,006,VLADECK CONSOLIDATED,0,2,AST RES BLDG SP,6.0,ASUPER
+794,Manhattan Property Management,Vladeck Consolidated,CARETAKER HA,31,29 ,2 ,006,VLADECK CONSOLIDATED,2,29,CARETAKER HA,10.0,CT
+795,Manhattan Property Management,Vladeck Consolidated,HSG AST,4,4 ,0 ,006,VLADECK CONSOLIDATED,0,4,HSG AST,4.0,HA
+796,Manhattan Property Management,Vladeck Consolidated,HSG MGR,1,1 ,0 ,006,VLADECK CONSOLIDATED,0,1,HSG MGR,1.0,PM
+797,Manhattan Property Management,Vladeck Consolidated,MAINT WORKER,7,6 ,1 ,006,VLADECK CONSOLIDATED,1,6,MAINT WORKER,9.0,MW
+798,Manhattan Property Management,Vladeck Consolidated,RES BLDG SUPT,1,1 ,0 ,006,VLADECK CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+799,Manhattan Property Management,Vladeck Consolidated,SECY,2,1 ,1 ,006,VLADECK CONSOLIDATED,1,1,SECY,3.0,SEC
+800,Manhattan Property Management,Vladeck Consolidated,SUPV HSG CRTKR,1,1 ,0 ,006,VLADECK CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+801,Manhattan Property Management,Vladeck Consolidated,SUPV HSG GDKPR,1,1 ,0 ,006,VLADECK CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+802,Manhattan Property Management,Wald,AST HSG MGR,2,1 ,1 ,023,WALD,1,1,AST HSG MGR,2.0,APM
+803,Manhattan Property Management,Wald,AST RES BLDG SP,2,1 ,1 ,023,WALD,1,1,AST RES BLDG SP,6.0,ASUPER
+804,Manhattan Property Management,Wald,CARETAKER HA,32,30 ,2 ,023,WALD,2,30,CARETAKER HA,10.0,CT
+805,Manhattan Property Management,Wald,HSG AST,5,7 ,(2),023,WALD,-2,7,HSG AST,4.0,HA
+806,Manhattan Property Management,Wald,HSG MGR,1,1 ,0 ,023,WALD,0,1,HSG MGR,1.0,PM
+807,Manhattan Property Management,Wald,MAINT WORKER,7,6 ,1 ,023,WALD,1,6,MAINT WORKER,9.0,MW
+808,Manhattan Property Management,Wald,RES BLDG SUPT,1,0,1 ,023,WALD,1,0,RES BLDG SUPT,5.0,SUPER
+809,Manhattan Property Management,Wald,SECY,2,2 ,0 ,023,WALD,0,2,SECY,3.0,SEC
+810,Manhattan Property Management,Wald,SUPV HSG CRTKR,2,1 ,1 ,023,WALD,1,1,SUPV HSG CRTKR,7.0,SOC
+811,Manhattan Property Management,Wald,SUPV HSG GDKPR,1,1 ,0 ,023,WALD,0,1,SUPV HSG GDKPR,8.0,SOG
+812,Manhattan Property Management,Washington Consolidated,AST HSG MGR,2,2 ,0 ,062,WASHINGTON CONSOLIDATED,0,2,AST HSG MGR,2.0,APM
+813,Manhattan Property Management,Washington Consolidated,AST RES BLDG SP,2,2 ,0 ,062,WASHINGTON CONSOLIDATED,0,2,AST RES BLDG SP,6.0,ASUPER
+814,Manhattan Property Management,Washington Consolidated,CARETAKER HA,35,29 ,6 ,062,WASHINGTON CONSOLIDATED,6,29,CARETAKER HA,10.0,CT
+815,Manhattan Property Management,Washington Consolidated,HSG AST,5,5 ,0 ,062,WASHINGTON CONSOLIDATED,0,5,HSG AST,4.0,HA
+816,Manhattan Property Management,Washington Consolidated,HSG MGR,1,1 ,0 ,062,WASHINGTON CONSOLIDATED,0,1,HSG MGR,1.0,PM
+817,Manhattan Property Management,Washington Consolidated,MAINT WORKER,8,8 ,0 ,062,WASHINGTON CONSOLIDATED,0,8,MAINT WORKER,9.0,MW
+818,Manhattan Property Management,Washington Consolidated,RES BLDG SUPT,1,1 ,0 ,062,WASHINGTON CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+819,Manhattan Property Management,Washington Consolidated,SECY,2,2 ,0 ,062,WASHINGTON CONSOLIDATED,0,2,SECY,3.0,SEC
+820,Manhattan Property Management,Washington Consolidated,SUPV HSG CRTKR,2,2 ,0 ,062,WASHINGTON CONSOLIDATED,0,2,SUPV HSG CRTKR,7.0,SOC
+821,Manhattan Property Management,Washington Consolidated,SUPV HSG GDKPR,1,1 ,0 ,062,WASHINGTON CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+822,Manhattan Property Management,Ft. Washington Consolidated,AST RES BLDG SP,0,1 ,(1),309,FORT WASHINGTON CONSOLIDATED,-1,1,AST RES BLDG SP,6.0,ASUPER
+823,Manhattan Property Management,Ft. Washington Consolidated,CARETAKER HA,0,9 ,(9),309,FORT WASHINGTON CONSOLIDATED,-9,9,CARETAKER HA,10.0,CT
+824,Manhattan Property Management,Ft. Washington Consolidated,HSG AST,0,1 ,(1),309,FORT WASHINGTON CONSOLIDATED,-1,1,HSG AST,4.0,HA
+825,Manhattan Property Management,Ft. Washington Consolidated,HSG MGR,0,1 ,(1),309,FORT WASHINGTON CONSOLIDATED,-1,1,HSG MGR,1.0,PM
+826,Manhattan Property Management,Ft. Washington Consolidated,MAINT WORKER,0,2 ,(2),309,FORT WASHINGTON CONSOLIDATED,-2,2,MAINT WORKER,9.0,MW
+827,Manhattan Property Management,Ft. Washington Consolidated,RES BLDG SUPT,0,1 ,(1),309,FORT WASHINGTON CONSOLIDATED,-1,1,RES BLDG SUPT,5.0,SUPER
+828,Manhattan Property Management,Ft. Washington Consolidated,SECY,0,1 ,(1),309,FORT WASHINGTON CONSOLIDATED,-1,1,SECY,3.0,SEC
+829,Manhattan Property Management,Ft. Washington Consolidated,SUPV HSG CRTKR,0,1 ,(1),309,FORT WASHINGTON CONSOLIDATED,-1,1,SUPV HSG CRTKR,7.0,SOC
+830,Mixed Finance Asset Management,Department of Mixed Finance Asset Management,ADM HSG MGR,3,2 ,1 ,,NO NAME FOUND,1,2,,,
+831,Mixed Finance Asset Management,Department of Mixed Finance Asset Management,ADM HSG SUPT,3,3 ,0 ,,NO NAME FOUND,0,3,,,
+832,Mixed Finance Asset Management,Department of Mixed Finance Asset Management,ADM MANAGER-NM,2,0,2 ,,NO NAME FOUND,2,0,,,
+833,Mixed Finance Asset Management,Department of Mixed Finance Asset Management,BRICKLAYER,8,8 ,0 ,,NO NAME FOUND,0,8,,,
+834,Mixed Finance Asset Management,Department of Mixed Finance Asset Management,CARETAKER HA,39,37 ,2 ,,NO NAME FOUND,2,37,CARETAKER HA,10.0,CT
+835,Mixed Finance Asset Management,Department of Mixed Finance Asset Management,CARPENTER,33,33 ,0 ,,NO NAME FOUND,0,33,,,
+836,Mixed Finance Asset Management,Department of Mixed Finance Asset Management,CLERICAL ASO,3,3 ,0 ,,NO NAME FOUND,0,3,CLERICAL ASO,3.0,SEC
+837,Mixed Finance Asset Management,Department of Mixed Finance Asset Management,COMMUNITY ASO,2,2 ,0 ,,NO NAME FOUND,0,2,,,
+838,Mixed Finance Asset Management,Department of Mixed Finance Asset Management,COMMUNITY COORD,1,1 ,0 ,,NO NAME FOUND,0,1,,,
+839,Mixed Finance Asset Management,Department of Mixed Finance Asset Management,ELECTRCN HELPER,4,1 ,3 ,,NO NAME FOUND,3,1,,,
+840,Mixed Finance Asset Management,Department of Mixed Finance Asset Management,ELECTRICIAN,5,3 ,2 ,,NO NAME FOUND,2,3,,,
+841,Mixed Finance Asset Management,Department of Mixed Finance Asset Management,GLAZIER,3,3 ,0 ,,NO NAME FOUND,0,3,,,
+842,Mixed Finance Asset Management,Department of Mixed Finance Asset Management,HSG AST,8,10 ,(2),,NO NAME FOUND,-2,10,HSG AST,4.0,HA
+843,Mixed Finance Asset Management,Department of Mixed Finance Asset Management,HSG EXTRMNTR,16,12 ,4 ,,NO NAME FOUND,4,12,,,
+844,Mixed Finance Asset Management,Department of Mixed Finance Asset Management,HSNG EXTR AL2&3,1,0,1 ,,NO NAME FOUND,1,0,,,
+845,Mixed Finance Asset Management,Department of Mixed Finance Asset Management,MAINT WORKER,0,2 ,(2),,NO NAME FOUND,-2,2,MAINT WORKER,9.0,MW
+846,Mixed Finance Asset Management,Department of Mixed Finance Asset Management,MASONS HELPER,7,5 ,2 ,,NO NAME FOUND,2,5,,,
+847,Mixed Finance Asset Management,Department of Mixed Finance Asset Management,PAINTER,0,10 ,(10),,NO NAME FOUND,-10,10,,,
+848,Mixed Finance Asset Management,Department of Mixed Finance Asset Management,PLASTERER,38,26 ,12 ,,NO NAME FOUND,12,26,,,
+849,Mixed Finance Asset Management,Department of Mixed Finance Asset Management,PLUMBER,10,10 ,0 ,,NO NAME FOUND,0,10,,,
+850,Mixed Finance Asset Management,Department of Mixed Finance Asset Management,PLUMBERS HELPER,8,2 ,6 ,,NO NAME FOUND,6,2,,,
+851,Mixed Finance Asset Management,Department of Mixed Finance Asset Management,RES BLDG SUPT,3,1 ,2 ,,NO NAME FOUND,2,1,RES BLDG SUPT,5.0,SUPER
+852,Mixed Finance Asset Management,Department of Mixed Finance Asset Management,ROOFER,3,3 ,0 ,,NO NAME FOUND,0,3,,,
+853,Mixed Finance Asset Management,Department of Mixed Finance Asset Management,SECY,3,3 ,0 ,,NO NAME FOUND,0,3,SECY,3.0,SEC
+854,Mixed Finance Asset Management,Department of Mixed Finance Asset Management,SUPV BRICKLAYER,1,1 ,0 ,,NO NAME FOUND,0,1,,,
+855,Mixed Finance Asset Management,Department of Mixed Finance Asset Management,SUPV CARPENTER,2,2 ,0 ,,NO NAME FOUND,0,2,,,
+856,Mixed Finance Asset Management,Department of Mixed Finance Asset Management,SUPV ELECTRCN,1,1 ,0 ,,NO NAME FOUND,0,1,,,
+857,Mixed Finance Asset Management,Department of Mixed Finance Asset Management,SUPV PAINTER,0,5 ,(5),,NO NAME FOUND,-5,5,,,
+858,Mixed Finance Asset Management,Department of Mixed Finance Asset Management,SUPV PLASTERER,4,3 ,1 ,,NO NAME FOUND,1,3,,,
+859,Mixed Finance Asset Management,Department of Mixed Finance Asset Management,SUPV PLUMBER,1,1 ,0 ,,NO NAME FOUND,0,1,,,
+860,Mixed Finance Asset Management,Department of Mixed Finance Asset Management,SUPV ROOFER,1,1 ,0 ,,NO NAME FOUND,0,1,,,
+861,Mixed Finance Asset Management,Department of Mixed Finance Asset Management,ADM MGR-NM,0,2 ,(2),,NO NAME FOUND,-2,2,ADM MGR-NM,1.0,PM
+862,Mixed Finance Asset Management,Department of Mixed Finance Asset Management,HSNG EXTR AL2,0,1 ,(1),,NO NAME FOUND,-1,1,,,
+863,Mixed Finance Conventional,Amsterdam Consolidated,AST HSG MGR,1,1 ,0 ,022,AMSTERDAM CONSOLIDATED,0,1,AST HSG MGR,2.0,APM
+864,Mixed Finance Conventional,Amsterdam Consolidated,AST RES BLDG SP,2,2 ,0 ,022,AMSTERDAM CONSOLIDATED,0,2,AST RES BLDG SP,6.0,ASUPER
+865,Mixed Finance Conventional,Amsterdam Consolidated,CARETAKER HA,29,25 ,4 ,022,AMSTERDAM CONSOLIDATED,4,25,CARETAKER HA,10.0,CT
+866,Mixed Finance Conventional,Amsterdam Consolidated,CLERICAL ASO,1,1 ,0 ,022,AMSTERDAM CONSOLIDATED,0,1,CLERICAL ASO,3.0,SEC
+867,Mixed Finance Conventional,Amsterdam Consolidated,HSG AST,4,3 ,1 ,022,AMSTERDAM CONSOLIDATED,1,3,HSG AST,4.0,HA
+868,Mixed Finance Conventional,Amsterdam Consolidated,HSG MGR,1,1 ,0 ,022,AMSTERDAM CONSOLIDATED,0,1,HSG MGR,1.0,PM
+869,Mixed Finance Conventional,Amsterdam Consolidated,MAINT WORKER,7,8 ,(1),022,AMSTERDAM CONSOLIDATED,-1,8,MAINT WORKER,9.0,MW
+870,Mixed Finance Conventional,Amsterdam Consolidated,RES BLDG SUPT,1,1 ,0 ,022,AMSTERDAM CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+871,Mixed Finance Conventional,Amsterdam Consolidated,SECY,1,1 ,0 ,022,AMSTERDAM CONSOLIDATED,0,1,SECY,3.0,SEC
+872,Mixed Finance Conventional,Amsterdam Consolidated,SUPV HSG CRTKR,2,1 ,1 ,022,AMSTERDAM CONSOLIDATED,1,1,SUPV HSG CRTKR,7.0,SOC
+873,Mixed Finance Conventional,Amsterdam Consolidated,SUPV HSG GDKPR,1,1 ,0 ,022,AMSTERDAM CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+874,Mixed Finance Conventional,Boulevard Consolidated,AST HSG MGR,1,1 ,0 ,046,BOULEVARD CONSOLIDATED,0,1,AST HSG MGR,2.0,APM
+875,Mixed Finance Conventional,Boulevard Consolidated,AST RES BLDG SP,2,2 ,0 ,046,BOULEVARD CONSOLIDATED,0,2,AST RES BLDG SP,6.0,ASUPER
+876,Mixed Finance Conventional,Boulevard Consolidated,CARETAKER HA,28,27 ,1 ,046,BOULEVARD CONSOLIDATED,1,27,CARETAKER HA,10.0,CT
+877,Mixed Finance Conventional,Boulevard Consolidated,HSG AST,4,3 ,1 ,046,BOULEVARD CONSOLIDATED,1,3,HSG AST,4.0,HA
+878,Mixed Finance Conventional,Boulevard Consolidated,HSG MGR,1,1 ,0 ,046,BOULEVARD CONSOLIDATED,0,1,HSG MGR,1.0,PM
+879,Mixed Finance Conventional,Boulevard Consolidated,MAINT WORKER,7,7 ,0 ,046,BOULEVARD CONSOLIDATED,0,7,MAINT WORKER,9.0,MW
+880,Mixed Finance Conventional,Boulevard Consolidated,RES BLDG SUPT,1,1 ,0 ,046,BOULEVARD CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+881,Mixed Finance Conventional,Boulevard Consolidated,SECY,2,2 ,0 ,046,BOULEVARD CONSOLIDATED,0,2,SECY,3.0,SEC
+882,Mixed Finance Conventional,Boulevard Consolidated,SUPV HSG CRTKR,1,1 ,0 ,046,BOULEVARD CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+883,Mixed Finance Conventional,Boulevard Consolidated,SUPV HSG GDKPR,1,1 ,0 ,046,BOULEVARD CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+884,Mixed Finance Conventional,Bushwick Consolidated,AST HSG MGR,1,1 ,0 ,086,BUSHWICK CONSOLIDATED,0,1,AST HSG MGR,2.0,APM
+885,Mixed Finance Conventional,Bushwick Consolidated,AST RES BLDG SP,2,2 ,0 ,086,BUSHWICK CONSOLIDATED,0,2,AST RES BLDG SP,6.0,ASUPER
+886,Mixed Finance Conventional,Bushwick Consolidated,CARETAKER HA,26,28 ,(2),086,BUSHWICK CONSOLIDATED,-2,28,CARETAKER HA,10.0,CT
+887,Mixed Finance Conventional,Bushwick Consolidated,HSG AST,4,4 ,0 ,086,BUSHWICK CONSOLIDATED,0,4,HSG AST,4.0,HA
+888,Mixed Finance Conventional,Bushwick Consolidated,HSG MGR,1,1 ,0 ,086,BUSHWICK CONSOLIDATED,0,1,HSG MGR,1.0,PM
+889,Mixed Finance Conventional,Bushwick Consolidated,MAINT WORKER,6,7 ,(1),086,BUSHWICK CONSOLIDATED,-1,7,MAINT WORKER,9.0,MW
+890,Mixed Finance Conventional,Bushwick Consolidated,RES BLDG SUPT,1,1 ,0 ,086,BUSHWICK CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+891,Mixed Finance Conventional,Bushwick Consolidated,SECY,2,1 ,1 ,086,BUSHWICK CONSOLIDATED,1,1,SECY,3.0,SEC
+892,Mixed Finance Conventional,Bushwick Consolidated,SUPV HSG CRTKR,1,0,1 ,086,BUSHWICK CONSOLIDATED,1,0,SUPV HSG CRTKR,7.0,SOC
+893,Mixed Finance Conventional,Bushwick Consolidated,SUPV HSG GDKPR,1,1 ,0 ,086,BUSHWICK CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+894,Mixed Finance Conventional,Chelsea Consolidated,AST HSG MGR,1,0,1 ,134,CHELSEA CONSOLIDATED,1,0,AST HSG MGR,2.0,APM
+895,Mixed Finance Conventional,Chelsea Consolidated,AST RES BLDG SP,1,1 ,0 ,134,CHELSEA CONSOLIDATED,0,1,AST RES BLDG SP,6.0,ASUPER
+896,Mixed Finance Conventional,Chelsea Consolidated,CARETAKER HA,21,20 ,1 ,134,CHELSEA CONSOLIDATED,1,20,CARETAKER HA,10.0,CT
+897,Mixed Finance Conventional,Chelsea Consolidated,HSG AST,3,2 ,1 ,134,CHELSEA CONSOLIDATED,1,2,HSG AST,4.0,HA
+898,Mixed Finance Conventional,Chelsea Consolidated,HSG MGR,1,1 ,0 ,134,CHELSEA CONSOLIDATED,0,1,HSG MGR,1.0,PM
+899,Mixed Finance Conventional,Chelsea Consolidated,MAINT WORKER,5,6 ,(1),134,CHELSEA CONSOLIDATED,-1,6,MAINT WORKER,9.0,MW
+900,Mixed Finance Conventional,Chelsea Consolidated,RES BLDG SUPT,1,1 ,0 ,134,CHELSEA CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+901,Mixed Finance Conventional,Chelsea Consolidated,SECY,2,2 ,0 ,134,CHELSEA CONSOLIDATED,0,2,SECY,3.0,SEC
+902,Mixed Finance Conventional,Chelsea Consolidated,SUPV HSG CRTKR,1,1 ,0 ,134,CHELSEA CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+903,Mixed Finance Conventional,Chelsea Consolidated,SUPV HSG GDKPR,1,1 ,0 ,134,CHELSEA CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+904,Mixed Finance Conventional,Drew Hamilton Consolidated,AST HSG MGR,1,1 ,0 ,111,DREW-HAMILTON CONSOLIDATED,0,1,AST HSG MGR,2.0,APM
+905,Mixed Finance Conventional,Drew Hamilton Consolidated,AST RES BLDG SP,1,2 ,(1),111,DREW-HAMILTON CONSOLIDATED,-1,2,AST RES BLDG SP,6.0,ASUPER
+906,Mixed Finance Conventional,Drew Hamilton Consolidated,CARETAKER HA,25,26 ,(1),111,DREW-HAMILTON CONSOLIDATED,-1,26,CARETAKER HA,10.0,CT
+907,Mixed Finance Conventional,Drew Hamilton Consolidated,HSG AST,3,3 ,0 ,111,DREW-HAMILTON CONSOLIDATED,0,3,HSG AST,4.0,HA
+908,Mixed Finance Conventional,Drew Hamilton Consolidated,HSG MGR,1,1 ,0 ,111,DREW-HAMILTON CONSOLIDATED,0,1,HSG MGR,1.0,PM
+909,Mixed Finance Conventional,Drew Hamilton Consolidated,MAINT WORKER,6,6 ,0 ,111,DREW-HAMILTON CONSOLIDATED,0,6,MAINT WORKER,9.0,MW
+910,Mixed Finance Conventional,Drew Hamilton Consolidated,RES BLDG SUPT,1,0,1 ,111,DREW-HAMILTON CONSOLIDATED,1,0,RES BLDG SUPT,5.0,SUPER
+911,Mixed Finance Conventional,Drew Hamilton Consolidated,SECY,2,2 ,0 ,111,DREW-HAMILTON CONSOLIDATED,0,2,SECY,3.0,SEC
+912,Mixed Finance Conventional,Drew Hamilton Consolidated,SUPV HSG CRTKR,1,1 ,0 ,111,DREW-HAMILTON CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+913,Mixed Finance Conventional,Drew Hamilton Consolidated,SUPV HSG GDKPR,1,1 ,0 ,111,DREW-HAMILTON CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+914,Mixed Finance Conventional,Manhattanville Consolidated,AST HSG MGR,1,1 ,0 ,081,MANHATTANVILLE CONSOLIDATED,0,1,AST HSG MGR,2.0,APM
+915,Mixed Finance Conventional,Manhattanville Consolidated,AST RES BLDG SP,2,1 ,1 ,081,MANHATTANVILLE CONSOLIDATED,1,1,AST RES BLDG SP,6.0,ASUPER
+916,Mixed Finance Conventional,Manhattanville Consolidated,CARETAKER HA,25,19 ,6 ,081,MANHATTANVILLE CONSOLIDATED,6,19,CARETAKER HA,10.0,CT
+917,Mixed Finance Conventional,Manhattanville Consolidated,HSG AST,3,4 ,(1),081,MANHATTANVILLE CONSOLIDATED,-1,4,HSG AST,4.0,HA
+918,Mixed Finance Conventional,Manhattanville Consolidated,HSG MGR,1,1 ,0 ,081,MANHATTANVILLE CONSOLIDATED,0,1,HSG MGR,1.0,PM
+919,Mixed Finance Conventional,Manhattanville Consolidated,MAINT WORKER,6,5 ,1 ,081,MANHATTANVILLE CONSOLIDATED,1,5,MAINT WORKER,9.0,MW
+920,Mixed Finance Conventional,Manhattanville Consolidated,RES BLDG SUPT,1,1 ,0 ,081,MANHATTANVILLE CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+921,Mixed Finance Conventional,Manhattanville Consolidated,SECY,2,2 ,0 ,081,MANHATTANVILLE CONSOLIDATED,0,2,SECY,3.0,SEC
+922,Mixed Finance Conventional,Manhattanville Consolidated,SUPV HSG CRTKR,1,1 ,0 ,081,MANHATTANVILLE CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+923,Mixed Finance Conventional,Manhattanville Consolidated,SUPV HSG GDKPR,1,1 ,0 ,081,MANHATTANVILLE CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+924,Mixed Finance Conventional,Saint Mary's Park Consolidated,AST HSG MGR,1,1 ,0 ,093,SAINT MARY'S PARK CONSOLIDATED,0,1,AST HSG MGR,2.0,APM
+925,Mixed Finance Conventional,Saint Mary's Park Consolidated,AST RES BLDG SP,2,1 ,1 ,093,SAINT MARY'S PARK CONSOLIDATED,1,1,AST RES BLDG SP,6.0,ASUPER
+926,Mixed Finance Conventional,Saint Mary's Park Consolidated,CARETAKER HA,27,29 ,(2),093,SAINT MARY'S PARK CONSOLIDATED,-2,29,CARETAKER HA,10.0,CT
+927,Mixed Finance Conventional,Saint Mary's Park Consolidated,HSG AST,4,5 ,(1),093,SAINT MARY'S PARK CONSOLIDATED,-1,5,HSG AST,4.0,HA
+928,Mixed Finance Conventional,Saint Mary's Park Consolidated,HSG MGR,1,1 ,0 ,093,SAINT MARY'S PARK CONSOLIDATED,0,1,HSG MGR,1.0,PM
+929,Mixed Finance Conventional,Saint Mary's Park Consolidated,MAINT WORKER,6,5 ,1 ,093,SAINT MARY'S PARK CONSOLIDATED,1,5,MAINT WORKER,9.0,MW
+930,Mixed Finance Conventional,Saint Mary's Park Consolidated,RES BLDG SUPT,1,1 ,0 ,093,SAINT MARY'S PARK CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+931,Mixed Finance Conventional,Saint Mary's Park Consolidated,SECY,2,1 ,1 ,093,SAINT MARY'S PARK CONSOLIDATED,1,1,SECY,3.0,SEC
+932,Mixed Finance Conventional,Saint Mary's Park Consolidated,SUPV HSG CRTKR,1,1 ,0 ,093,SAINT MARY'S PARK CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+933,Mixed Finance Conventional,Saint Mary's Park Consolidated,SUPV HSG GDKPR,1,1 ,0 ,093,SAINT MARY'S PARK CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+934,Mixed Finance Conventional,Straus Consolidated,AST RES BLDG SP,1,1 ,0 ,153,STRAUS CONSOLIDATED,0,1,AST RES BLDG SP,6.0,ASUPER
+935,Mixed Finance Conventional,Straus Consolidated,CARETAKER HA,13,12 ,1 ,153,STRAUS CONSOLIDATED,1,12,CARETAKER HA,10.0,CT
+936,Mixed Finance Conventional,Straus Consolidated,HSG AST,2,2 ,0 ,153,STRAUS CONSOLIDATED,0,2,HSG AST,4.0,HA
+937,Mixed Finance Conventional,Straus Consolidated,HSG MGR,1,1 ,0 ,153,STRAUS CONSOLIDATED,0,1,HSG MGR,1.0,PM
+938,Mixed Finance Conventional,Straus Consolidated,MAINT WORKER,2,3 ,(1),153,STRAUS CONSOLIDATED,-1,3,MAINT WORKER,9.0,MW
+939,Mixed Finance Conventional,Straus Consolidated,RES BLDG SUPT,1,1 ,0 ,153,STRAUS CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+940,Mixed Finance Conventional,Straus Consolidated,SECY,2,1 ,1 ,153,STRAUS CONSOLIDATED,1,1,SECY,3.0,SEC
+941,Mixed Finance Conventional,Straus Consolidated,SUPV HSG CRTKR,1,1 ,0 ,153,STRAUS CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+942,Mixed Finance Conventional,Straus Consolidated,SUPV HSG GDKPR,1,1 ,0 ,153,STRAUS CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+943,Mixed Finance Conventional,Taylor / Wythe Consolidation,AST HSG MGR,0,1 ,(1),234,TAYLOR -WYTHE  CONSOLIDATED,-1,1,AST HSG MGR,2.0,APM
+944,Mixed Finance Conventional,Taylor / Wythe Consolidation,AST RES BLDG SP,1,1 ,0 ,234,TAYLOR -WYTHE  CONSOLIDATED,0,1,AST RES BLDG SP,6.0,ASUPER
+945,Mixed Finance Conventional,Taylor / Wythe Consolidation,CARETAKER HA,11,18 ,(7),234,TAYLOR -WYTHE  CONSOLIDATED,-7,18,CARETAKER HA,10.0,CT
+946,Mixed Finance Conventional,Taylor / Wythe Consolidation,HSG AST,2,2 ,0 ,234,TAYLOR -WYTHE  CONSOLIDATED,0,2,HSG AST,4.0,HA
+947,Mixed Finance Conventional,Taylor / Wythe Consolidation,HSG MGR,1,1 ,0 ,234,TAYLOR -WYTHE  CONSOLIDATED,0,1,HSG MGR,1.0,PM
+948,Mixed Finance Conventional,Taylor / Wythe Consolidation,MAINT WORKER,2,3 ,(1),234,TAYLOR -WYTHE  CONSOLIDATED,-1,3,MAINT WORKER,9.0,MW
+949,Mixed Finance Conventional,Taylor / Wythe Consolidation,RES BLDG SUPT,1,1 ,0 ,234,TAYLOR -WYTHE  CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+950,Mixed Finance Conventional,Taylor / Wythe Consolidation,SECY,2,2 ,0 ,234,TAYLOR -WYTHE  CONSOLIDATED,0,2,SECY,3.0,SEC
+951,Mixed Finance Conventional,Taylor / Wythe Consolidation,SUPV HSG CRTKR,1,1 ,0 ,234,TAYLOR -WYTHE  CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+952,Mixed Finance Conventional,Taylor / Wythe Consolidation,SUPV HSG GDKPR,1,1 ,0 ,234,TAYLOR -WYTHE  CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+953,Mixed Finance Conventional,Wise Towers Consolidated,AST HSG MGR,1,1 ,0 ,127,WISE TOWERS CONSOLIDATED,0,1,AST HSG MGR,2.0,APM
+954,Mixed Finance Conventional,Wise Towers Consolidated,AST RES BLDG SP,2,2 ,0 ,127,WISE TOWERS CONSOLIDATED,0,2,AST RES BLDG SP,6.0,ASUPER
+955,Mixed Finance Conventional,Wise Towers Consolidated,CARETAKER HA,25,22 ,3 ,127,WISE TOWERS CONSOLIDATED,3,22,CARETAKER HA,10.0,CT
+956,Mixed Finance Conventional,Wise Towers Consolidated,HSG AST,3,2 ,1 ,127,WISE TOWERS CONSOLIDATED,1,2,HSG AST,4.0,HA
+957,Mixed Finance Conventional,Wise Towers Consolidated,HSG MGR,1,1 ,0 ,127,WISE TOWERS CONSOLIDATED,0,1,HSG MGR,1.0,PM
+958,Mixed Finance Conventional,Wise Towers Consolidated,MAINT WORKER,6,5 ,1 ,127,WISE TOWERS CONSOLIDATED,1,5,MAINT WORKER,9.0,MW
+959,Mixed Finance Conventional,Wise Towers Consolidated,RES BLDG SUPT,1,1 ,0 ,127,WISE TOWERS CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+960,Mixed Finance Conventional,Wise Towers Consolidated,SECY,2,1 ,1 ,127,WISE TOWERS CONSOLIDATED,1,1,SECY,3.0,SEC
+961,Mixed Finance Conventional,Wise Towers Consolidated,SUPV HSG CRTKR,1,1 ,0 ,127,WISE TOWERS CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+962,Mixed Finance Conventional,Wise Towers Consolidated,SUPV HSG GDKPR,1,1 ,0 ,127,WISE TOWERS CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+963,Next Generation Operations One,Brownsville,AST HSG MGR,1,1 ,0 ,016,BROWNSVILLE,0,1,AST HSG MGR,2.0,APM
+964,Next Generation Operations One,Brownsville,AST RES BLDG SP,2,2 ,0 ,016,BROWNSVILLE,0,2,AST RES BLDG SP,6.0,ASUPER
+965,Next Generation Operations One,Brownsville,CARETAKER HA,25,25 ,0 ,016,BROWNSVILLE,0,25,CARETAKER HA,10.0,CT
+966,Next Generation Operations One,Brownsville,CLERICAL ASO,0,1 ,(1),016,BROWNSVILLE,-1,1,CLERICAL ASO,3.0,SEC
+967,Next Generation Operations One,Brownsville,HSG AST,3,3 ,0 ,016,BROWNSVILLE,0,3,HSG AST,4.0,HA
+968,Next Generation Operations One,Brownsville,HSG MGR,1,1 ,0 ,016,BROWNSVILLE,0,1,HSG MGR,1.0,PM
+969,Next Generation Operations One,Brownsville,MAINT WORKER,6,6 ,0 ,016,BROWNSVILLE,0,6,MAINT WORKER,9.0,MW
+970,Next Generation Operations One,Brownsville,RES BLDG SUPT,1,1 ,0 ,016,BROWNSVILLE,0,1,RES BLDG SUPT,5.0,SUPER
+971,Next Generation Operations One,Brownsville,SECY,2,2 ,0 ,016,BROWNSVILLE,0,2,SECY,3.0,SEC
+972,Next Generation Operations One,Brownsville,SUPV HSG CRTKR,1,1 ,0 ,016,BROWNSVILLE,0,1,SUPV HSG CRTKR,7.0,SOC
+973,Next Generation Operations One,Brownsville,SUPV HSG GDKPR,1,1 ,0 ,016,BROWNSVILLE,0,1,SUPV HSG GDKPR,8.0,SOG
+974,Next Generation Operations One,East River,AST HSG MGR,1,0,1 ,009,EAST RIVER CONSOLIDATED,1,0,AST HSG MGR,2.0,APM
+975,Next Generation Operations One,East River,AST RES BLDG SP,1,1 ,0 ,009,EAST RIVER CONSOLIDATED,0,1,AST RES BLDG SP,6.0,ASUPER
+976,Next Generation Operations One,East River,CARETAKER HA,21,20 ,1 ,009,EAST RIVER CONSOLIDATED,1,20,CARETAKER HA,10.0,CT
+977,Next Generation Operations One,East River,HSG AST,3,3 ,0 ,009,EAST RIVER CONSOLIDATED,0,3,HSG AST,4.0,HA
+978,Next Generation Operations One,East River,HSG MGR,1,1 ,0 ,009,EAST RIVER CONSOLIDATED,0,1,HSG MGR,1.0,PM
+979,Next Generation Operations One,East River,MAINT WORKER,5,5 ,0 ,009,EAST RIVER CONSOLIDATED,0,5,MAINT WORKER,9.0,MW
+980,Next Generation Operations One,East River,RES BLDG SUPT,1,1 ,0 ,009,EAST RIVER CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+981,Next Generation Operations One,East River,SECY,2,2 ,0 ,009,EAST RIVER CONSOLIDATED,0,2,SECY,3.0,SEC
+982,Next Generation Operations One,East River,SUPV HSG CRTKR,1,1 ,0 ,009,EAST RIVER CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+983,Next Generation Operations One,East River,SUPV HSG GDKPR,1,1 ,0 ,009,EAST RIVER CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+984,Next Generation Operations One,Howard,AST RES BLDG SP,1,1 ,0 ,072,HOWARD,0,1,AST RES BLDG SP,6.0,ASUPER
+985,Next Generation Operations One,Howard,CARETAKER HA,16,18 ,(2),072,HOWARD,-2,18,CARETAKER HA,10.0,CT
+986,Next Generation Operations One,Howard,HSG AST,2,2 ,0 ,072,HOWARD,0,2,HSG AST,4.0,HA
+987,Next Generation Operations One,Howard,HSG MGR,1,1 ,0 ,072,HOWARD,0,1,HSG MGR,1.0,PM
+988,Next Generation Operations One,Howard,MAINT WORKER,4,4 ,0 ,072,HOWARD,0,4,MAINT WORKER,9.0,MW
+989,Next Generation Operations One,Howard,RES BLDG SUPT,1,1 ,0 ,072,HOWARD,0,1,RES BLDG SUPT,5.0,SUPER
+990,Next Generation Operations One,Howard,SECY,2,2 ,0 ,072,HOWARD,0,2,SECY,3.0,SEC
+991,Next Generation Operations One,Howard,SUPV HSG CRTKR,1,1 ,0 ,072,HOWARD,0,1,SUPV HSG CRTKR,7.0,SOC
+992,Next Generation Operations One,Howard,SUPV HSG GDKPR,1,1 ,0 ,072,HOWARD,0,1,SUPV HSG GDKPR,8.0,SOG
+993,Next Generation Operations One,Hughes Apts,AST RES BLDG SP,1,1 ,0 ,168,LANGSTON HUGHES CONSOLIDATED,0,1,AST RES BLDG SP,6.0,ASUPER
+994,Next Generation Operations One,Hughes Apts,CARETAKER HA,13,15 ,(2),168,LANGSTON HUGHES CONSOLIDATED,-2,15,CARETAKER HA,10.0,CT
+995,Next Generation Operations One,Hughes Apts,HSG AST,2,2 ,0 ,168,LANGSTON HUGHES CONSOLIDATED,0,2,HSG AST,4.0,HA
+996,Next Generation Operations One,Hughes Apts,HSG MGR,1,1 ,0 ,168,LANGSTON HUGHES CONSOLIDATED,0,1,HSG MGR,1.0,PM
+997,Next Generation Operations One,Hughes Apts,MAINT WORKER,2,1 ,1 ,168,LANGSTON HUGHES CONSOLIDATED,1,1,MAINT WORKER,9.0,MW
+998,Next Generation Operations One,Hughes Apts,RES BLDG SUPT,1,1 ,0 ,168,LANGSTON HUGHES CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+999,Next Generation Operations One,Hughes Apts,SECY,2,2 ,0 ,168,LANGSTON HUGHES CONSOLIDATED,0,2,SECY,3.0,SEC
+1000,Next Generation Operations One,Hughes Apts,SUPV HSG CRTKR,1,1 ,0 ,168,LANGSTON HUGHES CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+1001,Next Generation Operations One,Hughes Apts,SUPV HSG GDKPR,1,1 ,0 ,168,LANGSTON HUGHES CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+1002,Next Generation Operations One,Jefferson Consolidated,AST HSG MGR,1,1 ,0 ,064,JEFFERSON CONSOLIDATED,0,1,AST HSG MGR,2.0,APM
+1003,Next Generation Operations One,Jefferson Consolidated,AST RES BLDG SP,2,2 ,0 ,064,JEFFERSON CONSOLIDATED,0,2,AST RES BLDG SP,6.0,ASUPER
+1004,Next Generation Operations One,Jefferson Consolidated,CARETAKER HA,30,28 ,2 ,064,JEFFERSON CONSOLIDATED,2,28,CARETAKER HA,10.0,CT
+1005,Next Generation Operations One,Jefferson Consolidated,HSG AST,4,3 ,1 ,064,JEFFERSON CONSOLIDATED,1,3,HSG AST,4.0,HA
+1006,Next Generation Operations One,Jefferson Consolidated,HSG MGR,1,0,1 ,064,JEFFERSON CONSOLIDATED,1,0,HSG MGR,1.0,PM
+1007,Next Generation Operations One,Jefferson Consolidated,MAINT WORKER,8,9 ,(1),064,JEFFERSON CONSOLIDATED,-1,9,MAINT WORKER,9.0,MW
+1008,Next Generation Operations One,Jefferson Consolidated,RES BLDG SUPT,1,1 ,0 ,064,JEFFERSON CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+1009,Next Generation Operations One,Jefferson Consolidated,SECY,2,1 ,1 ,064,JEFFERSON CONSOLIDATED,1,1,SECY,3.0,SEC
+1010,Next Generation Operations One,Jefferson Consolidated,SUPV HSG CRTKR,2,2 ,0 ,064,JEFFERSON CONSOLIDATED,0,2,SUPV HSG CRTKR,7.0,SOC
+1011,Next Generation Operations One,Jefferson Consolidated,SUPV HSG GDKPR,1,1 ,0 ,064,JEFFERSON CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+1012,Next Generation Operations One,Lincoln,AST HSG MGR,1,1 ,0 ,020,LINCOLN,0,1,AST HSG MGR,2.0,APM
+1013,Next Generation Operations One,Lincoln,AST RES BLDG SP,1,1 ,0 ,020,LINCOLN,0,1,AST RES BLDG SP,6.0,ASUPER
+1014,Next Generation Operations One,Lincoln,CARETAKER HA,23,21 ,2 ,020,LINCOLN,2,21,CARETAKER HA,10.0,CT
+1015,Next Generation Operations One,Lincoln,HSG AST,3,3 ,0 ,020,LINCOLN,0,3,HSG AST,4.0,HA
+1016,Next Generation Operations One,Lincoln,HSG MGR,1,1 ,0 ,020,LINCOLN,0,1,HSG MGR,1.0,PM
+1017,Next Generation Operations One,Lincoln,MAINT WORKER,6,4 ,2 ,020,LINCOLN,2,4,MAINT WORKER,9.0,MW
+1018,Next Generation Operations One,Lincoln,RES BLDG SUPT,1,1 ,0 ,020,LINCOLN,0,1,RES BLDG SUPT,5.0,SUPER
+1019,Next Generation Operations One,Lincoln,SECY,2,2 ,0 ,020,LINCOLN,0,2,SECY,3.0,SEC
+1020,Next Generation Operations One,Lincoln,SUPV HSG CRTKR,1,1 ,0 ,020,LINCOLN,0,1,SUPV HSG CRTKR,7.0,SOC
+1021,Next Generation Operations One,Lincoln,SUPV HSG GDKPR,1,1 ,0 ,020,LINCOLN,0,1,SUPV HSG GDKPR,8.0,SOG
+1022,Next Generation Operations One,Melrose Consolidated,AST HSG MGR,1,1 ,0 ,028,MELROSE CONSOLIDATED,0,1,AST HSG MGR,2.0,APM
+1023,Next Generation Operations One,Melrose Consolidated,AST RES BLDG SP,1,1 ,0 ,028,MELROSE CONSOLIDATED,0,1,AST RES BLDG SP,6.0,ASUPER
+1024,Next Generation Operations One,Melrose Consolidated,CARETAKER HA,22,24 ,(2),028,MELROSE CONSOLIDATED,-2,24,CARETAKER HA,10.0,CT
+1025,Next Generation Operations One,Melrose Consolidated,HSG AST,3,3 ,0 ,028,MELROSE CONSOLIDATED,0,3,HSG AST,4.0,HA
+1026,Next Generation Operations One,Melrose Consolidated,HSG MGR,1,1 ,0 ,028,MELROSE CONSOLIDATED,0,1,HSG MGR,1.0,PM
+1027,Next Generation Operations One,Melrose Consolidated,MAINT WORKER,5,5 ,0 ,028,MELROSE CONSOLIDATED,0,5,MAINT WORKER,9.0,MW
+1028,Next Generation Operations One,Melrose Consolidated,RES BLDG SUPT,1,1 ,0 ,028,MELROSE CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+1029,Next Generation Operations One,Melrose Consolidated,SECY,2,2 ,0 ,028,MELROSE CONSOLIDATED,0,2,SECY,3.0,SEC
+1030,Next Generation Operations One,Melrose Consolidated,SUPV HSG CRTKR,1,1 ,0 ,028,MELROSE CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+1031,Next Generation Operations One,Melrose Consolidated,SUPV HSG GDKPR,1,1 ,0 ,028,MELROSE CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+1032,Next Generation Operations One,Mill Brook Consolidated,AST HSG MGR,1,1 ,0 ,084,MILL BROOK CONSOLIDATED,0,1,AST HSG MGR,2.0,APM
+1033,Next Generation Operations One,Mill Brook Consolidated,AST RES BLDG SP,2,1 ,1 ,084,MILL BROOK CONSOLIDATED,1,1,AST RES BLDG SP,6.0,ASUPER
+1034,Next Generation Operations One,Mill Brook Consolidated,CARETAKER HA,25,24 ,1 ,084,MILL BROOK CONSOLIDATED,1,24,CARETAKER HA,10.0,CT
+1035,Next Generation Operations One,Mill Brook Consolidated,CLERICAL ASO,1,1 ,0 ,084,MILL BROOK CONSOLIDATED,0,1,CLERICAL ASO,3.0,SEC
+1036,Next Generation Operations One,Mill Brook Consolidated,HSG AST,3,2 ,1 ,084,MILL BROOK CONSOLIDATED,1,2,HSG AST,4.0,HA
+1037,Next Generation Operations One,Mill Brook Consolidated,HSG MGR,1,1 ,0 ,084,MILL BROOK CONSOLIDATED,0,1,HSG MGR,1.0,PM
+1038,Next Generation Operations One,Mill Brook Consolidated,MAINT WORKER,6,5 ,1 ,084,MILL BROOK CONSOLIDATED,1,5,MAINT WORKER,9.0,MW
+1039,Next Generation Operations One,Mill Brook Consolidated,RES BLDG SUPT,1,1 ,0 ,084,MILL BROOK CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+1040,Next Generation Operations One,Mill Brook Consolidated,SECY,1,1 ,0 ,084,MILL BROOK CONSOLIDATED,0,1,SECY,3.0,SEC
+1041,Next Generation Operations One,Mill Brook Consolidated,SUPV HSG CRTKR,2,2 ,0 ,084,MILL BROOK CONSOLIDATED,0,2,SUPV HSG CRTKR,7.0,SOC
+1042,Next Generation Operations One,Mill Brook Consolidated,SUPV HSG GDKPR,1,1 ,0 ,084,MILL BROOK CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+1043,Next Generation Operations One,Mitchel Consolidated,AST HSG MGR,1,2 ,(1),145,MITCHEL CONSOLIDATED,-1,2,AST HSG MGR,2.0,APM
+1044,Next Generation Operations One,Mitchel Consolidated,AST RES BLDG SP,2,2 ,0 ,145,MITCHEL CONSOLIDATED,0,2,AST RES BLDG SP,6.0,ASUPER
+1045,Next Generation Operations One,Mitchel Consolidated,CARETAKER HA,30,25 ,5 ,145,MITCHEL CONSOLIDATED,5,25,CARETAKER HA,10.0,CT
+1046,Next Generation Operations One,Mitchel Consolidated,CHIEF CARETAKER,0,1 ,(1),145,MITCHEL CONSOLIDATED,-1,1,CHIEF CARETAKER,10.0,CT
+1047,Next Generation Operations One,Mitchel Consolidated,CLERICAL ASO,1,1 ,0 ,145,MITCHEL CONSOLIDATED,0,1,CLERICAL ASO,3.0,SEC
+1048,Next Generation Operations One,Mitchel Consolidated,HSG AST,4,4 ,0 ,145,MITCHEL CONSOLIDATED,0,4,HSG AST,4.0,HA
+1049,Next Generation Operations One,Mitchel Consolidated,HSG MGR,1,1 ,0 ,145,MITCHEL CONSOLIDATED,0,1,HSG MGR,1.0,PM
+1050,Next Generation Operations One,Mitchel Consolidated,MAINT WORKER,8,7 ,1 ,145,MITCHEL CONSOLIDATED,1,7,MAINT WORKER,9.0,MW
+1051,Next Generation Operations One,Mitchel Consolidated,RES BLDG SUPT,1,1 ,0 ,145,MITCHEL CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+1052,Next Generation Operations One,Mitchel Consolidated,SECY,1,1 ,0 ,145,MITCHEL CONSOLIDATED,0,1,SECY,3.0,SEC
+1053,Next Generation Operations One,Mitchel Consolidated,SUPV HSG CRTKR,2,2 ,0 ,145,MITCHEL CONSOLIDATED,0,2,SUPV HSG CRTKR,7.0,SOC
+1054,Next Generation Operations One,Mitchel Consolidated,SUPV HSG GDKPR,1,1 ,0 ,145,MITCHEL CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+1055,Next Generation Operations One,Mott Haven,AST RES BLDG SP,1,0,1 ,121,MOTT HAVEN,1,0,AST RES BLDG SP,6.0,ASUPER
+1056,Next Generation Operations One,Mott Haven,CARETAKER HA,19,20 ,(1),121,MOTT HAVEN,-1,20,CARETAKER HA,10.0,CT
+1057,Next Generation Operations One,Mott Haven,HSG AST,2,2 ,0 ,121,MOTT HAVEN,0,2,HSG AST,4.0,HA
+1058,Next Generation Operations One,Mott Haven,HSG MGR,1,1 ,0 ,121,MOTT HAVEN,0,1,HSG MGR,1.0,PM
+1059,Next Generation Operations One,Mott Haven,MAINT WORKER,4,4 ,0 ,121,MOTT HAVEN,0,4,MAINT WORKER,9.0,MW
+1060,Next Generation Operations One,Mott Haven,RES BLDG SUPT,1,1 ,0 ,121,MOTT HAVEN,0,1,RES BLDG SUPT,5.0,SUPER
+1061,Next Generation Operations One,Mott Haven,SECY,2,2 ,0 ,121,MOTT HAVEN,0,2,SECY,3.0,SEC
+1062,Next Generation Operations One,Mott Haven,SUPV HSG CRTKR,1,0,1 ,121,MOTT HAVEN,1,0,SUPV HSG CRTKR,7.0,SOC
+1063,Next Generation Operations One,Mott Haven,SUPV HSG GDKPR,1,1 ,0 ,121,MOTT HAVEN,0,1,SUPV HSG GDKPR,8.0,SOG
+1064,Next Generation Operations One,Patterson,AST HSG MGR,2,2 ,0 ,024,PATTERSON,0,2,AST HSG MGR,2.0,APM
+1065,Next Generation Operations One,Patterson,AST RES BLDG SP,2,1 ,1 ,024,PATTERSON,1,1,AST RES BLDG SP,6.0,ASUPER
+1066,Next Generation Operations One,Patterson,CARETAKER HA,31,28 ,3 ,024,PATTERSON,3,28,CARETAKER HA,10.0,CT
+1067,Next Generation Operations One,Patterson,HSG AST,4,3 ,1 ,024,PATTERSON,1,3,HSG AST,4.0,HA
+1068,Next Generation Operations One,Patterson,HSG MGR,1,1 ,0 ,024,PATTERSON,0,1,HSG MGR,1.0,PM
+1069,Next Generation Operations One,Patterson,MAINT WORKER,8,7 ,1 ,024,PATTERSON,1,7,MAINT WORKER,9.0,MW
+1070,Next Generation Operations One,Patterson,RES BLDG SUPT,1,1 ,0 ,024,PATTERSON,0,1,RES BLDG SUPT,5.0,SUPER
+1071,Next Generation Operations One,Patterson,SECY,2,1 ,1 ,024,PATTERSON,1,1,SECY,3.0,SEC
+1072,Next Generation Operations One,Patterson,SUPV HSG CRTKR,2,2 ,0 ,024,PATTERSON,0,2,SUPV HSG CRTKR,7.0,SOC
+1073,Next Generation Operations One,Patterson,SUPV HSG GDKPR,1,1 ,0 ,024,PATTERSON,0,1,SUPV HSG GDKPR,8.0,SOG
+1074,Next Generation Operations One,Seth Low Consolidation,AST HSG MGR,0,1 ,(1),169,SETH LOW CONSOLIDATED,-1,1,AST HSG MGR,2.0,APM
+1075,Next Generation Operations One,Seth Low Consolidation,AST RES BLDG SP,1,1 ,0 ,169,SETH LOW CONSOLIDATED,0,1,AST RES BLDG SP,6.0,ASUPER
+1076,Next Generation Operations One,Seth Low Consolidation,CARETAKER HA,18,15 ,3 ,169,SETH LOW CONSOLIDATED,3,15,CARETAKER HA,10.0,CT
+1077,Next Generation Operations One,Seth Low Consolidation,HSG AST,2,2 ,0 ,169,SETH LOW CONSOLIDATED,0,2,HSG AST,4.0,HA
+1078,Next Generation Operations One,Seth Low Consolidation,HSG MGR,1,0,1 ,169,SETH LOW CONSOLIDATED,1,0,HSG MGR,1.0,PM
+1079,Next Generation Operations One,Seth Low Consolidation,MAINT WORKER,4,4 ,0 ,169,SETH LOW CONSOLIDATED,0,4,MAINT WORKER,9.0,MW
+1080,Next Generation Operations One,Seth Low Consolidation,RES BLDG SUPT,1,0,1 ,169,SETH LOW CONSOLIDATED,1,0,RES BLDG SUPT,5.0,SUPER
+1081,Next Generation Operations One,Seth Low Consolidation,SECY,2,1 ,1 ,169,SETH LOW CONSOLIDATED,1,1,SECY,3.0,SEC
+1082,Next Generation Operations One,Seth Low Consolidation,SUPV HSG CRTKR,1,1 ,0 ,169,SETH LOW CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+1083,Next Generation Operations One,Seth Low Consolidation,SUPV HSG GDKPR,1,1 ,0 ,169,SETH LOW CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+1084,Next Generation Operations One,Seth Low Consolidation,ADM MGR-NM,0,1 ,(1),169,SETH LOW CONSOLIDATED,-1,1,ADM MGR-NM,1.0,PM
+1085,Next Generation Operations One,Tilden,AST RES BLDG SP,1,0,1 ,096,TILDEN,1,0,AST RES BLDG SP,6.0,ASUPER
+1086,Next Generation Operations One,Tilden,CARETAKER HA,19,18 ,1 ,096,TILDEN,1,18,CARETAKER HA,10.0,CT
+1087,Next Generation Operations One,Tilden,HSG AST,2,2 ,0 ,096,TILDEN,0,2,HSG AST,4.0,HA
+1088,Next Generation Operations One,Tilden,HSG MGR,1,1 ,0 ,096,TILDEN,0,1,HSG MGR,1.0,PM
+1089,Next Generation Operations One,Tilden,MAINT WORKER,4,5 ,(1),096,TILDEN,-1,5,MAINT WORKER,9.0,MW
+1090,Next Generation Operations One,Tilden,RES BLDG SUPT,1,1 ,0 ,096,TILDEN,0,1,RES BLDG SUPT,5.0,SUPER
+1091,Next Generation Operations One,Tilden,SECY,2,2 ,0 ,096,TILDEN,0,2,SECY,3.0,SEC
+1092,Next Generation Operations One,Tilden,SUPV HSG CRTKR,1,1 ,0 ,096,TILDEN,0,1,SUPV HSG CRTKR,7.0,SOC
+1093,Next Generation Operations One,Tilden,SUPV HSG GDKPR,1,1 ,0 ,096,TILDEN,0,1,SUPV HSG GDKPR,8.0,SOG
+1094,Next Generation Operations One,Unity Plaza Consolidated,AST HSG MGR,1,1 ,0 ,261,UNITY PLAZA CONSOLIDATED,0,1,AST HSG MGR,2.0,APM
+1095,Next Generation Operations One,Unity Plaza Consolidated,AST RES BLDG SP,1,1 ,0 ,261,UNITY PLAZA CONSOLIDATED,0,1,AST RES BLDG SP,6.0,ASUPER
+1096,Next Generation Operations One,Unity Plaza Consolidated,CARETAKER HA,19,21 ,(2),261,UNITY PLAZA CONSOLIDATED,-2,21,CARETAKER HA,10.0,CT
+1097,Next Generation Operations One,Unity Plaza Consolidated,CLERICAL ASO,1,0,1 ,261,UNITY PLAZA CONSOLIDATED,1,0,CLERICAL ASO,3.0,SEC
+1098,Next Generation Operations One,Unity Plaza Consolidated,HSG AST,3,3 ,0 ,261,UNITY PLAZA CONSOLIDATED,0,3,HSG AST,4.0,HA
+1099,Next Generation Operations One,Unity Plaza Consolidated,HSG MGR,1,1 ,0 ,261,UNITY PLAZA CONSOLIDATED,0,1,HSG MGR,1.0,PM
+1100,Next Generation Operations One,Unity Plaza Consolidated,MAINT WORKER,4,5 ,(1),261,UNITY PLAZA CONSOLIDATED,-1,5,MAINT WORKER,9.0,MW
+1101,Next Generation Operations One,Unity Plaza Consolidated,RES BLDG SUPT,1,1 ,0 ,261,UNITY PLAZA CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+1102,Next Generation Operations One,Unity Plaza Consolidated,SECY,1,1 ,0 ,261,UNITY PLAZA CONSOLIDATED,0,1,SECY,3.0,SEC
+1103,Next Generation Operations One,Unity Plaza Consolidated,SUPV HSG CRTKR,1,1 ,0 ,261,UNITY PLAZA CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+1104,Next Generation Operations One,Unity Plaza Consolidated,SUPV HSG GDKPR,1,1 ,0 ,261,UNITY PLAZA CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+1105,Next Generation Operations One,Van Dyke I,AST HSG MGR,1,1 ,0 ,061,VAN DYKE I,0,1,AST HSG MGR,2.0,APM
+1106,Next Generation Operations One,Van Dyke I,AST RES BLDG SP,2,2 ,0 ,061,VAN DYKE I,0,2,AST RES BLDG SP,6.0,ASUPER
+1107,Next Generation Operations One,Van Dyke I,CARETAKER HA,29,28 ,1 ,061,VAN DYKE I,1,28,CARETAKER HA,10.0,CT
+1108,Next Generation Operations One,Van Dyke I,CITY ATTENDANT,1,1 ,0 ,061,VAN DYKE I,0,1,CITY ATTENDANT,3.0,SEC
+1109,Next Generation Operations One,Van Dyke I,HSG AST,4,4 ,0 ,061,VAN DYKE I,0,4,HSG AST,4.0,HA
+1110,Next Generation Operations One,Van Dyke I,HSG MGR,1,1 ,0 ,061,VAN DYKE I,0,1,HSG MGR,1.0,PM
+1111,Next Generation Operations One,Van Dyke I,MAINT WORKER,7,7 ,0 ,061,VAN DYKE I,0,7,MAINT WORKER,9.0,MW
+1112,Next Generation Operations One,Van Dyke I,RES BLDG SUPT,1,1 ,0 ,061,VAN DYKE I,0,1,RES BLDG SUPT,5.0,SUPER
+1113,Next Generation Operations One,Van Dyke I,SECY,2,2 ,0 ,061,VAN DYKE I,0,2,SECY,3.0,SEC
+1114,Next Generation Operations One,Van Dyke I,SUPV HSG CRTKR,2,2 ,0 ,061,VAN DYKE I,0,2,SUPV HSG CRTKR,7.0,SOC
+1115,Next Generation Operations One,Van Dyke I,SUPV HSG GDKPR,1,1 ,0 ,061,VAN DYKE I,0,1,SUPV HSG GDKPR,8.0,SOG
+1116,Next Generation Operations One,Wagner Consolidated,AST HSG MGR,2,2 ,0 ,074,WAGNER CONSOLIDATED,0,2,AST HSG MGR,2.0,APM
+1117,Next Generation Operations One,Wagner Consolidated,AST RES BLDG SP,2,2 ,0 ,074,WAGNER CONSOLIDATED,0,2,AST RES BLDG SP,6.0,ASUPER
+1118,Next Generation Operations One,Wagner Consolidated,CARETAKER HA,38,36 ,2 ,074,WAGNER CONSOLIDATED,2,36,CARETAKER HA,10.0,CT
+1119,Next Generation Operations One,Wagner Consolidated,HSG AST,5,3 ,2 ,074,WAGNER CONSOLIDATED,2,3,HSG AST,4.0,HA
+1120,Next Generation Operations One,Wagner Consolidated,HSG MGR,1,1 ,0 ,074,WAGNER CONSOLIDATED,0,1,HSG MGR,1.0,PM
+1121,Next Generation Operations One,Wagner Consolidated,MAINT WORKER,9,8 ,1 ,074,WAGNER CONSOLIDATED,1,8,MAINT WORKER,9.0,MW
+1122,Next Generation Operations One,Wagner Consolidated,RES BLDG SUPT,1,1 ,0 ,074,WAGNER CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+1123,Next Generation Operations One,Wagner Consolidated,SECY,3,2 ,1 ,074,WAGNER CONSOLIDATED,1,2,SECY,3.0,SEC
+1124,Next Generation Operations One,Wagner Consolidated,SUPV HSG CRTKR,2,2 ,0 ,074,WAGNER CONSOLIDATED,0,2,SUPV HSG CRTKR,7.0,SOC
+1125,Next Generation Operations One,Wagner Consolidated,SUPV HSG GDKPR,1,1 ,0 ,074,WAGNER CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+1126,Next Generation Operations One,Wilson Consolidated,AST RES BLDG SP,1,1 ,0 ,112,WILSON,0,1,AST RES BLDG SP,6.0,ASUPER
+1127,Next Generation Operations One,Wilson Consolidated,CARETAKER HA,17,18 ,(1),112,WILSON,-1,18,CARETAKER HA,10.0,CT
+1128,Next Generation Operations One,Wilson Consolidated,HSG AST,2,2 ,0 ,112,WILSON,0,2,HSG AST,4.0,HA
+1129,Next Generation Operations One,Wilson Consolidated,HSG MGR,1,1 ,0 ,112,WILSON,0,1,HSG MGR,1.0,PM
+1130,Next Generation Operations One,Wilson Consolidated,MAINT WORKER,4,3 ,1 ,112,WILSON,1,3,MAINT WORKER,9.0,MW
+1131,Next Generation Operations One,Wilson Consolidated,RES BLDG SUPT,1,1 ,0 ,112,WILSON,0,1,RES BLDG SUPT,5.0,SUPER
+1132,Next Generation Operations One,Wilson Consolidated,SECY,2,2 ,0 ,112,WILSON,0,2,SECY,3.0,SEC
+1133,Next Generation Operations One,Wilson Consolidated,SUPV HSG CRTKR,1,1 ,0 ,112,WILSON,0,1,SUPV HSG CRTKR,7.0,SOC
+1134,Next Generation Operations One,Wilson Consolidated,SUPV HSG GDKPR,1,1 ,0 ,112,WILSON,0,1,SUPV HSG GDKPR,8.0,SOG
+1135,Next Generation Operations One,Woodson Consolidated,AST RES BLDG SP,1,1 ,0 ,182,WOODSON,0,1,AST RES BLDG SP,6.0,ASUPER
+1136,Next Generation Operations One,Woodson Consolidated,CARETAKER HA,13,13 ,0 ,182,WOODSON,0,13,CARETAKER HA,10.0,CT
+1137,Next Generation Operations One,Woodson Consolidated,HSG AST,2,2 ,0 ,182,WOODSON,0,2,HSG AST,4.0,HA
+1138,Next Generation Operations One,Woodson Consolidated,HSG MGR,1,1 ,0 ,182,WOODSON,0,1,HSG MGR,1.0,PM
+1139,Next Generation Operations One,Woodson Consolidated,MAINT WORKER,2,2 ,0 ,182,WOODSON,0,2,MAINT WORKER,9.0,MW
+1140,Next Generation Operations One,Woodson Consolidated,RES BLDG SUPT,1,1 ,0 ,182,WOODSON,0,1,RES BLDG SUPT,5.0,SUPER
+1141,Next Generation Operations One,Woodson Consolidated,SECY,2,2 ,0 ,182,WOODSON,0,2,SECY,3.0,SEC
+1142,Next Generation Operations One,Woodson Consolidated,SUPV HSG CRTKR,1,1 ,0 ,182,WOODSON,0,1,SUPV HSG CRTKR,7.0,SOC
+1143,Next Generation Operations One,Woodson Consolidated,SUPV HSG GDKPR,1,1 ,0 ,182,WOODSON,0,1,SUPV HSG GDKPR,8.0,SOG
+1144,Non-Tax Credit LLC,Linden,AST HSG MGR,1,1 ,0 ,095,LINDEN,0,1,AST HSG MGR,2.0,APM
+1145,Non-Tax Credit LLC,Linden,AST RES BLDG SP,2,2 ,0 ,095,LINDEN,0,2,AST RES BLDG SP,6.0,ASUPER
+1146,Non-Tax Credit LLC,Linden,CARETAKER HA,29,29 ,0 ,095,LINDEN,0,29,CARETAKER HA,10.0,CT
+1147,Non-Tax Credit LLC,Linden,HSG AST,4,4 ,0 ,095,LINDEN,0,4,HSG AST,4.0,HA
+1148,Non-Tax Credit LLC,Linden,HSG MGR,1,1 ,0 ,095,LINDEN,0,1,HSG MGR,1.0,PM
+1149,Non-Tax Credit LLC,Linden,MAINT WORKER,7,6 ,1 ,095,LINDEN,1,6,MAINT WORKER,9.0,MW
+1150,Non-Tax Credit LLC,Linden,RES BLDG SUPT,1,1 ,0 ,095,LINDEN,0,1,RES BLDG SUPT,5.0,SUPER
+1151,Non-Tax Credit LLC,Linden,SECY,2,2 ,0 ,095,LINDEN,0,2,SECY,3.0,SEC
+1152,Non-Tax Credit LLC,Linden,SUPV HSG CRTKR,1,1 ,0 ,095,LINDEN,0,1,SUPV HSG CRTKR,7.0,SOC
+1153,Non-Tax Credit LLC,Linden,SUPV HSG GDKPR,1,1 ,0 ,095,LINDEN,0,1,SUPV HSG GDKPR,8.0,SOG
+1154,Non-Tax Credit LLC,Wise Towers,CARETAKER HA,0,1 ,(1),127,WISE TOWERS CONSOLIDATED,-1,1,CARETAKER HA,10.0,CT
+1155,Non-Tax Credit LLC,Williams Plaza,RES BLDG SUPT,0,1 ,(1),128,WILLIAMS PLAZA,-1,1,RES BLDG SUPT,5.0,SUPER
+1156,Queens\Staten Island Property Management,Astoria,AST HSG MGR,1,1 ,0 ,026,ASTORIA,0,1,AST HSG MGR,2.0,APM
+1157,Queens\Staten Island Property Management,Astoria,AST RES BLDG SP,1,1 ,0 ,026,ASTORIA,0,1,AST RES BLDG SP,6.0,ASUPER
+1158,Queens\Staten Island Property Management,Astoria,CARETAKER HA,22,22 ,0 ,026,ASTORIA,0,22,CARETAKER HA,10.0,CT
+1159,Queens\Staten Island Property Management,Astoria,HSG AST,3,3 ,0 ,026,ASTORIA,0,3,HSG AST,4.0,HA
+1160,Queens\Staten Island Property Management,Astoria,HSG MGR,1,1 ,0 ,026,ASTORIA,0,1,HSG MGR,1.0,PM
+1161,Queens\Staten Island Property Management,Astoria,MAINT WORKER,5,4 ,1 ,026,ASTORIA,1,4,MAINT WORKER,9.0,MW
+1162,Queens\Staten Island Property Management,Astoria,RES BLDG SUPT,1,1 ,0 ,026,ASTORIA,0,1,RES BLDG SUPT,5.0,SUPER
+1163,Queens\Staten Island Property Management,Astoria,SECY,2,1 ,1 ,026,ASTORIA,1,1,SECY,3.0,SEC
+1164,Queens\Staten Island Property Management,Astoria,SUPV HSG CRTKR,1,1 ,0 ,026,ASTORIA,0,1,SUPV HSG CRTKR,7.0,SOC
+1165,Queens\Staten Island Property Management,Astoria,SUPV HSG GDKPR,1,1 ,0 ,026,ASTORIA,0,1,SUPV HSG GDKPR,8.0,SOG
+1166,Queens\Staten Island Property Management,Baisley Park Consolidated,AST HSG MGR,1,1 ,0 ,091,BAISLEY PARK CONSOLIDATED,0,1,AST HSG MGR,2.0,APM
+1167,Queens\Staten Island Property Management,Baisley Park Consolidated,AST RES BLDG SP,1,1 ,0 ,091,BAISLEY PARK CONSOLIDATED,0,1,AST RES BLDG SP,6.0,ASUPER
+1168,Queens\Staten Island Property Management,Baisley Park Consolidated,CARETAKER HA,21,21 ,0 ,091,BAISLEY PARK CONSOLIDATED,0,21,CARETAKER HA,10.0,CT
+1169,Queens\Staten Island Property Management,Baisley Park Consolidated,HSG AST,3,3 ,0 ,091,BAISLEY PARK CONSOLIDATED,0,3,HSG AST,4.0,HA
+1170,Queens\Staten Island Property Management,Baisley Park Consolidated,HSG MGR,1,1 ,0 ,091,BAISLEY PARK CONSOLIDATED,0,1,HSG MGR,1.0,PM
+1171,Queens\Staten Island Property Management,Baisley Park Consolidated,MAINT WORKER,5,5 ,0 ,091,BAISLEY PARK CONSOLIDATED,0,5,MAINT WORKER,9.0,MW
+1172,Queens\Staten Island Property Management,Baisley Park Consolidated,RES BLDG SUPT,1,0,1 ,091,BAISLEY PARK CONSOLIDATED,1,0,RES BLDG SUPT,5.0,SUPER
+1173,Queens\Staten Island Property Management,Baisley Park Consolidated,SECY,2,2 ,0 ,091,BAISLEY PARK CONSOLIDATED,0,2,SECY,3.0,SEC
+1174,Queens\Staten Island Property Management,Baisley Park Consolidated,SUPV HSG CRTKR,1,1 ,0 ,091,BAISLEY PARK CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+1175,Queens\Staten Island Property Management,Baisley Park Consolidated,SUPV HSG GDKPR,1,1 ,0 ,091,BAISLEY PARK CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+1176,Queens\Staten Island Property Management,Beach 41st Street Consolidation,AST HSG MGR,1,1 ,0 ,165,BEACH 41ST STREET-BEACH CHANNEL DRIVE,0,1,AST HSG MGR,2.0,APM
+1177,Queens\Staten Island Property Management,Beach 41st Street Consolidation,AST RES BLDG SP,1,1 ,0 ,165,BEACH 41ST STREET-BEACH CHANNEL DRIVE,0,1,AST RES BLDG SP,6.0,ASUPER
+1178,Queens\Staten Island Property Management,Beach 41st Street Consolidation,CARETAKER HA,22,23 ,(1),165,BEACH 41ST STREET-BEACH CHANNEL DRIVE,-1,23,CARETAKER HA,10.0,CT
+1179,Queens\Staten Island Property Management,Beach 41st Street Consolidation,HSG AST,3,4 ,(1),165,BEACH 41ST STREET-BEACH CHANNEL DRIVE,-1,4,HSG AST,4.0,HA
+1180,Queens\Staten Island Property Management,Beach 41st Street Consolidation,HSG MGR,1,1 ,0 ,165,BEACH 41ST STREET-BEACH CHANNEL DRIVE,0,1,HSG MGR,1.0,PM
+1181,Queens\Staten Island Property Management,Beach 41st Street Consolidation,MAINT WORKER,5,5 ,0 ,165,BEACH 41ST STREET-BEACH CHANNEL DRIVE,0,5,MAINT WORKER,9.0,MW
+1182,Queens\Staten Island Property Management,Beach 41st Street Consolidation,RES BLDG SUPT,1,1 ,0 ,165,BEACH 41ST STREET-BEACH CHANNEL DRIVE,0,1,RES BLDG SUPT,5.0,SUPER
+1183,Queens\Staten Island Property Management,Beach 41st Street Consolidation,SECY,2,2 ,0 ,165,BEACH 41ST STREET-BEACH CHANNEL DRIVE,0,2,SECY,3.0,SEC
+1184,Queens\Staten Island Property Management,Beach 41st Street Consolidation,SUPV HSG CRTKR,1,1 ,0 ,165,BEACH 41ST STREET-BEACH CHANNEL DRIVE,0,1,SUPV HSG CRTKR,7.0,SOC
+1185,Queens\Staten Island Property Management,Beach 41st Street Consolidation,SUPV HSG GDKPR,1,1 ,0 ,165,BEACH 41ST STREET-BEACH CHANNEL DRIVE,0,1,SUPV HSG GDKPR,8.0,SOG
+1186,Queens\Staten Island Property Management,Berry,AST RES BLDG SP,1,1 ,0 ,052,BERRY,0,1,AST RES BLDG SP,6.0,ASUPER
+1187,Queens\Staten Island Property Management,Berry,CARETAKER HA,13,14 ,(1),052,BERRY,-1,14,CARETAKER HA,10.0,CT
+1188,Queens\Staten Island Property Management,Berry,HSG AST,2,2 ,0 ,052,BERRY,0,2,HSG AST,4.0,HA
+1189,Queens\Staten Island Property Management,Berry,HSG MGR,1,1 ,0 ,052,BERRY,0,1,HSG MGR,1.0,PM
+1190,Queens\Staten Island Property Management,Berry,MAINT WORKER,2,2 ,0 ,052,BERRY,0,2,MAINT WORKER,9.0,MW
+1191,Queens\Staten Island Property Management,Berry,RES BLDG SUPT,1,1 ,0 ,052,BERRY,0,1,RES BLDG SUPT,5.0,SUPER
+1192,Queens\Staten Island Property Management,Berry,SECY,2,2 ,0 ,052,BERRY,0,2,SECY,3.0,SEC
+1193,Queens\Staten Island Property Management,Berry,SUPV HSG CRTKR,1,1 ,0 ,052,BERRY,0,1,SUPV HSG CRTKR,7.0,SOC
+1194,Queens\Staten Island Property Management,Berry,SUPV HSG GDKPR,1,1 ,0 ,052,BERRY,0,1,SUPV HSG GDKPR,8.0,SOG
+1195,Queens\Staten Island Property Management,Hammel Consolidated,AST HSG MGR,0,1 ,(1),075,HAMMEL CONSOLIDATED,-1,1,AST HSG MGR,2.0,APM
+1196,Queens\Staten Island Property Management,Hammel Consolidated,AST RES BLDG SP,1,1 ,0 ,075,HAMMEL CONSOLIDATED,0,1,AST RES BLDG SP,6.0,ASUPER
+1197,Queens\Staten Island Property Management,Hammel Consolidated,CARETAKER HA,17,20 ,(3),075,HAMMEL CONSOLIDATED,-3,20,CARETAKER HA,10.0,CT
+1198,Queens\Staten Island Property Management,Hammel Consolidated,HSG AST,2,2 ,0 ,075,HAMMEL CONSOLIDATED,0,2,HSG AST,4.0,HA
+1199,Queens\Staten Island Property Management,Hammel Consolidated,HSG MGR,1,1 ,0 ,075,HAMMEL CONSOLIDATED,0,1,HSG MGR,1.0,PM
+1200,Queens\Staten Island Property Management,Hammel Consolidated,MAINT WORKER,4,4 ,0 ,075,HAMMEL CONSOLIDATED,0,4,MAINT WORKER,9.0,MW
+1201,Queens\Staten Island Property Management,Hammel Consolidated,RES BLDG SUPT,1,1 ,0 ,075,HAMMEL CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+1202,Queens\Staten Island Property Management,Hammel Consolidated,SECY,2,2 ,0 ,075,HAMMEL CONSOLIDATED,0,2,SECY,3.0,SEC
+1203,Queens\Staten Island Property Management,Hammel Consolidated,SUPV HSG CRTKR,1,1 ,0 ,075,HAMMEL CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+1204,Queens\Staten Island Property Management,Hammel Consolidated,SUPV HSG GDKPR,1,0,1 ,075,HAMMEL CONSOLIDATED,1,0,SUPV HSG GDKPR,8.0,SOG
+1205,Queens\Staten Island Property Management,Latimer Gardens Consolidated,AST RES BLDG SP,1,1 ,0 ,186,LATIMER GARDENS CONSOLIDATED,0,1,AST RES BLDG SP,6.0,ASUPER
+1206,Queens\Staten Island Property Management,Latimer Gardens Consolidated,CARETAKER HA,18,19 ,(1),186,LATIMER GARDENS CONSOLIDATED,-1,19,CARETAKER HA,10.0,CT
+1207,Queens\Staten Island Property Management,Latimer Gardens Consolidated,HSG AST,2,2 ,0 ,186,LATIMER GARDENS CONSOLIDATED,0,2,HSG AST,4.0,HA
+1208,Queens\Staten Island Property Management,Latimer Gardens Consolidated,HSG MGR,1,1 ,0 ,186,LATIMER GARDENS CONSOLIDATED,0,1,HSG MGR,1.0,PM
+1209,Queens\Staten Island Property Management,Latimer Gardens Consolidated,MAINT WORKER,4,4 ,0 ,186,LATIMER GARDENS CONSOLIDATED,0,4,MAINT WORKER,9.0,MW
+1210,Queens\Staten Island Property Management,Latimer Gardens Consolidated,RES BLDG SUPT,1,1 ,0 ,186,LATIMER GARDENS CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+1211,Queens\Staten Island Property Management,Latimer Gardens Consolidated,SECY,2,2 ,0 ,186,LATIMER GARDENS CONSOLIDATED,0,2,SECY,3.0,SEC
+1212,Queens\Staten Island Property Management,Latimer Gardens Consolidated,SUPV HSG CRTKR,1,1 ,0 ,186,LATIMER GARDENS CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+1213,Queens\Staten Island Property Management,Latimer Gardens Consolidated,SUPV HSG GDKPR,1,1 ,0 ,186,LATIMER GARDENS CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+1214,Queens\Staten Island Property Management,Mariner's Harbor,AST RES BLDG SP,1,1 ,0 ,077,MARINER'S HARBOR,0,1,AST RES BLDG SP,6.0,ASUPER
+1215,Queens\Staten Island Property Management,Mariner's Harbor,CARETAKER HA,14,15 ,(1),077,MARINER'S HARBOR,-1,15,CARETAKER HA,10.0,CT
+1216,Queens\Staten Island Property Management,Mariner's Harbor,CLERICAL ASO,1,1 ,0 ,077,MARINER'S HARBOR,0,1,CLERICAL ASO,3.0,SEC
+1217,Queens\Staten Island Property Management,Mariner's Harbor,HSG AST,2,2 ,0 ,077,MARINER'S HARBOR,0,2,HSG AST,4.0,HA
+1218,Queens\Staten Island Property Management,Mariner's Harbor,HSG MGR,1,1 ,0 ,077,MARINER'S HARBOR,0,1,HSG MGR,1.0,PM
+1219,Queens\Staten Island Property Management,Mariner's Harbor,MAINT WORKER,3,2 ,1 ,077,MARINER'S HARBOR,1,2,MAINT WORKER,9.0,MW
+1220,Queens\Staten Island Property Management,Mariner's Harbor,RES BLDG SUPT,1,1 ,0 ,077,MARINER'S HARBOR,0,1,RES BLDG SUPT,5.0,SUPER
+1221,Queens\Staten Island Property Management,Mariner's Harbor,SECY,1,1 ,0 ,077,MARINER'S HARBOR,0,1,SECY,3.0,SEC
+1222,Queens\Staten Island Property Management,Mariner's Harbor,SUPV HSG CRTKR,1,1 ,0 ,077,MARINER'S HARBOR,0,1,SUPV HSG CRTKR,7.0,SOC
+1223,Queens\Staten Island Property Management,Mariner's Harbor,SUPV HSG GDKPR,1,1 ,0 ,077,MARINER'S HARBOR,0,1,SUPV HSG GDKPR,8.0,SOG
+1224,Queens\Staten Island Property Management,Pomonok,AST HSG MGR,2,2 ,0 ,053,POMONOK,0,2,AST HSG MGR,2.0,APM
+1225,Queens\Staten Island Property Management,Pomonok,AST RES BLDG SP,2,2 ,0 ,053,POMONOK,0,2,AST RES BLDG SP,6.0,ASUPER
+1226,Queens\Staten Island Property Management,Pomonok,CARETAKER HA,37,39 ,(2),053,POMONOK,-2,39,CARETAKER HA,10.0,CT
+1227,Queens\Staten Island Property Management,Pomonok,HSG AST,5,5 ,0 ,053,POMONOK,0,5,HSG AST,4.0,HA
+1228,Queens\Staten Island Property Management,Pomonok,HSG MGR,1,1 ,0 ,053,POMONOK,0,1,HSG MGR,1.0,PM
+1229,Queens\Staten Island Property Management,Pomonok,MAINT WORKER,9,8 ,1 ,053,POMONOK,1,8,MAINT WORKER,9.0,MW
+1230,Queens\Staten Island Property Management,Pomonok,RES BLDG SUPT,1,1 ,0 ,053,POMONOK,0,1,RES BLDG SUPT,5.0,SUPER
+1231,Queens\Staten Island Property Management,Pomonok,SECY,3,3 ,0 ,053,POMONOK,0,3,SECY,3.0,SEC
+1232,Queens\Staten Island Property Management,Pomonok,SUPV HSG CRTKR,2,2 ,0 ,053,POMONOK,0,2,SUPV HSG CRTKR,7.0,SOC
+1233,Queens\Staten Island Property Management,Pomonok,SUPV HSG GDKPR,1,2 ,(1),053,POMONOK,-1,2,SUPV HSG GDKPR,8.0,SOG
+1234,Queens\Staten Island Property Management,Queensbridge North,AST HSG MGR,1,1 ,0 ,505,QUEENSBRIDGE NORTH,0,1,AST HSG MGR,2.0,APM
+1235,Queens\Staten Island Property Management,Queensbridge North,AST RES BLDG SP,2,1 ,1 ,505,QUEENSBRIDGE NORTH,1,1,AST RES BLDG SP,6.0,ASUPER
+1236,Queens\Staten Island Property Management,Queensbridge North,CARETAKER HA,28,25 ,3 ,505,QUEENSBRIDGE NORTH,3,25,CARETAKER HA,10.0,CT
+1237,Queens\Staten Island Property Management,Queensbridge North,CLERICAL ASO,1,1 ,0 ,505,QUEENSBRIDGE NORTH,0,1,CLERICAL ASO,3.0,SEC
+1238,Queens\Staten Island Property Management,Queensbridge North,HSG AST,4,3 ,1 ,505,QUEENSBRIDGE NORTH,1,3,HSG AST,4.0,HA
+1239,Queens\Staten Island Property Management,Queensbridge North,HSG MGR,1,1 ,0 ,505,QUEENSBRIDGE NORTH,0,1,HSG MGR,1.0,PM
+1240,Queens\Staten Island Property Management,Queensbridge North,MAINT WORKER,7,6 ,1 ,505,QUEENSBRIDGE NORTH,1,6,MAINT WORKER,9.0,MW
+1241,Queens\Staten Island Property Management,Queensbridge North,RES BLDG SUPT,1,1 ,0 ,505,QUEENSBRIDGE NORTH,0,1,RES BLDG SUPT,5.0,SUPER
+1242,Queens\Staten Island Property Management,Queensbridge North,SECY,1,1 ,0 ,505,QUEENSBRIDGE NORTH,0,1,SECY,3.0,SEC
+1243,Queens\Staten Island Property Management,Queensbridge North,SUPV HSG CRTKR,1,2 ,(1),505,QUEENSBRIDGE NORTH,-1,2,SUPV HSG CRTKR,7.0,SOC
+1244,Queens\Staten Island Property Management,Queensbridge North,SUPV HSG GDKPR,1,1 ,0 ,505,QUEENSBRIDGE NORTH,0,1,SUPV HSG GDKPR,8.0,SOG
+1245,Queens\Staten Island Property Management,Queensbridge South,AST HSG MGR,1,1 ,0 ,005,QUEENSBRIDGE SOUTH,0,1,AST HSG MGR,2.0,APM
+1246,Queens\Staten Island Property Management,Queensbridge South,AST RES BLDG SP,2,2 ,0 ,005,QUEENSBRIDGE SOUTH,0,2,AST RES BLDG SP,6.0,ASUPER
+1247,Queens\Staten Island Property Management,Queensbridge South,CARETAKER HA,30,26 ,4 ,005,QUEENSBRIDGE SOUTH,4,26,CARETAKER HA,10.0,CT
+1248,Queens\Staten Island Property Management,Queensbridge South,HSG AST,4,4 ,0 ,005,QUEENSBRIDGE SOUTH,0,4,HSG AST,4.0,HA
+1249,Queens\Staten Island Property Management,Queensbridge South,HSG MGR,1,1 ,0 ,005,QUEENSBRIDGE SOUTH,0,1,HSG MGR,1.0,PM
+1250,Queens\Staten Island Property Management,Queensbridge South,MAINT WORKER,7,6 ,1 ,005,QUEENSBRIDGE SOUTH,1,6,MAINT WORKER,9.0,MW
+1251,Queens\Staten Island Property Management,Queensbridge South,RES BLDG SUPT,1,0,1 ,005,QUEENSBRIDGE SOUTH,1,0,RES BLDG SUPT,5.0,SUPER
+1252,Queens\Staten Island Property Management,Queensbridge South,SECY,2,2 ,0 ,005,QUEENSBRIDGE SOUTH,0,2,SECY,3.0,SEC
+1253,Queens\Staten Island Property Management,Queensbridge South,SUPV HSG CRTKR,2,2 ,0 ,005,QUEENSBRIDGE SOUTH,0,2,SUPV HSG CRTKR,7.0,SOC
+1254,Queens\Staten Island Property Management,Queensbridge South,SUPV HSG GDKPR,1,1 ,0 ,005,QUEENSBRIDGE SOUTH,0,1,SUPV HSG GDKPR,8.0,SOG
+1255,Queens\Staten Island Property Management,Ravenswood,AST HSG MGR,2,2 ,0 ,048,RAVENSWOOD,0,2,AST HSG MGR,2.0,APM
+1256,Queens\Staten Island Property Management,Ravenswood,AST RES BLDG SP,2,2 ,0 ,048,RAVENSWOOD,0,2,AST RES BLDG SP,6.0,ASUPER
+1257,Queens\Staten Island Property Management,Ravenswood,CARETAKER HA,39,40 ,(1),048,RAVENSWOOD,-1,40,CARETAKER HA,10.0,CT
+1258,Queens\Staten Island Property Management,Ravenswood,HSG AST,5,4 ,1 ,048,RAVENSWOOD,1,4,HSG AST,4.0,HA
+1259,Queens\Staten Island Property Management,Ravenswood,HSG MGR,1,1 ,0 ,048,RAVENSWOOD,0,1,HSG MGR,1.0,PM
+1260,Queens\Staten Island Property Management,Ravenswood,MAINT WORKER,9,10 ,(1),048,RAVENSWOOD,-1,10,MAINT WORKER,9.0,MW
+1261,Queens\Staten Island Property Management,Ravenswood,RES BLDG SUPT,1,1 ,0 ,048,RAVENSWOOD,0,1,RES BLDG SUPT,5.0,SUPER
+1262,Queens\Staten Island Property Management,Ravenswood,SECY,3,3 ,0 ,048,RAVENSWOOD,0,3,SECY,3.0,SEC
+1263,Queens\Staten Island Property Management,Ravenswood,SUPV HSG CRTKR,2,2 ,0 ,048,RAVENSWOOD,0,2,SUPV HSG CRTKR,7.0,SOC
+1264,Queens\Staten Island Property Management,Ravenswood,SUPV HSG GDKPR,1,1 ,0 ,048,RAVENSWOOD,0,1,SUPV HSG GDKPR,8.0,SOG
+1265,Queens\Staten Island Property Management,Redfern,AST RES BLDG SP,1,1 ,0 ,055,REDFERN,0,1,AST RES BLDG SP,6.0,ASUPER
+1266,Queens\Staten Island Property Management,Redfern,CARETAKER HA,13,14 ,(1),055,REDFERN,-1,14,CARETAKER HA,10.0,CT
+1267,Queens\Staten Island Property Management,Redfern,HSG AST,2,1 ,1 ,055,REDFERN,1,1,HSG AST,4.0,HA
+1268,Queens\Staten Island Property Management,Redfern,HSG MGR,1,1 ,0 ,055,REDFERN,0,1,HSG MGR,1.0,PM
+1269,Queens\Staten Island Property Management,Redfern,MAINT WORKER,3,3 ,0 ,055,REDFERN,0,3,MAINT WORKER,9.0,MW
+1270,Queens\Staten Island Property Management,Redfern,RES BLDG SUPT,1,1 ,0 ,055,REDFERN,0,1,RES BLDG SUPT,5.0,SUPER
+1271,Queens\Staten Island Property Management,Redfern,SECY,2,2 ,0 ,055,REDFERN,0,2,SECY,3.0,SEC
+1272,Queens\Staten Island Property Management,Redfern,SUPV HSG CRTKR,1,0,1 ,055,REDFERN,1,0,SUPV HSG CRTKR,7.0,SOC
+1273,Queens\Staten Island Property Management,Redfern,SUPV HSG GDKPR,1,1 ,0 ,055,REDFERN,0,1,SUPV HSG GDKPR,8.0,SOG
+1274,Queens\Staten Island Property Management,Richmond Terrace Consolidated,AST RES BLDG SP,1,1 ,0 ,117,RICHMOND TERRACE CONSOLIDATED,0,1,AST RES BLDG SP,6.0,ASUPER
+1275,Queens\Staten Island Property Management,Richmond Terrace Consolidated,CARETAKER HA,17,17 ,0 ,117,RICHMOND TERRACE CONSOLIDATED,0,17,CARETAKER HA,10.0,CT
+1276,Queens\Staten Island Property Management,Richmond Terrace Consolidated,HSG AST,2,2 ,0 ,117,RICHMOND TERRACE CONSOLIDATED,0,2,HSG AST,4.0,HA
+1277,Queens\Staten Island Property Management,Richmond Terrace Consolidated,HSG MGR,1,1 ,0 ,117,RICHMOND TERRACE CONSOLIDATED,0,1,HSG MGR,1.0,PM
+1278,Queens\Staten Island Property Management,Richmond Terrace Consolidated,MAINT WORKER,4,4 ,0 ,117,RICHMOND TERRACE CONSOLIDATED,0,4,MAINT WORKER,9.0,MW
+1279,Queens\Staten Island Property Management,Richmond Terrace Consolidated,RES BLDG SUPT,1,1 ,0 ,117,RICHMOND TERRACE CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+1280,Queens\Staten Island Property Management,Richmond Terrace Consolidated,SECY,2,2 ,0 ,117,RICHMOND TERRACE CONSOLIDATED,0,2,SECY,3.0,SEC
+1281,Queens\Staten Island Property Management,Richmond Terrace Consolidated,SUPV HSG CRTKR,1,1 ,0 ,117,RICHMOND TERRACE CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+1282,Queens\Staten Island Property Management,Richmond Terrace Consolidated,SUPV HSG GDKPR,1,1 ,0 ,117,RICHMOND TERRACE CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+1283,Queens\Staten Island Property Management,South Beach Consolidated,AST RES BLDG SP,1,1 ,0 ,035,SOUTH BEACH CONSOLIDATED,0,1,AST RES BLDG SP,6.0,ASUPER
+1284,Queens\Staten Island Property Management,South Beach Consolidated,CARETAKER HA,14,13 ,1 ,035,SOUTH BEACH CONSOLIDATED,1,13,CARETAKER HA,10.0,CT
+1285,Queens\Staten Island Property Management,South Beach Consolidated,HSG AST,3,3 ,0 ,035,SOUTH BEACH CONSOLIDATED,0,3,HSG AST,4.0,HA
+1286,Queens\Staten Island Property Management,South Beach Consolidated,HSG MGR,1,1 ,0 ,035,SOUTH BEACH CONSOLIDATED,0,1,HSG MGR,1.0,PM
+1287,Queens\Staten Island Property Management,South Beach Consolidated,MAINT WORKER,3,3 ,0 ,035,SOUTH BEACH CONSOLIDATED,0,3,MAINT WORKER,9.0,MW
+1288,Queens\Staten Island Property Management,South Beach Consolidated,RES BLDG SUPT,1,1 ,0 ,035,SOUTH BEACH CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+1289,Queens\Staten Island Property Management,South Beach Consolidated,SECY,2,2 ,0 ,035,SOUTH BEACH CONSOLIDATED,0,2,SECY,3.0,SEC
+1290,Queens\Staten Island Property Management,South Beach Consolidated,SUPV HSG CRTKR,1,1 ,0 ,035,SOUTH BEACH CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+1291,Queens\Staten Island Property Management,South Beach Consolidated,SUPV HSG GDKPR,1,1 ,0 ,035,SOUTH BEACH CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+1292,Queens\Staten Island Property Management,South Jamaica Consolidated,AST HSG MGR,1,1 ,0 ,008,SOUTH JAMAICA CONSOLIDATED,0,1,AST HSG MGR,2.0,APM
+1293,Queens\Staten Island Property Management,South Jamaica Consolidated,AST RES BLDG SP,1,1 ,0 ,008,SOUTH JAMAICA CONSOLIDATED,0,1,AST RES BLDG SP,6.0,ASUPER
+1294,Queens\Staten Island Property Management,South Jamaica Consolidated,CARETAKER HA,20,28 ,(8),008,SOUTH JAMAICA CONSOLIDATED,-8,28,CARETAKER HA,10.0,CT
+1295,Queens\Staten Island Property Management,South Jamaica Consolidated,HSG AST,3,3 ,0 ,008,SOUTH JAMAICA CONSOLIDATED,0,3,HSG AST,4.0,HA
+1296,Queens\Staten Island Property Management,South Jamaica Consolidated,HSG MGR,1,1 ,0 ,008,SOUTH JAMAICA CONSOLIDATED,0,1,HSG MGR,1.0,PM
+1297,Queens\Staten Island Property Management,South Jamaica Consolidated,MAINT WORKER,5,5 ,0 ,008,SOUTH JAMAICA CONSOLIDATED,0,5,MAINT WORKER,9.0,MW
+1298,Queens\Staten Island Property Management,South Jamaica Consolidated,RES BLDG SUPT,1,1 ,0 ,008,SOUTH JAMAICA CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+1299,Queens\Staten Island Property Management,South Jamaica Consolidated,SECY,2,1 ,1 ,008,SOUTH JAMAICA CONSOLIDATED,1,1,SECY,3.0,SEC
+1300,Queens\Staten Island Property Management,South Jamaica Consolidated,SUPV HSG CRTKR,1,0,1 ,008,SOUTH JAMAICA CONSOLIDATED,1,0,SUPV HSG CRTKR,7.0,SOC
+1301,Queens\Staten Island Property Management,South Jamaica Consolidated,SUPV HSG GDKPR,1,1 ,0 ,008,SOUTH JAMAICA CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+1302,Queens\Staten Island Property Management,Todt Hill,AST RES BLDG SP,1,1 ,0 ,042,TODT HILL,0,1,AST RES BLDG SP,6.0,ASUPER
+1303,Queens\Staten Island Property Management,Todt Hill,CARETAKER HA,13,13 ,0 ,042,TODT HILL,0,13,CARETAKER HA,10.0,CT
+1304,Queens\Staten Island Property Management,Todt Hill,CLERICAL ASO,1,1 ,0 ,042,TODT HILL,0,1,CLERICAL ASO,3.0,SEC
+1305,Queens\Staten Island Property Management,Todt Hill,HSG AST,2,2 ,0 ,042,TODT HILL,0,2,HSG AST,4.0,HA
+1306,Queens\Staten Island Property Management,Todt Hill,HSG MGR,1,1 ,0 ,042,TODT HILL,0,1,HSG MGR,1.0,PM
+1307,Queens\Staten Island Property Management,Todt Hill,MAINT WORKER,2,2 ,0 ,042,TODT HILL,0,2,MAINT WORKER,9.0,MW
+1308,Queens\Staten Island Property Management,Todt Hill,RES BLDG SUPT,1,1 ,0 ,042,TODT HILL,0,1,RES BLDG SUPT,5.0,SUPER
+1309,Queens\Staten Island Property Management,Todt Hill,SECY,1,1 ,0 ,042,TODT HILL,0,1,SECY,3.0,SEC
+1310,Queens\Staten Island Property Management,Todt Hill,SUPV HSG CRTKR,1,1 ,0 ,042,TODT HILL,0,1,SUPV HSG CRTKR,7.0,SOC
+1311,Queens\Staten Island Property Management,Todt Hill,SUPV HSG GDKPR,1,1 ,0 ,042,TODT HILL,0,1,SUPV HSG GDKPR,8.0,SOG
+1312,Queens\Staten Island Property Management,West Brighton Consolidated,AST RES BLDG SP,1,1 ,0 ,116,WEST BRIGHTON CONSOLIDATED,0,1,AST RES BLDG SP,6.0,ASUPER
+1313,Queens\Staten Island Property Management,West Brighton Consolidated,CARETAKER HA,13,13 ,0 ,116,WEST BRIGHTON CONSOLIDATED,0,13,CARETAKER HA,10.0,CT
+1314,Queens\Staten Island Property Management,West Brighton Consolidated,HSG AST,2,2 ,0 ,116,WEST BRIGHTON CONSOLIDATED,0,2,HSG AST,4.0,HA
+1315,Queens\Staten Island Property Management,West Brighton Consolidated,HSG MGR,1,1 ,0 ,116,WEST BRIGHTON CONSOLIDATED,0,1,HSG MGR,1.0,PM
+1316,Queens\Staten Island Property Management,West Brighton Consolidated,MAINT WORKER,3,2 ,1 ,116,WEST BRIGHTON CONSOLIDATED,1,2,MAINT WORKER,9.0,MW
+1317,Queens\Staten Island Property Management,West Brighton Consolidated,RES BLDG SUPT,1,1 ,0 ,116,WEST BRIGHTON CONSOLIDATED,0,1,RES BLDG SUPT,5.0,SUPER
+1318,Queens\Staten Island Property Management,West Brighton Consolidated,SECY,2,1 ,1 ,116,WEST BRIGHTON CONSOLIDATED,1,1,SECY,3.0,SEC
+1319,Queens\Staten Island Property Management,West Brighton Consolidated,SUPV HSG CRTKR,1,1 ,0 ,116,WEST BRIGHTON CONSOLIDATED,0,1,SUPV HSG CRTKR,7.0,SOC
+1320,Queens\Staten Island Property Management,West Brighton Consolidated,SUPV HSG GDKPR,1,1 ,0 ,116,WEST BRIGHTON CONSOLIDATED,0,1,SUPV HSG GDKPR,8.0,SOG
+1321,Queens\Staten Island Property Management,Woodside,AST HSG MGR,1,1 ,0 ,033,WOODSIDE,0,1,AST HSG MGR,2.0,APM
+1322,Queens\Staten Island Property Management,Woodside,AST RES BLDG SP,2,2 ,0 ,033,WOODSIDE,0,2,AST RES BLDG SP,6.0,ASUPER
+1323,Queens\Staten Island Property Management,Woodside,CARETAKER HA,26,30 ,(4),033,WOODSIDE,-4,30,CARETAKER HA,10.0,CT
+1324,Queens\Staten Island Property Management,Woodside,HSG AST,3,3 ,0 ,033,WOODSIDE,0,3,HSG AST,4.0,HA
+1325,Queens\Staten Island Property Management,Woodside,HSG MGR,1,1 ,0 ,033,WOODSIDE,0,1,HSG MGR,1.0,PM
+1326,Queens\Staten Island Property Management,Woodside,MAINT WORKER,6,5 ,1 ,033,WOODSIDE,1,5,MAINT WORKER,9.0,MW
+1327,Queens\Staten Island Property Management,Woodside,RES BLDG SUPT,1,0,1 ,033,WOODSIDE,1,0,RES BLDG SUPT,5.0,SUPER
+1328,Queens\Staten Island Property Management,Woodside,SECY,2,1 ,1 ,033,WOODSIDE,1,1,SECY,3.0,SEC
+1329,Queens\Staten Island Property Management,Woodside,SUPV HSG CRTKR,1,1 ,0 ,033,WOODSIDE,0,1,SUPV HSG CRTKR,7.0,SOC
+1330,Queens\Staten Island Property Management,Woodside,SUPV HSG GDKPR,1,1 ,0 ,033,WOODSIDE,0,1,SUPV HSG GDKPR,8.0,SOG
+1331,Tax Credit LLC,Bay View,AST HSG MGR,1,1 ,0 ,092,BAY VIEW,0,1,AST HSG MGR,2.0,APM
+1332,Tax Credit LLC,Bay View,AST RES BLDG SP,2,2 ,0 ,092,BAY VIEW,0,2,AST RES BLDG SP,6.0,ASUPER
+1333,Tax Credit LLC,Bay View,CARETAKER HA,31,31 ,0 ,092,BAY VIEW,0,31,CARETAKER HA,10.0,CT
+1334,Tax Credit LLC,Bay View,HSG AST,4,4 ,0 ,092,BAY VIEW,0,4,HSG AST,4.0,HA
+1335,Tax Credit LLC,Bay View,HSG MGR,1,1 ,0 ,092,BAY VIEW,0,1,HSG MGR,1.0,PM
+1336,Tax Credit LLC,Bay View,MAINT WORKER,7,6 ,1 ,092,BAY VIEW,1,6,MAINT WORKER,9.0,MW
+1337,Tax Credit LLC,Bay View,RES BLDG SUPT,1,1 ,0 ,092,BAY VIEW,0,1,RES BLDG SUPT,5.0,SUPER
+1338,Tax Credit LLC,Bay View,SECY,2,2 ,0 ,092,BAY VIEW,0,2,SECY,3.0,SEC
+1339,Tax Credit LLC,Bay View,SUPV HSG CRTKR,2,2 ,0 ,092,BAY VIEW,0,2,SUPV HSG CRTKR,7.0,SOC
+1340,Tax Credit LLC,Bay View,SUPV HSG GDKPR,1,1 ,0 ,092,BAY VIEW,0,1,SUPV HSG GDKPR,8.0,SOG
+1341,Tax Credit LLC,Castle Hill,AST HSG MGR,2,1 ,1 ,080,CASTLE HILL,1,1,AST HSG MGR,2.0,APM
+1342,Tax Credit LLC,Castle Hill,AST RES BLDG SP,2,2 ,0 ,080,CASTLE HILL,0,2,AST RES BLDG SP,6.0,ASUPER
+1343,Tax Credit LLC,Castle Hill,CARETAKER HA,37,38 ,(1),080,CASTLE HILL,-1,38,CARETAKER HA,10.0,CT
+1344,Tax Credit LLC,Castle Hill,CITY ATTENDANT,1,0,1 ,080,CASTLE HILL,1,0,CITY ATTENDANT,3.0,SEC
+1345,Tax Credit LLC,Castle Hill,HSG AST,5,4 ,1 ,080,CASTLE HILL,1,4,HSG AST,4.0,HA
+1346,Tax Credit LLC,Castle Hill,HSG MGR,1,1 ,0 ,080,CASTLE HILL,0,1,HSG MGR,1.0,PM
+1347,Tax Credit LLC,Castle Hill,MAINT WORKER,9,8 ,1 ,080,CASTLE HILL,1,8,MAINT WORKER,9.0,MW
+1348,Tax Credit LLC,Castle Hill,RES BLDG SUPT,1,1 ,0 ,080,CASTLE HILL,0,1,RES BLDG SUPT,5.0,SUPER
+1349,Tax Credit LLC,Castle Hill,SECY,2,2 ,0 ,080,CASTLE HILL,0,2,SECY,3.0,SEC
+1350,Tax Credit LLC,Castle Hill,SUPV HSG CRTKR,2,2 ,0 ,080,CASTLE HILL,0,2,SUPV HSG CRTKR,7.0,SOC
+1351,Tax Credit LLC,Castle Hill,SUPV HSG GDKPR,1,1 ,0 ,080,CASTLE HILL,0,1,SUPV HSG GDKPR,8.0,SOG
+1352,Tax Credit LLC,Marble Hill,AST HSG MGR,1,1 ,0 ,049,MARBLE HILL,0,1,AST HSG MGR,2.0,APM
+1353,Tax Credit LLC,Marble Hill,AST RES BLDG SP,2,1 ,1 ,049,MARBLE HILL,1,1,AST RES BLDG SP,6.0,ASUPER
+1354,Tax Credit LLC,Marble Hill,CARETAKER HA,30,26 ,4 ,049,MARBLE HILL,4,26,CARETAKER HA,10.0,CT
+1355,Tax Credit LLC,Marble Hill,CLERICAL ASO,1,1 ,0 ,049,MARBLE HILL,0,1,CLERICAL ASO,3.0,SEC
+1356,Tax Credit LLC,Marble Hill,HSG AST,4,3 ,1 ,049,MARBLE HILL,1,3,HSG AST,4.0,HA
+1357,Tax Credit LLC,Marble Hill,HSG MGR,1,1 ,0 ,049,MARBLE HILL,0,1,HSG MGR,1.0,PM
+1358,Tax Credit LLC,Marble Hill,MAINT WORKER,7,3 ,4 ,049,MARBLE HILL,4,3,MAINT WORKER,9.0,MW
+1359,Tax Credit LLC,Marble Hill,RES BLDG SUPT,1,1 ,0 ,049,MARBLE HILL,0,1,RES BLDG SUPT,5.0,SUPER
+1360,Tax Credit LLC,Marble Hill,SECY,1,0,1 ,049,MARBLE HILL,1,0,SECY,3.0,SEC
+1361,Tax Credit LLC,Marble Hill,SUPV HSG CRTKR,2,2 ,0 ,049,MARBLE HILL,0,2,SUPV HSG CRTKR,7.0,SOC
+1362,Tax Credit LLC,Marble Hill,SUPV HSG GDKPR,1,1 ,0 ,049,MARBLE HILL,0,1,SUPV HSG GDKPR,8.0,SOG
+1363,Tax Credit LLC,Marlboro,AST HSG MGR,1,1 ,0 ,083,MARLBORO,0,1,AST HSG MGR,2.0,APM
+1364,Tax Credit LLC,Marlboro,AST RES BLDG SP,2,1 ,1 ,083,MARLBORO,1,1,AST RES BLDG SP,6.0,ASUPER
+1365,Tax Credit LLC,Marlboro,CARETAKER HA,33,32 ,1 ,083,MARLBORO,1,32,CARETAKER HA,10.0,CT
+1366,Tax Credit LLC,Marlboro,CLERICAL ASO,1,1 ,0 ,083,MARLBORO,0,1,CLERICAL ASO,3.0,SEC
+1367,Tax Credit LLC,Marlboro,HSG AST,4,5 ,(1),083,MARLBORO,-1,5,HSG AST,4.0,HA
+1368,Tax Credit LLC,Marlboro,HSG MGR,1,0,1 ,083,MARLBORO,1,0,HSG MGR,1.0,PM
+1369,Tax Credit LLC,Marlboro,MAINT WORKER,8,6 ,2 ,083,MARLBORO,2,6,MAINT WORKER,9.0,MW
+1370,Tax Credit LLC,Marlboro,RES BLDG SUPT,1,1 ,0 ,083,MARLBORO,0,1,RES BLDG SUPT,5.0,SUPER
+1371,Tax Credit LLC,Marlboro,SECY,1,0,1 ,083,MARLBORO,1,0,SECY,3.0,SEC
+1372,Tax Credit LLC,Marlboro,SUPV HSG CRTKR,2,2 ,0 ,083,MARLBORO,0,2,SUPV HSG CRTKR,7.0,SOC
+1373,Tax Credit LLC,Marlboro,SUPV HSG GDKPR,1,0,1 ,083,MARLBORO,1,0,SUPV HSG GDKPR,8.0,SOG
+1374,Tax Credit LLC,Rutgers,AST RES BLDG SP,1,0,1 ,099,RUTGERS,1,0,AST RES BLDG SP,6.0,ASUPER
+1375,Tax Credit LLC,Rutgers,CARETAKER HA,15,15 ,0 ,099,RUTGERS,0,15,CARETAKER HA,10.0,CT
+1376,Tax Credit LLC,Rutgers,CLERICAL ASO,2,2 ,0 ,099,RUTGERS,0,2,CLERICAL ASO,3.0,SEC
+1377,Tax Credit LLC,Rutgers,HSG AST,2,1 ,1 ,099,RUTGERS,1,1,HSG AST,4.0,HA
+1378,Tax Credit LLC,Rutgers,HSG AST BILINGL,0,1 ,(1),099,RUTGERS,-1,1,HSG AST BILINGL,4.0,HA
+1379,Tax Credit LLC,Rutgers,HSG MGR,1,1 ,0 ,099,RUTGERS,0,1,HSG MGR,1.0,PM
+1380,Tax Credit LLC,Rutgers,MAINT WORKER,3,3 ,0 ,099,RUTGERS,0,3,MAINT WORKER,9.0,MW
+1381,Tax Credit LLC,Rutgers,RES BLDG SUPT,1,1 ,0 ,099,RUTGERS,0,1,RES BLDG SUPT,5.0,SUPER
+1382,Tax Credit LLC,Rutgers,SUPV HSG CRTKR,1,1 ,0 ,099,RUTGERS,0,1,SUPV HSG CRTKR,7.0,SOC
+1383,Tax Credit LLC,Rutgers,SUPV HSG GDKPR,1,1 ,0 ,099,RUTGERS,0,1,SUPV HSG GDKPR,8.0,SOG
+1384,Tax Credit LLC,"Samuel, Frederick  (City)",AST RES BLDG SP,1,1 ,0 ,377,FREDERICK SAMUEL (CITY),0,1,AST RES BLDG SP,6.0,ASUPER
+1385,Tax Credit LLC,"Samuel, Frederick  (City)",CARETAKER HA,14,14 ,0 ,377,FREDERICK SAMUEL (CITY),0,14,CARETAKER HA,10.0,CT
+1386,Tax Credit LLC,"Samuel, Frederick  (City)",HSG AST,2,2 ,0 ,377,FREDERICK SAMUEL (CITY),0,2,HSG AST,4.0,HA
+1387,Tax Credit LLC,"Samuel, Frederick  (City)",HSG MGR,1,1 ,0 ,377,FREDERICK SAMUEL (CITY),0,1,HSG MGR,1.0,PM
+1388,Tax Credit LLC,"Samuel, Frederick  (City)",MAINT WORKER,3,2 ,1 ,377,FREDERICK SAMUEL (CITY),1,2,MAINT WORKER,9.0,MW
+1389,Tax Credit LLC,"Samuel, Frederick  (City)",RES BLDG SUPT,1,0,1 ,377,FREDERICK SAMUEL (CITY),1,0,RES BLDG SUPT,5.0,SUPER
+1390,Tax Credit LLC,"Samuel, Frederick  (City)",SECY,2,1 ,1 ,377,FREDERICK SAMUEL (CITY),1,1,SECY,3.0,SEC
+1391,Tax Credit LLC,"Samuel, Frederick  (City)",SUPV HSG CRTKR,2,1 ,1 ,377,FREDERICK SAMUEL (CITY),1,1,SUPV HSG CRTKR,7.0,SOC
+1392,Tax Credit LLC,"Samuel, Frederick  (City)",SUPV HSG GDKPR,0,1 ,(1),377,FREDERICK SAMUEL (CITY),-1,1,SUPV HSG GDKPR,8.0,SOG
+1393,Tax Credit LLC,Stapleton,AST RES BLDG SP,1,1 ,0 ,114,STAPLETON,0,1,AST RES BLDG SP,6.0,ASUPER
+1394,Tax Credit LLC,Stapleton,CARETAKER HA,14,14 ,0 ,114,STAPLETON,0,14,CARETAKER HA,10.0,CT
+1395,Tax Credit LLC,Stapleton,HSG AST,2,2 ,0 ,114,STAPLETON,0,2,HSG AST,4.0,HA
+1396,Tax Credit LLC,Stapleton,HSG MGR,1,1 ,0 ,114,STAPLETON,0,1,HSG MGR,1.0,PM
+1397,Tax Credit LLC,Stapleton,MAINT WORKER,3,3 ,0 ,114,STAPLETON,0,3,MAINT WORKER,9.0,MW
+1398,Tax Credit LLC,Stapleton,RES BLDG SUPT,1,1 ,0 ,114,STAPLETON,0,1,RES BLDG SUPT,5.0,SUPER
+1399,Tax Credit LLC,Stapleton,SECY,2,2 ,0 ,114,STAPLETON,0,2,SECY,3.0,SEC
+1400,Tax Credit LLC,Stapleton,SUPV HSG CRTKR,1,1 ,0 ,114,STAPLETON,0,1,SUPV HSG CRTKR,7.0,SOC
+1401,Tax Credit LLC,Stapleton,SUPV HSG GDKPR,1,1 ,0 ,114,STAPLETON,0,1,SUPV HSG GDKPR,8.0,SOG
