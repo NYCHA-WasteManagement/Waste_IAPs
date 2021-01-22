@@ -9,6 +9,6 @@ Asst. Superintendent,ASUPER,ASUPER_FORMULA,ASUPER_ACT,
 Supervisor of Caretakers (SOC),SOC,SOC_FORMULA,SOC_ACT,
 Supervisor of Grounds (SOG),SOG,SOG_FORMULA,SOG_ACT,
 Maintenance Workers,MW,MW_FORMULA,MW_ACT,
-Caretakers X,CTX,CTX_FORMULA,CT_ACT,
-Caretakers J,CTJ,CJG_FORMULA,,Includes Caretaker I and Chief Caretaker
-Caretakers G,CTG,,,
+Caretakers X,CTX,CTX_FORMULA,CTX_ACT,
+Caretakers J,CTJ,CJG_FORMULA,CTJ_ACT,Includes Caretaker I and Chief Caretaker
+Caretakers G,CTG,,CTG_ACT,
